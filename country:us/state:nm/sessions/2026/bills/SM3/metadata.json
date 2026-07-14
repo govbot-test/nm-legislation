@@ -1,0 +1,189 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SM3",
+  "title": "STATE AGENCY INSECT WORKSHOP",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "memorial"
+  ],
+  "subject": [
+    "MEMORIALS, OTHER"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nm-2026-sm3"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Sent to Senate Rules Committee & Senate Conservation Committee",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "Signed",
+      "date": "2026-02-14",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "passed Senate",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berghmans, Heather",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berghmans, Heather\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ortez, Kristina",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ortez, Kristina\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM003.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM003.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/final/SM003.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CO committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM003CO1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM003CO1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "RU committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM003RU1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM003RU1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/firs/SM003.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=M&legNo=3&year=26",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:17:58Z"
+  }
+}

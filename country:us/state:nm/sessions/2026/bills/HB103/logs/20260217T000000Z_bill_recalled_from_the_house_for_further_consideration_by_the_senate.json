@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "bill recalled from the House for further consideration by the Senate.",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=103&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB103"
+}

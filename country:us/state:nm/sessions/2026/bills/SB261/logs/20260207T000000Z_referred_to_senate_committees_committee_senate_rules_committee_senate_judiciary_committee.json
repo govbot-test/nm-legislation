@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "referred to Senate Committees' Committee & Senate Rules Committee & Senate Judiciary Committee",
+    "occurred_at": "2026-02-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=261&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB261"
+}

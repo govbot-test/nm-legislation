@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB225",
+  "title": "EIB & SALE OF ZERO-EMISSION VEHICLES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BOARDS & COMMISSIONS",
+    "BUSINESS & INDUSTRY",
+    "MOTOR VEHICLES (autos, trucks, buses, cycles)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nm-2026-hb225"
+    }
+  ],
+  "actions": [
+    {
+      "description": "not printed House Rules and Order of Business Committee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "action postponed indefinitely",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pettigrew, Randall T.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pettigrew, Randall T.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mason, Jimmy G.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mason, Jimmy G.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Block, John",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Block, John\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0225.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0225.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=225&year=26",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:17:58Z"
+  }
+}

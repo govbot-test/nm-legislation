@@ -1,0 +1,157 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HM25",
+  "title": "VICTIMS OF VIOLENT CRIMES & THEIR FAMILIES",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "memorial"
+  ],
+  "subject": [
+    "CRIMES & PENALTIES",
+    "MEMORIALS, OTHER"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nm-2026-hm25"
+    }
+  ],
+  "actions": [
+    {
+      "description": "withdrawn from committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "passed House",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "Signed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "not printed, not referred to committee, tabled",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chavez, Nicole",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chavez, Nicole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reeb, Andrea",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Reeb, Andrea\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martinez, Alan T.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Martinez, Alan T.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dow, Rebecca",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dow, Rebecca\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mirabal Moya, Tanya",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mirabal Moya, Tanya\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/house/HM025.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/house/HM025.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/final/HM025.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=M&legNo=25&year=26",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:17:58Z"
+  }
+}

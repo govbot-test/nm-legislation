@@ -1,0 +1,235 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SM20",
+  "title": "STATEWIDE YOUTH VIOLENCE SUMMIT",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "memorial"
+  ],
+  "subject": [
+    "MEMORIALS, OTHER"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nm-2026-sm20"
+    }
+  ],
+  "actions": [
+    {
+      "description": "passed Senate",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "Signed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "Sent to Senate Rules Committee & Senate Health and Public Affairs Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "DO PASS, as amended, committee report adopted",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "DO PASS committee report adopted",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L\u00f3pez, Linda M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L\\u00f3pez, Linda M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope, Harold J., Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pope, Harold J., Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "O'Malley, Micaelita Debbie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"O'Malley, Micaelita Debbie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jaramillo, Leo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jaramillo, Leo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Shannon D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pinto, Shannon D.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM020.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM020.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendments in Context",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/Amendments_In_Context/SM020.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/final/SM020.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "PA committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM020PA1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM020PA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "RU committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM020RU1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/memorials/senate/SM020RU1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/firs/SM020.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LESC Analysis",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/LESCAnalysis/SM020.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=M&legNo=20&year=26",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:17:58Z"
+  }
+}

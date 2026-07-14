@@ -1,0 +1,238 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB195",
+  "title": "COLLECTION OF MEDICAL MALPRACTICE JUDGEMENTS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "HEALTH & HEALTH FACILITIES",
+    "INSURANCE"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nm-2026-hb195"
+    }
+  ],
+  "actions": [
+    {
+      "description": "not printed House Rules and Order of Business Committee",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "DO NOT PASS, replaced with committee substitute",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "withdrawn printed germane prefile",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "Sent to House Health & Human Services Committee & House Judiciary Committee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "DO PASS, as amended, committee report adopted",
+      "date": "2026-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "passed House",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "Sent to Senate Judiciary Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    },
+    {
+      "description": "action postponed indefinitely",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Szczepanski, Reena",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Szczepanski, Reena\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anaya, Marianna",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anaya, Marianna\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "introduced version",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HC substitute",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195HCS.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195HCS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendments in Context",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/Amendments_In_Context/HB0195.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "HC committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195HC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195HC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "JC committee report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195JC1.HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0195JC1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Impact Report",
+      "links": [
+        {
+          "url": "https://www.nmlegis.gov/Sessions/26%20Regular/firs/HB0195.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=195&year=26",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nm/government",
+    "name": "New Mexico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nm"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:17:58Z"
+  }
+}

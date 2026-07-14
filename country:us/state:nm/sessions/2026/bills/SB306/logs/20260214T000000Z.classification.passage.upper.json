@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed Senate",
+    "occurred_at": "2026-02-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=306&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB306"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "DO PASS committee report adopted",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=104&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB104"
+}

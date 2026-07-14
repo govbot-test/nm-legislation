@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Sent to House Government, Elections and Indian Affairs Committee & House Education Committee",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=JR&legNo=1&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR1"
+}

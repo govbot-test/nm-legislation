@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Sent to House Labor, Veterans & Military Affairs Committee & House Health & Human Services Committee",
+    "occurred_at": "2026-01-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=132&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB132"
+}

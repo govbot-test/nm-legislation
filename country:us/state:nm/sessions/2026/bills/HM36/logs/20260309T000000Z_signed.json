@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=M&legNo=36&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HM36"
+}

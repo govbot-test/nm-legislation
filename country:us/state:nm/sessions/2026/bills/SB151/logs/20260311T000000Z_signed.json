@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=151&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB151"
+}

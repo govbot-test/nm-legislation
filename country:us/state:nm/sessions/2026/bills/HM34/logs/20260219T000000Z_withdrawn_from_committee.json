@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "withdrawn from committee",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=M&legNo=34&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HM34"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "action postponed indefinitely",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=176&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB176"
+}

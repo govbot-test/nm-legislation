@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Sent to House Health & Human Services Committee & House Appropriations & Finance Committee",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legType=B&legNo=157&year=26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB157"
+}
