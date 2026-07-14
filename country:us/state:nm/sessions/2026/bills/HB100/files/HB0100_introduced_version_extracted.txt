@@ -1,0 +1,16 @@
+Title: HB0100
+Official Title: 
+Number of Sections: 1
+Source: versions - introduced version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HB0100 HOUSE BILL 100 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Anita Gonzales and Debra M. Sariñana and Joy Garratt AN ACT MAKING AN APPROPRIATION FOR THE SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS INNOVATION NETWORK. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. APPROPRIATION.--Three million dollars ($3,000,000) is appropriated from the general fund to the public education department for expenditure in fiscal year 2027 for the science, technology, engineering and mathematics innovation network. Any unexpended balance remaining at the end of fiscal year 2027 shall revert to the general fund. .233227.1
+
+
+================================================================================
+
+Raw Text:
+HB0100 HOUSE BILL 100 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Anita Gonzales and Debra M. Sariñana and Joy Garratt AN ACT MAKING AN APPROPRIATION FOR THE SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS INNOVATION NETWORK. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. APPROPRIATION.--Three million dollars ($3,000,000) is appropriated from the general fund to the public education department for expenditure in fiscal year 2027 for the science, technology, engineering and mathematics innovation network. Any unexpended balance remaining at the end of fiscal year 2027 shall revert to the general fund. .233227.1

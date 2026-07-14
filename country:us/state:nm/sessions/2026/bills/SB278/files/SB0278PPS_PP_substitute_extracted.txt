@@ -1,0 +1,642 @@
+Title: 1 SENATE BILL 278
+Official Title: 1 SENATE BILL 278
+Number of Sections: 1
+Source: versions - PP substitute
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+2/9/26
+Proposed
+SENATE ________ COMMITTEE SUBSTITUTE FOR
+2 57TH LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2026
+3
+4
+5
+6 DISCUSSION DRAFT
+7
+8
+9
+10 AN ACT
+11 RELATING TO THE PUBLIC PEACE, HEALTH, SAFETY AND WELFARE;
+12 AMENDING DEFINITIONS IN THE ENHANCED 911 ACT.
+13
+14 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+15 SECTION 1. Section 63-9D-3 NMSA 1978 (being Laws 1989,
+16 Chapter 25, Section 3, as amended) is amended to read:
+17 "63-9D-3. DEFINITIONS.--As used in the Enhanced 911 Act:
+18 A. "911 call" means any real-time communication,
+19 message, signal or transmission between a person needing
+20 assistance and a public safety answering point call-taker by
+21 dialing 9-1-1 or its equivalent;
+22 B. "911 service area" means the area designated by
+23 the fiscal agent, local governing body or the division to
+24 receive enhanced 911 service;
+25 C. "access line" means [a telecommunications
+.233916.1
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 company's line that has the capability] the number of
+2 simultaneous calls a telecommunications company's line can make
+3 to reach local public safety agencies by dialing 911,
+4 regardless of hardware, technology or actual use, but does not
+5 include a line used for the provision of interexchange services
+6 or commercial mobile radio service;
+7 D. "commercial mobile radio service" means service
+8 provided by a wireless real-time two-way voice communication
+9 device, including:
+10 (1) radio-telephone communications used in
+11 cellular telephone service;
+12 (2) the functional or competitive equivalent
+13 of radio-telephone communications used in cellular telephone
+14 service;
+15 (3) a personal communications service; or
+16 (4) a network radio access line;
+17 E. "commercial mobile radio service provider" means
+18 a person who provides commercial mobile radio services,
+19 including a person who purchases commercial mobile radio
+20 service from a provider and resells that service;
+21 F. "commission" means the public regulation
+22 commission;
+G. "communication service" means any service that:
+23
+(1) is capable of and required by law to
+24
+access, connect with or interface with the enhanced 911 system
+25
+.233916.1
+- 2 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 by directly dialing, initializing or otherwise activating the
+2 enhanced 911 system regardless of the transmission medium or
+3 technology employed; and
+4 (2) provides or enables real-time or
+5 interactive communication;
+6 H. "communications service provider" means any
+7 entity that provides communication services;
+8 I. "database" means information that is collected,
+9 formatted and disseminated and that is necessary for the
+10 functioning of the enhanced 911 system, including geographic
+11 information system (GIS) addressing and digital mapping
+12 information;
+13 J. "department" means the taxation and revenue
+14 department;
+15 K. "division" means the local government division
+16 of the department of finance and administration;
+17 L. "enhanced 911 surcharge" means the monthly
+18 uniform charge assessed on each access line in the state,
+19 measured by the number of access lines for which the access
+20 line provider enables the capacity for simultaneous calls to be
+connected to the public switched telephone network, regardless
+21
+of hardware, technology or actual use and on each active number 22
+for a commercial mobile radio service subscriber and on the
+23
+number of VoIP lines for which the VoIP service provider
+24
+enables the capacity for simultaneous calls, regardless of
+25
+.233916.1
+- 3 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 actual usage, to be connected to the public switched telephone
+2 network during the period for which the fixed charge is imposed
+3 for a VoIP service subscriber in New Mexico and the charge
+4 assessed on any other consumer purchase of communication
+5 service provided by a communications service provider that
+6 enables communication between a person needing assistance and a
+7 public safety answering point call-taker by dialing 9-1-1 or
+8 its equivalent; provided that an enhanced 911 surcharge shall
+9 not be assessed on the provision of broadband internet access
+10 service;
+11 M. "enhanced 911 system" means, regardless of the
+12 technology used, a landline, wireless, NG-911 or ESInet system
+13 consisting of network switching equipment, database, mapping
+14 and on-premises equipment, or the functional equivalent
+15 thereof, that uses the single three-digit number 911 for
+16 reporting police, fire, medical or other emergency situations,
+17 thereby enabling a caller to reach a public safety answering
+18 point to report emergencies by dialing 911, and includes the
+19 capability to:
+20 (1) selectively route incoming 911 calls to
+21 the appropriate public safety answering point operating in a
+22 911 service area;
+(2) automatically display the name, address
+23
+and telephone number of an incoming 911 call on a video monitor
+24
+at the appropriate public safety answering point;
+25
+.233916.1
+- 4 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 (3) provide one or more access paths for
+2 communications between users at different geographic locations
+3 through a network system that may be designed for voice, text
+4 or data, or any combination of these, and may feature limited
+5 or open access and may employ appropriate analog, digital
+6 switching or transmission technologies;
+7 (4) relay to a designated public safety
+8 answering point a 911 caller's number and base station or cell
+9 site location and the latitude and longitude of the 911
+10 caller's location in relation to the designated public safety
+11 answering point; and
+12 (5) manage or administer the functions listed
+13 in Paragraphs (1) through (4) of this subsection;
+14 N. "enhanced 911 equipment" means the public safety
+15 answering point equipment directly related to the operation of
+16 an enhanced 911 system, including automatic number
+17 identification or automatic location identification controllers
+18 and display units, printers, logging recorders and software
+19 associated with call detail recording, call center work
+20 stations, training, latitude and longitude base station or cell
+site location data and GIS equipment necessary to obtain and
+21
+process locational map and emergency service zone data for 22
+landline and wireless callers;
+23
+O. "equipment supplier" means a person who provides
+24
+or offers to provide communications equipment necessary for the
+25
+.233916.1
+- 5 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 establishment of enhanced 911 services;
+2 P. "ESInet" means emergency services internet
+3 protocol network, an internet-protocol-based, multipurpose
+4 inter-network supporting local, regional, state and national
+5 public safety communications services in addition to 911;
+6 Q. "fiscal agent" means the local governing body
+7 that administers grants from the fund for a given locality or
+8 region by agreement;
+9 R. "fund" means the enhanced 911 fund;
+10 S. "local governing body" means the board of county
+11 commissioners of a county or the governing body of a
+12 municipality as defined in the Municipal Code;
+13 T. "NG-911" means a next generation 911 system
+14 consisting of network, hardware, software, data and operational
+15 policies and procedures that:
+16 (1) provides standardized interfaces from call
+17 and message services;
+18 (2) processes all types of emergency calls,
+19 including non-voice (multimedia) messages;
+20 (3) acquires and integrates additional data
+21 useful to call routing and handling;
+22 (4) delivers the calls, messages and data to
+appropriate public safety answering points and other
+23
+appropriate emergency entities;
+24
+(5) supports data and communications needs for
+25
+.233916.1
+- 6 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 coordinated incident response and management; and
+2 (6) provides a secure environment for
+3 emergency communications;
+4 U. "proprietary information" means customer lists,
+5 customer counts, technology descriptions or trade secrets,
+6 including the actual or development costs of individual
+7 components of an enhanced 911 system; provided that such
+8 information is designated as proprietary by the communications
+9 service provider; and provided further that "proprietary
+10 information" does not include individual payments made by the
+11 division or any list of names and identifying information of
+12 subscribers who have not paid the surcharge;
+13 V. "public safety answering point" means a twenty-
+14 four-hour local communications facility that receives 911
+15 service communications and directly dispatches emergency
+16 response services or that relays communications to the
+17 appropriate public or private safety agency;
+18 W. "subscriber" means a person who purchases
+19 communication services at retail from a communications service
+20 provider that are capable of originating a 911 communication;
+X. "surcharge" means the 911 emergency surcharge;
+21
+Y. "surcharge collected" means the amount of 22
+enhanced 911 surcharge billed or received or deemed to have
+23
+been received by the seller or provider, consistent with the
+24
+seller's or provider's method of accounting, including accrual
+25
+.233916.1
+- 7 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 or cash;
+2 Z. "telecommunications company" means a person who
+3 provides wire telecommunications services that are capable of
+4 originating a 911 communication;
+5 AA. "vendor" means a person that provides 911
+6 equipment, service or network support;
+7 BB. "VoIP" means "interconnected voice-over-
+8 internet protocol service" as defined in the Code of Federal
+9 Regulations, Title 47, Part 9, Section 9.3, as amended; and
+10 CC. "VoIP service provider" or "interconnected
+11 voice-over-internet protocol service provider" means an entity
+12 that provides interconnected voice-over-internet protocol
+13 service to end users."
+14 - 8 -
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+.233916.1
+[DELETED: 7-SEOFNWMO-,2       N."."."]
+
+
+================================================================================
+
+Raw Text:
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+2/9/26
+Proposed
+SENATE ________ COMMITTEE SUBSTITUTE FOR
+1 SENATE BILL 278
+2 57TH LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2026
+3
+4
+5
+6 DISCUSSION DRAFT
+7
+8
+9
+10 AN ACT
+11 RELATING TO THE PUBLIC PEACE, HEALTH, SAFETY AND WELFARE;
+12 AMENDING DEFINITIONS IN THE ENHANCED 911 ACT.
+13
+14 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+15 SECTION 1. Section 63-9D-3 NMSA 1978 (being Laws 1989,
+16 Chapter 25, Section 3, as amended) is amended to read:
+17 "63-9D-3. DEFINITIONS.--As used in the Enhanced 911 Act:
+18 A. "911 call" means any real-time communication,
+19 message, signal or transmission between a person needing
+20 assistance and a public safety answering point call-taker by
+21 dialing 9-1-1 or its equivalent;
+22 B. "911 service area" means the area designated by
+23 the fiscal agent, local governing body or the division to
+24 receive enhanced 911 service;
+25 C. "access line" means [a telecommunications
+.233916.1
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 company's line that has the capability] the number of
+2 simultaneous calls a telecommunications company's line can make
+3 to reach local public safety agencies by dialing 911,
+4 regardless of hardware, technology or actual use, but does not
+5 include a line used for the provision of interexchange services
+6 or commercial mobile radio service;
+7 D. "commercial mobile radio service" means service
+8 provided by a wireless real-time two-way voice communication
+9 device, including:
+10 (1) radio-telephone communications used in
+11 cellular telephone service;
+12 (2) the functional or competitive equivalent
+13 of radio-telephone communications used in cellular telephone
+14 service;
+15 (3) a personal communications service; or
+16 (4) a network radio access line;
+17 E. "commercial mobile radio service provider" means
+18 a person who provides commercial mobile radio services,
+19 including a person who purchases commercial mobile radio
+20 service from a provider and resells that service;
+21 F. "commission" means the public regulation
+22 commission;
+G. "communication service" means any service that:
+23
+(1) is capable of and required by law to
+24
+access, connect with or interface with the enhanced 911 system
+25
+.233916.1
+- 2 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 by directly dialing, initializing or otherwise activating the
+2 enhanced 911 system regardless of the transmission medium or
+3 technology employed; and
+4 (2) provides or enables real-time or
+5 interactive communication;
+6 H. "communications service provider" means any
+7 entity that provides communication services;
+8 I. "database" means information that is collected,
+9 formatted and disseminated and that is necessary for the
+10 functioning of the enhanced 911 system, including geographic
+11 information system (GIS) addressing and digital mapping
+12 information;
+13 J. "department" means the taxation and revenue
+14 department;
+15 K. "division" means the local government division
+16 of the department of finance and administration;
+17 L. "enhanced 911 surcharge" means the monthly
+18 uniform charge assessed on each access line in the state,
+19 measured by the number of access lines for which the access
+20 line provider enables the capacity for simultaneous calls to be
+connected to the public switched telephone network, regardless
+21
+of hardware, technology or actual use and on each active number 22
+for a commercial mobile radio service subscriber and on the
+23
+number of VoIP lines for which the VoIP service provider
+24
+enables the capacity for simultaneous calls, regardless of
+25
+.233916.1
+- 3 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 actual usage, to be connected to the public switched telephone
+2 network during the period for which the fixed charge is imposed
+3 for a VoIP service subscriber in New Mexico and the charge
+4 assessed on any other consumer purchase of communication
+5 service provided by a communications service provider that
+6 enables communication between a person needing assistance and a
+7 public safety answering point call-taker by dialing 9-1-1 or
+8 its equivalent; provided that an enhanced 911 surcharge shall
+9 not be assessed on the provision of broadband internet access
+10 service;
+11 M. "enhanced 911 system" means, regardless of the
+12 technology used, a landline, wireless, NG-911 or ESInet system
+13 consisting of network switching equipment, database, mapping
+14 and on-premises equipment, or the functional equivalent
+15 thereof, that uses the single three-digit number 911 for
+16 reporting police, fire, medical or other emergency situations,
+17 thereby enabling a caller to reach a public safety answering
+18 point to report emergencies by dialing 911, and includes the
+19 capability to:
+20 (1) selectively route incoming 911 calls to
+21 the appropriate public safety answering point operating in a
+22 911 service area;
+(2) automatically display the name, address
+23
+and telephone number of an incoming 911 call on a video monitor
+24
+at the appropriate public safety answering point;
+25
+.233916.1
+- 4 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 (3) provide one or more access paths for
+2 communications between users at different geographic locations
+3 through a network system that may be designed for voice, text
+4 or data, or any combination of these, and may feature limited
+5 or open access and may employ appropriate analog, digital
+6 switching or transmission technologies;
+7 (4) relay to a designated public safety
+8 answering point a 911 caller's number and base station or cell
+9 site location and the latitude and longitude of the 911
+10 caller's location in relation to the designated public safety
+11 answering point; and
+12 (5) manage or administer the functions listed
+13 in Paragraphs (1) through (4) of this subsection;
+14 N. "enhanced 911 equipment" means the public safety
+15 answering point equipment directly related to the operation of
+16 an enhanced 911 system, including automatic number
+17 identification or automatic location identification controllers
+18 and display units, printers, logging recorders and software
+19 associated with call detail recording, call center work
+20 stations, training, latitude and longitude base station or cell
+site location data and GIS equipment necessary to obtain and
+21
+process locational map and emergency service zone data for 22
+landline and wireless callers;
+23
+O. "equipment supplier" means a person who provides
+24
+or offers to provide communications equipment necessary for the
+25
+.233916.1
+- 5 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 establishment of enhanced 911 services;
+2 P. "ESInet" means emergency services internet
+3 protocol network, an internet-protocol-based, multipurpose
+4 inter-network supporting local, regional, state and national
+5 public safety communications services in addition to 911;
+6 Q. "fiscal agent" means the local governing body
+7 that administers grants from the fund for a given locality or
+8 region by agreement;
+9 R. "fund" means the enhanced 911 fund;
+10 S. "local governing body" means the board of county
+11 commissioners of a county or the governing body of a
+12 municipality as defined in the Municipal Code;
+13 T. "NG-911" means a next generation 911 system
+14 consisting of network, hardware, software, data and operational
+15 policies and procedures that:
+16 (1) provides standardized interfaces from call
+17 and message services;
+18 (2) processes all types of emergency calls,
+19 including non-voice (multimedia) messages;
+20 (3) acquires and integrates additional data
+21 useful to call routing and handling;
+22 (4) delivers the calls, messages and data to
+appropriate public safety answering points and other
+23
+appropriate emergency entities;
+24
+(5) supports data and communications needs for
+25
+.233916.1
+- 6 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 coordinated incident response and management; and
+2 (6) provides a secure environment for
+3 emergency communications;
+4 U. "proprietary information" means customer lists,
+5 customer counts, technology descriptions or trade secrets,
+6 including the actual or development costs of individual
+7 components of an enhanced 911 system; provided that such
+8 information is designated as proprietary by the communications
+9 service provider; and provided further that "proprietary
+10 information" does not include individual payments made by the
+11 division or any list of names and identifying information of
+12 subscribers who have not paid the surcharge;
+13 V. "public safety answering point" means a twenty-
+14 four-hour local communications facility that receives 911
+15 service communications and directly dispatches emergency
+16 response services or that relays communications to the
+17 appropriate public or private safety agency;
+18 W. "subscriber" means a person who purchases
+19 communication services at retail from a communications service
+20 provider that are capable of originating a 911 communication;
+X. "surcharge" means the 911 emergency surcharge;
+21
+Y. "surcharge collected" means the amount of 22
+enhanced 911 surcharge billed or received or deemed to have
+23
+been received by the seller or provider, consistent with the
+24
+seller's or provider's method of accounting, including accrual
+25
+.233916.1
+- 7 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+___C/SB 278
+1 or cash;
+2 Z. "telecommunications company" means a person who
+3 provides wire telecommunications services that are capable of
+4 originating a 911 communication;
+5 AA. "vendor" means a person that provides 911
+6 equipment, service or network support;
+7 BB. "VoIP" means "interconnected voice-over-
+8 internet protocol service" as defined in the Code of Federal
+9 Regulations, Title 47, Part 9, Section 9.3, as amended; and
+10 CC. "VoIP service provider" or "interconnected
+11 voice-over-internet protocol service provider" means an entity
+12 that provides interconnected voice-over-internet protocol
+13 service to end users."
+14 - 8 -
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+.233916.1
+
+[DELETED: 7-SEOFNWMO-,2       N."."."]

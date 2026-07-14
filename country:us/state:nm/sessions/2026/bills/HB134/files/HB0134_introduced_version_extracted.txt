@@ -1,0 +1,16 @@
+Title: HB0134
+Official Title: 
+Number of Sections: 1
+Source: versions - introduced version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HB0134 HOUSE BILL 134 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Yanira Gurrola and Joy Garratt AN ACT RELATING TO CRIME; CREATING THE CRIME OF UNLAWFUL INSTALLATION OF A GLOBAL POSITIONING SYSTEM. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. A new section of the Criminal Code is enacted to read: "[NEW MATERIAL] UNLAWFUL INSTALLATION OF A GLOBAL POSITIONING SYSTEM--EXEMPTIONS--PENALTIES.-- A. Unlawful installation of a global positioning system consists of a person who knowingly installs, places or causes to be installed or placed a global positioning system to track the location of another person without that person's knowledge, consent or permission. B. A person who commits unlawful installation of a global positioning system is guilty of a petty misdemeanor. C. The provisions of this section do not apply to: (1) a certified law enforcement officer acting in the officer's official duties; or (2) a private investigator licensed pursuant to the Private Investigations Act. D. As used in this section, "global positioning system" means a device capable of transmitting location data of a person, vehicle or property to remotely determine or track the position and movement of another person or property." - 2 -
+
+
+================================================================================
+
+Raw Text:
+HB0134 HOUSE BILL 134 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Yanira Gurrola and Joy Garratt AN ACT RELATING TO CRIME; CREATING THE CRIME OF UNLAWFUL INSTALLATION OF A GLOBAL POSITIONING SYSTEM. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. A new section of the Criminal Code is enacted to read: "[NEW MATERIAL] UNLAWFUL INSTALLATION OF A GLOBAL POSITIONING SYSTEM--EXEMPTIONS--PENALTIES.-- A. Unlawful installation of a global positioning system consists of a person who knowingly installs, places or causes to be installed or placed a global positioning system to track the location of another person without that person's knowledge, consent or permission. B. A person who commits unlawful installation of a global positioning system is guilty of a petty misdemeanor. C. The provisions of this section do not apply to: (1) a certified law enforcement officer acting in the officer's official duties; or (2) a private investigator licensed pursuant to the Private Investigations Act. D. As used in this section, "global positioning system" means a device capable of transmitting location data of a person, vehicle or property to remotely determine or track the position and movement of another person or property." - 2 -

@@ -1,0 +1,260 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2 RELATING TO HEALTH INSURANCE; REQUIRING ISSUERS OF MEDICARE
+3 SUPPLEMENT POLICIES TO PROVIDE OPEN ENROLLMENT PERIODS.
+4
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+6 SECTION 1. Section 59A-24A-3 NMSA 1978 (being Laws 1989,
+7 Chapter 28, Section 3, as amended) is amended to read:
+8 "59A-24A-3. DEFINITIONS.--As used in the Medicare
+9 Supplement Act:
+10 A. "applicant" means:
+11 (1) in the case of an individual medicare
+12 supplement policy, the person who seeks to contract for
+13 insurance benefits; or
+14 (2) in the case of a group medicare
+15
+supplement policy, the proposed certificate holder;
+16
+B. "certificate" means any certificate delivered or
+17
+issued for delivery in this state under a group medicare
+18
+supplement policy;
+19
+C. "certificate form" means the document on which a
+20
+certificate is delivered or issued for delivery;
+21
+D. "eligible policyholder" means a beneficiary of
+22
+medicare coverage provided pursuant to part A or part B of
+23
+Title 18 of the federal Social Security Act, as amended, who is
+24
+sixty-five years of age or older and insured under a medicare
+25
+supplement policy; SB 21
+Page 1
+1 E. "issuer" means insurance companies, fraternal
+2 benefit societies, nonprofit health care plans, health
+3 maintenance organizations and any other entities that deliver
+4 or issue for delivery in this state medicare supplement
+5 policies or certificates;
+6 F. "medicare" means the federal Health Insurance
+7 for the Aged Act, Title XVIII of the Social Security Amendments
+8 of 1965, as then constituted or later amended;
+9 G. "medicare supplement policy" means:
+10 (1) a group policy as defined in Chapter 59A,
+11 Article 23 NMSA 1978;
+12 (2) an individual policy as defined in
+13 Chapter 59A, Article 22 NMSA 1978; or
+14 (3) a group or individual certificate issued
+15 pursuant to the Nonprofit Health Care Plan Law or the Health
+16 Maintenance Organization Law that is advertised, marketed or
+17 designed as a supplement to reimbursements under medicare for
+18 the hospital, medical or surgical expenses of persons eligible
+19 for medicare;
+20 H. "policy form" means the document on which a
+21 policy is delivered or issued for delivery by the issuer; and
+22 I. "superintendent" means the superintendent of
+23 insurance."
+24 SECTION 2. A new section of the Medicare Supplement Act
+25 is enacted to read:
+SB 21
+Page 2
+1 "ANNUAL OPEN ENROLLMENT.--
+2 A. Every issuer participating in the market for
+3 medicare supplement policies shall offer an annual open
+4 enrollment period to all eligible policyholders. Each eligible
+5 policyholder's open enrollment period shall commence with the
+6 first day of the eligible policyholder's birthday month and
+7 remain open for at least sixty days thereafter. During the
+8 open enrollment period:
+9 (1) each eligible policyholder may purchase
+10 any medicare supplement policy of an equal or lesser value to
+11 the eligible policyholder's current medicare supplement policy
+12 offered in this state; and
+13 (2) an issuer shall:
+14 (a) guarantee the issuance of any
+15 medicare supplement policy offered in this state; and
+16 (b) not deny, delay or condition the
+17 issuance or effectiveness, or discriminate in the price of
+18 coverage, of a medicare supplement policy based on the health
+19 status, claims, experience, receipt of health care or medical
+20 condition of an eligible policyholder.
+21 B. A medicare supplement policy obtained by an
+22 eligible policyholder pursuant to Subsection A of this section
+23 shall not have any coverage exclusions related to preexisting
+24 conditions that would have been covered under the eligible
+25 policyholder's previous medicare supplement policy.
+SB 21
+Page 3
+1 C. At least thirty days before the beginning of an
+2 eligible policyholder's open enrollment period, but not more
+3 than sixty days before the beginning of the open enrollment
+4 period, the issuer of an eligible policyholder's medicare
+5 supplement policy shall notify the eligible policyholder of:
+6 (1) the dates on which the open enrollment
+7 period begins and ends;
+8 (2) the rights provided to the eligible
+9 policyholder by this section; and
+10 (3) any modifications to the medicare
+11 supplement policy currently held by the eligible policyholder
+12 or any adjustments to the premiums charged for that policy.
+13 D. The form and content of the notification
+14 required pursuant to Subsection C of this section shall be
+15 filed with and approved by the superintendent prior to
+16 distribution to eligible policyholders."
+17 SECTION 3. EFFECTIVE DATE.--The effective date of the
+18 provisions of this act is January 1, 2027. SB 21
+Page 4
+19
+20
+21
+22
+23
+24
+25
+[DELETED:  A]
+[DELETED:  E]
+[DELETED:  "]
+[DELETED:  C]
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO HEALTH INSURANCE; REQUIRING ISSUERS OF MEDICARE
+3 SUPPLEMENT POLICIES TO PROVIDE OPEN ENROLLMENT PERIODS.
+4
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+6 SECTION 1. Section 59A-24A-3 NMSA 1978 (being Laws 1989,
+7 Chapter 28, Section 3, as amended) is amended to read:
+8 "59A-24A-3. DEFINITIONS.--As used in the Medicare
+9 Supplement Act:
+10 A. "applicant" means:
+11 (1) in the case of an individual medicare
+12 supplement policy, the person who seeks to contract for
+13 insurance benefits; or
+14 (2) in the case of a group medicare
+15
+supplement policy, the proposed certificate holder;
+16
+B. "certificate" means any certificate delivered or
+17
+issued for delivery in this state under a group medicare
+18
+supplement policy;
+19
+C. "certificate form" means the document on which a
+20
+certificate is delivered or issued for delivery;
+21
+D. "eligible policyholder" means a beneficiary of
+22
+medicare coverage provided pursuant to part A or part B of
+23
+Title 18 of the federal Social Security Act, as amended, who is
+24
+sixty-five years of age or older and insured under a medicare
+25
+supplement policy; SB 21
+Page 1
+
+1 E. "issuer" means insurance companies, fraternal
+2 benefit societies, nonprofit health care plans, health
+3 maintenance organizations and any other entities that deliver
+4 or issue for delivery in this state medicare supplement
+5 policies or certificates;
+6 F. "medicare" means the federal Health Insurance
+7 for the Aged Act, Title XVIII of the Social Security Amendments
+8 of 1965, as then constituted or later amended;
+9 G. "medicare supplement policy" means:
+10 (1) a group policy as defined in Chapter 59A,
+11 Article 23 NMSA 1978;
+12 (2) an individual policy as defined in
+13 Chapter 59A, Article 22 NMSA 1978; or
+14 (3) a group or individual certificate issued
+15 pursuant to the Nonprofit Health Care Plan Law or the Health
+16 Maintenance Organization Law that is advertised, marketed or
+17 designed as a supplement to reimbursements under medicare for
+18 the hospital, medical or surgical expenses of persons eligible
+19 for medicare;
+20 H. "policy form" means the document on which a
+21 policy is delivered or issued for delivery by the issuer; and
+22 I. "superintendent" means the superintendent of
+23 insurance."
+24 SECTION 2. A new section of the Medicare Supplement Act
+25 is enacted to read:
+SB 21
+Page 2
+
+1 "ANNUAL OPEN ENROLLMENT.--
+2 A. Every issuer participating in the market for
+3 medicare supplement policies shall offer an annual open
+4 enrollment period to all eligible policyholders. Each eligible
+5 policyholder's open enrollment period shall commence with the
+6 first day of the eligible policyholder's birthday month and
+7 remain open for at least sixty days thereafter. During the
+8 open enrollment period:
+9 (1) each eligible policyholder may purchase
+10 any medicare supplement policy of an equal or lesser value to
+11 the eligible policyholder's current medicare supplement policy
+12 offered in this state; and
+13 (2) an issuer shall:
+14 (a) guarantee the issuance of any
+15 medicare supplement policy offered in this state; and
+16 (b) not deny, delay or condition the
+17 issuance or effectiveness, or discriminate in the price of
+18 coverage, of a medicare supplement policy based on the health
+19 status, claims, experience, receipt of health care or medical
+20 condition of an eligible policyholder.
+21 B. A medicare supplement policy obtained by an
+22 eligible policyholder pursuant to Subsection A of this section
+23 shall not have any coverage exclusions related to preexisting
+24 conditions that would have been covered under the eligible
+25 policyholder's previous medicare supplement policy.
+SB 21
+Page 3
+
+1 C. At least thirty days before the beginning of an
+2 eligible policyholder's open enrollment period, but not more
+3 than sixty days before the beginning of the open enrollment
+4 period, the issuer of an eligible policyholder's medicare
+5 supplement policy shall notify the eligible policyholder of:
+6 (1) the dates on which the open enrollment
+7 period begins and ends;
+8 (2) the rights provided to the eligible
+9 policyholder by this section; and
+10 (3) any modifications to the medicare
+11 supplement policy currently held by the eligible policyholder
+12 or any adjustments to the premiums charged for that policy.
+13 D. The form and content of the notification
+14 required pursuant to Subsection C of this section shall be
+15 filed with and approved by the superintendent prior to
+16 distribution to eligible policyholders."
+17 SECTION 3. EFFECTIVE DATE.--The effective date of the
+18 provisions of this act is January 1, 2027. SB 21
+Page 4
+19
+20
+21
+22
+23
+24
+25
+
+[DELETED:  A]
+[DELETED:  E]
+[DELETED:  "]
+[DELETED:  C]
