@@ -1,0 +1,16 @@
+Title: SB0254
+Official Title: 
+Number of Sections: 1
+Source: versions - introduced version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SB0254 SENATE BILL 254 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Jay C. Block AN ACT MAKING AN APPROPRIATION TO THE DEPARTMENT OF INFORMATION TECHNOLOGY FOR SUBSCRIBER FEES FOR THE DIGITAL TRUNKED RADIO COMMUNICATIONS SYSTEM. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. APPROPRIATION.--Two million eight hundred thousand dollars ($2,800,000) is appropriated from the general fund to the department of information technology for expenditure in fiscal year 2027 and subsequent fiscal years to fund the payment of subscriber fees for the digital trunked radio communications system to municipal, county and tribal public safety agencies that provide law enforcement, fire, medical or other emergency services. Any unexpended balance remaining at the end of a fiscal year shall not revert to the general fund.
+
+
+================================================================================
+
+Raw Text:
+SB0254 SENATE BILL 254 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Jay C. Block AN ACT MAKING AN APPROPRIATION TO THE DEPARTMENT OF INFORMATION TECHNOLOGY FOR SUBSCRIBER FEES FOR THE DIGITAL TRUNKED RADIO COMMUNICATIONS SYSTEM. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. APPROPRIATION.--Two million eight hundred thousand dollars ($2,800,000) is appropriated from the general fund to the department of information technology for expenditure in fiscal year 2027 and subsequent fiscal years to fund the payment of subscriber fees for the digital trunked radio communications system to municipal, county and tribal public safety agencies that provide law enforcement, fire, medical or other emergency services. Any unexpended balance remaining at the end of a fiscal year shall not revert to the general fund.

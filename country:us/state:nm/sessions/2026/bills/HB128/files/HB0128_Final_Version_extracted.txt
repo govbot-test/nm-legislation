@@ -1,0 +1,228 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+2 RELATING TO OCCUPATIONAL DISEASE DISABLEMENT; INCLUDING
+3 ADDITIONAL CONDITIONS THAT ARE PRESUMED TO BE PROXIMATELY
+4 CAUSED BY EMPLOYMENT AS A FIREFIGHTER; SPECIFYING EMPLOYMENT
+5 PERIODS FOR CERTAIN CANCERS THAT ARE PRESUMED TO BE
+6 PROXIMATELY CAUSED BY EMPLOYMENT AS A FIREFIGHTER.
+7
+8 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+9 SECTION 1. Section 52-3-32.1 NMSA 1978 (being Laws
+10 2009, Chapter 252, Section 1, as amended) is amended to read:
+11 "52-3-32.1. FIREFIGHTER OCCUPATIONAL CONDITIONS.--
+12 A. As used in this section, "firefighter" means a
+13 person who is employed as a full-time non-volunteer
+14 firefighter by the state or a local government entity and who
+15 has taken the oath prescribed for firefighters.
+16 B. If a firefighter is diagnosed with one or more
+17 of the following conditions after the period of employment
+18 indicated, and the condition was not revealed during an
+19 initial employment medical screening examination or during a
+20 subsequent medical review pursuant to the Occupational Health
+21 and Safety Act and rules promulgated pursuant to that act,
+22 the condition is presumed to be proximately caused by
+23 employment as a firefighter:
+24 (1) the following cancers after five years:
+25 (a) bladder; HB 128
+Page 1
+1 (b) breast if diagnosed without a
+2 breast cancer 1 or breast cancer 2 genetic predisposition to
+3 breast cancer;
+4 (c) brain;
+5 (d) cervical;
+6 (e) colon;
+7 (f) colorectal;
+8 (g) esophageal;
+9 (h) kidney;
+10 (i) leukemia;
+11 (j) lung;
+12 (k) malignant melanoma;
+13 (l) mesothelioma;
+14 (m) multiple myeloma;
+15 (n) non-Hodgkin's lymphoma;
+16 (o) ovarian;
+17 (p) prostate;
+18 (q) skin;
+19 (r) stomach;
+20 (s) testicular if diagnosed with no
+21 evidence of anabolic steroids or human growth hormone use;
+22 (t) thyroid; and
+23 (u) ureter;
+24 (2) hepatitis, tuberculosis, diphtheria,
+25 meningococcal disease and methicillin-resistant HB 128
+Page 2
+1 staphylococcus aureus appearing and diagnosed after entry
+2 into employment; or
+3 (3) posttraumatic stress disorder diagnosed
+4 by a physician or psychologist that results in physical
+5 impairment, primary or secondary mental impairment or death.
+6 C. The presumptions created in Subsections B and D
+7 of this section may be rebutted by a preponderance of
+8 evidence in a court of competent jurisdiction showing that
+9 the firefighter engaged in conduct or activities outside of
+10 employment that posed a significant risk of contracting or
+11 developing a described condition.
+12 D. If a firefighter is diagnosed with a heart
+13 injury or stroke suffered within twenty-four hours of
+14 fighting a fire, while responding to an alarm, while
+15 returning from an alarm call, while engaging in supervised
+16 physical training or while responding to or performing in a
+17 non-fire emergency, the heart injury or stroke is presumed to
+18 be proximately caused by employment as a firefighter. The
+19 presumption created in this subsection shall not be made if
+20 the firefighter's employer does not have a current physical
+21 training program and the firefighter does not have a current
+22 medical screening examination or review pursuant to the
+23 Occupational Health and Safety Act and rules promulgated
+24 pursuant to that act allowing participation in that program.
+25 E. When any presumptions created in this section HB 128
+Page 3
+1 do not apply, it shall not preclude a firefighter from
+2 demonstrating a causal connection between employment and
+3 condition or injury by a preponderance of evidence in a court
+4 of competent jurisdiction.
+5 F. Medical treatment based on the presumptions
+6 created in this section shall be provided by an employer as
+7 for a job-related condition or injury unless and until a court
+8 of competent jurisdiction determines that the presumption does
+9 not apply. If the court determines that the presumption does
+10 not apply or that the condition or injury is not job related,
+11 the employer's workers' compensation insurance provider shall
+12 be reimbursed for health care costs by the medical or health
+13 insurance plan or benefit provided for the firefighter by the
+14 employer." HB 128
+Page 4
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+[DELETED:  H]
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO OCCUPATIONAL DISEASE DISABLEMENT; INCLUDING
+3 ADDITIONAL CONDITIONS THAT ARE PRESUMED TO BE PROXIMATELY
+4 CAUSED BY EMPLOYMENT AS A FIREFIGHTER; SPECIFYING EMPLOYMENT
+5 PERIODS FOR CERTAIN CANCERS THAT ARE PRESUMED TO BE
+6 PROXIMATELY CAUSED BY EMPLOYMENT AS A FIREFIGHTER.
+7
+8 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+9 SECTION 1. Section 52-3-32.1 NMSA 1978 (being Laws
+10 2009, Chapter 252, Section 1, as amended) is amended to read:
+11 "52-3-32.1. FIREFIGHTER OCCUPATIONAL CONDITIONS.--
+12 A. As used in this section, "firefighter" means a
+13 person who is employed as a full-time non-volunteer
+14 firefighter by the state or a local government entity and who
+15 has taken the oath prescribed for firefighters.
+16 B. If a firefighter is diagnosed with one or more
+17 of the following conditions after the period of employment
+18 indicated, and the condition was not revealed during an
+19 initial employment medical screening examination or during a
+20 subsequent medical review pursuant to the Occupational Health
+21 and Safety Act and rules promulgated pursuant to that act,
+22 the condition is presumed to be proximately caused by
+23 employment as a firefighter:
+24 (1) the following cancers after five years:
+25 (a) bladder; HB 128
+Page 1
+
+1 (b) breast if diagnosed without a
+2 breast cancer 1 or breast cancer 2 genetic predisposition to
+3 breast cancer;
+4 (c) brain;
+5 (d) cervical;
+6 (e) colon;
+7 (f) colorectal;
+8 (g) esophageal;
+9 (h) kidney;
+10 (i) leukemia;
+11 (j) lung;
+12 (k) malignant melanoma;
+13 (l) mesothelioma;
+14 (m) multiple myeloma;
+15 (n) non-Hodgkin's lymphoma;
+16 (o) ovarian;
+17 (p) prostate;
+18 (q) skin;
+19 (r) stomach;
+20 (s) testicular if diagnosed with no
+21 evidence of anabolic steroids or human growth hormone use;
+22 (t) thyroid; and
+23 (u) ureter;
+24 (2) hepatitis, tuberculosis, diphtheria,
+25 meningococcal disease and methicillin-resistant HB 128
+Page 2
+
+1 staphylococcus aureus appearing and diagnosed after entry
+2 into employment; or
+3 (3) posttraumatic stress disorder diagnosed
+4 by a physician or psychologist that results in physical
+5 impairment, primary or secondary mental impairment or death.
+6 C. The presumptions created in Subsections B and D
+7 of this section may be rebutted by a preponderance of
+8 evidence in a court of competent jurisdiction showing that
+9 the firefighter engaged in conduct or activities outside of
+10 employment that posed a significant risk of contracting or
+11 developing a described condition.
+12 D. If a firefighter is diagnosed with a heart
+13 injury or stroke suffered within twenty-four hours of
+14 fighting a fire, while responding to an alarm, while
+15 returning from an alarm call, while engaging in supervised
+16 physical training or while responding to or performing in a
+17 non-fire emergency, the heart injury or stroke is presumed to
+18 be proximately caused by employment as a firefighter. The
+19 presumption created in this subsection shall not be made if
+20 the firefighter's employer does not have a current physical
+21 training program and the firefighter does not have a current
+22 medical screening examination or review pursuant to the
+23 Occupational Health and Safety Act and rules promulgated
+24 pursuant to that act allowing participation in that program.
+25 E. When any presumptions created in this section HB 128
+Page 3
+
+1 do not apply, it shall not preclude a firefighter from
+2 demonstrating a causal connection between employment and
+3 condition or injury by a preponderance of evidence in a court
+4 of competent jurisdiction.
+5 F. Medical treatment based on the presumptions
+6 created in this section shall be provided by an employer as
+7 for a job-related condition or injury unless and until a court
+8 of competent jurisdiction determines that the presumption does
+9 not apply. If the court determines that the presumption does
+10 not apply or that the condition or injury is not job related,
+11 the employer's workers' compensation insurance provider shall
+12 be reimbursed for health care costs by the medical or health
+13 insurance plan or benefit provided for the firefighter by the
+14 employer." HB 128
+Page 4
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+[DELETED:  H]

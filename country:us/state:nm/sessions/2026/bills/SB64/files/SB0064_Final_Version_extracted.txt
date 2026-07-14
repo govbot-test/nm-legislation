@@ -1,0 +1,905 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 4
+Source: versions - Final Version
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2 RELATING TO PUBLIC EDUCATION; ENACTING THE SPECIAL EDUCATION
+3 ACT; CREATING THE OFFICE OF SPECIAL EDUCATION IN THE PUBLIC
+4 EDUCATION DEPARTMENT; PROVIDING FOR A DEPUTY SECRETARY OF
+5 SPECIAL EDUCATION; PROVIDING POWERS AND DUTIES; REMOVING
+6 GIFTED STUDENTS FROM SPECIAL EDUCATION; RECOMPILING CURRENT
+7 SPECIAL EDUCATION STATUTES INTO THE SPECIAL EDUCATION ACT;
+8 AMENDING, REPEALING, ENACTING AND RECOMPILING SECTIONS OF THE
+9 NMSA 1978.
+10
+11 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+12 SECTION 1. Section 22-1-2 NMSA 1978 (being Laws 2003,
+13 Chapter 153, Section 3, as amended by Laws 2019, Chapter 206,
+14 Section 1 and by Laws 2019, Chapter 207, Section 1) is
+15 amended to read:
+16 "22-1-2. DEFINITIONS.--As used in the Public School
+17 Code:
+18 A. "academic proficiency" means mastery of the
+19 subject-matter knowledge and skills specified in state
+20 academic content and performance standards for a student's
+21 grade level;
+22 B. "charter school" means a school authorized by a
+23 chartering authority to operate as a public school;
+24 C. "commission" means the public education
+25 commission; SB 64
+Page 1
+1 D. "department" means the public education
+2 department;
+3 E. "exceptional child" means a school-age person
+4 whose abilities render regular services of a public school
+5 inconsistent with the student's educational needs;
+6 F. "gifted child" means a school-age person
+7 determined to be gifted pursuant to Section 22-13-6.1 NMSA
+8 1978 and standards adopted by the department in accordance
+9 with that section. Nothing in this subsection precludes a
+10 school district or charter school from offering additional
+11 gifted programs for students who fail to meet the eligibility
+12 criteria; however, the state shall only provide state funds
+13 for department-approved gifted programs for those students
+14 who meet the established criteria;
+15 G. "home school" means the operation by the parent
+16 of a school-age person of a home study program of instruction
+that provides a basic academic educational program, including
+17
+reading, language arts, mathematics, social studies and
+18
+science;
+19
+H. "instructional support provider" means a person
+20
+who is employed to support the instructional program of a
+21
+school district, including educational assistant, school
+22
+counselor, social worker, school nurse, speech-language
+23
+pathologist, psychologist, physical therapist, occupational
+24
+therapist, recreational therapist, marriage and family
+25 SB 64
+Page 2
+1 therapist, interpreter for the deaf and diagnostician;
+2 I. "licensed school employee" means teachers,
+3 school administrators and instructional support providers;
+4 J. "local school board" means the policy-setting
+5 body of a school district;
+6 K. "local superintendent" means the chief
+7 executive officer of a school district;
+8 L. "multilayered system of supports" means a
+9 coordinated and comprehensive framework of evidence-based
+10 academic and behavioral supports that address a student's
+11 educational needs with graduated intensity based on data
+12 collected about the student;
+13 M. "parent" includes a guardian or other person
+14 having custody and control of a school-age person;
+15 N. "private school" means a school, other than a
+16 home school, that offers on-site programs of instruction and
+that is not under the control, supervision or management of a
+17
+local school board;
+18
+O. "public school" means that part of a school
+19
+district that is a single attendance center in which
+20
+instruction is offered by one or more teachers and is
+21
+discernible as a building or group of buildings generally
+22
+recognized as either an elementary, middle, junior high or
+23
+high school or any combination of those and includes a
+24
+charter school;
+25 SB 64
+Page 3
+1 P. "school" means a supervised program of
+2 instruction designed to educate a student in a particular
+3 place, manner and subject area;
+4 Q. "school administrator" means a person licensed
+5 to administer in a school district and includes school
+6 principals, central district administrators and charter
+7 school head administrators;
+8 R. "school-age person" means a person who is at
+9 least five years of age prior to 12:01 a.m. on September 1 of
+10 the school year, who has not received a high school diploma
+11 or its equivalent and who has not reached the person's
+12 twenty-second birthday on the first day of the school year
+13 and meets other criteria provided in the Public School
+14 Finance Act;
+15 S. "school building" means a public school, an
+16 administration building and related school structures or
+facilities, including teacher housing, that is owned,
+17
+acquired or constructed by the school district as necessary
+18
+to carry out the functions of the school district;
+19
+T. "school bus private owner" means a person,
+20
+other than a school district, the department, the state or
+21
+any other political subdivision of the state, that owns a
+22
+school bus;
+23
+U. "school district" means an area of land
+24
+established as a political subdivision of the state for the
+25 SB 64
+Page 4
+1 administration of public schools and segregated
+2 geographically for taxation and bonding purposes;
+3 V. "school employee" includes licensed and
+4 nonlicensed employees of a school district;
+5 W. "school principal" means the chief
+6 instructional leader and administrative head of a public
+7 school;
+8 X. "school year" means the total number of
+9 contract days offered by public schools in a school district
+10 during a period of twelve consecutive months;
+11 Y. "secretary" means the secretary of public
+12 education;
+13 Z. "state agency" or "state institution" means the
+14 New Mexico military institute, New Mexico school for the
+15 blind and visually impaired, New Mexico school for the deaf,
+16 New Mexico boys' school, girls' welfare home, New Mexico
+youth diagnostic and development center, Sequoyah adolescent
+17
+treatment center, Carrie Tingley crippled children's
+18
+hospital, New Mexico behavioral health institute at Las Vegas
+19
+and any other state agency responsible for educating resident
+20
+children;
+21
+AA. "state educational institution" means an
+22
+institution enumerated in Article 12, Section 11 of the
+23
+constitution of New Mexico;
+24
+BB. "student" means a school-aged person who is
+25 SB 64
+Page 5
+1 enrolled in a public school;
+2 CC. "student assistance team" means a school-based
+3 group whose purpose is to provide additional educational
+4 support to students who are experiencing difficulties that
+5 are preventing them from benefiting from general instruction;
+6 DD. "substitute teacher" means a person who holds
+7 a certificate to substitute for a teacher in the classroom;
+8 EE. "teacher" means a person who holds a level
+9 one, two or three-A license and whose primary duty is
+10 classroom instruction or the supervision, below the school
+11 principal level, of an instructional program or whose duties
+12 include curriculum development, peer intervention, peer
+13 coaching or mentoring or serving as a resource teacher for
+14 other teachers;
+15 FF. "certified school instructor" means a licensed
+16 school employee; and
+GG. "certified school employee" or "certified
+17
+school personnel" means a licensed school employee."
+18
+
+Section 2:
+SECTION 2. A new section of the Public School Code is
+19
+enacted to read:
+20
+"SHORT TITLE.--Sections 2 through 6 of this act may be
+21
+cited as the "Special Education Act"."
+22
+
+Section 3:
+SECTION 3. A new section of the Public School Code is
+23
+enacted to read:
+24
+"DEFINITIONS.--As used in the Special Education Act:
+25 SB 64
+Page 6
+1 A. "deputy secretary" means the deputy secretary
+2 for special education;
+3 B. "dyslexia" means a specific learning disability
+4 that is neurobiological in origin and characterized by
+5 difficulty with accurate or fluent word recognition and poor
+6 spelling and decoding abilities, which characteristics
+7 typically result from a deficit in the phonological component
+8 of language that is often unexpected in relation to other
+9 cognitive abilities and the provision of effective classroom
+10 instruction and may result in problems in reading
+11 comprehension and reduced reading experience that may impede
+12 the growth of vocabulary and background knowledge;
+13 C. "office" means the office of special education;
+14 D. "school district" includes charter schools;
+15 E. "special education" means the provision of
+16 services additional to, supplementary to or different from
+those provided in the regular school program by a systematic
+17
+modification and adaptation of instructional techniques,
+18
+materials and equipment to meet the needs of three- and
+19
+four-year-old children and students with disabilities; and
+20
+F. "student with disabilities" means a student
+21
+with physical or mental impairments or specific learning
+22
+disabilities who, as a result of those impairments or
+23
+specific learning disabilities, requires special education
+24
+and related services in accordance with the federal
+25 SB 64
+Page 7
+1 Individuals with Disabilities Education Act."
+2 SECTION 4. A new section of the Public School Code is
+3 enacted to read:
+4 "OFFICE OF SPECIAL EDUCATION--CREATED--DUTIES.--
+5 A. The "office of special education" is created in
+6 the department. The "deputy secretary for special education"
+7 shall be appointed by the secretary on the basis of education
+8 and experience in special education. The deputy secretary
+9 shall direct the activities of the office and shall directly
+10 report to the secretary.
+11 B. The office shall:
+12 (1) ensure that students with disabilities
+13 are provided with the same opportunity for education as
+14 students without disabilities;
+15 (2) verify that all students with
+16 disabilities receive a free appropriate public education,
+regardless of the nature or severity of the disabilities;
+17
+(3) ensure stability and consistency of
+18
+services for students with disabilities;
+19
+(4) develop and maintain a statewide uniform
+20
+online system for the formulation of individualized education
+21
+programs and require all school districts to use the system
+22
+to document services, monitor progress and ensure
+23
+consistency, fidelity and compliance with the federal
+24
+Individuals with Disabilities Education Act time lines and
+25 SB 64
+Page 8
+1 safeguards;
+2 (5) enforce laws regarding the education of
+3 students with disabilities, including the federal Individuals
+4 with Disabilities Education Act and the Special Education
+5 Act, and monitor compliance with laws that prohibit
+6 discrimination against students with disabilities; and
+7 (6) consult with a committee of school
+8 district superintendents and charter school head
+9 administrators selected by their peers on a quarterly basis
+10 to plan and implement continuous improvement measures related
+11 to the systems and services provided to students with
+12 disabilities throughout the state."
+13 SECTION 5. Section 22-13-7 NMSA 1978 (being Laws 1972,
+14 Chapter 95, Section 3, as amended) is recompiled in the
+15 Special Education Act and is amended to read:
+16 "SPECIAL EDUCATION--RESPONSIBILITY.--
+A. The office shall make, adopt and keep current a
+17
+state plan for special education policy, programs and
+18
+standards.
+19
+B. The department shall set standards for
+20
+diagnosis and screening of and educational offerings for
+21
+students with disabilities in public schools, developmentally
+22
+delayed three- and four-year-old children and eligible
+23
+children in private, nonsectarian, nonprofit training centers
+24
+and in state institutions under the authority of the
+25 SB 64
+Page 9
+1 secretary of health.
+2 C. The department shall establish and maintain an
+3 evaluation program of the system that monitors the
+4 implementation and impact of all special education programs
+5 for three- and four-year-old developmentally delayed children
+6 and students with disabilities in the public schools. The
+7 system shall be operated with the cooperation of school
+8 districts. Portions of the system may be subcontracted, and
+9 periodic reports regarding the efficacy of special education
+10 programs for children and students with disabilities shall be
+11 made to the governor and the legislative education study
+12 committee.
+13 D. The office shall coordinate programming related
+14 to the transition of students with disabilities from
+15 secondary and post-secondary education programs to employment
+16 or vocational placement in accordance with the Special
+Education Act."
+17
+
+Section 4:
+SECTION 6. Section 22-13-32 NMSA 1978 (being Laws 2010,
+18
+Chapter 59, Section 2, as amended) is recompiled in the
+19
+Special Education Act and is amended to read:
+20
+"SUPPORTS FOR STUDENTS DISPLAYING CHARACTERISTICS OF
+21
+DYSLEXIA.--
+22
+A. Within the course of the 2019-2020 and
+23
+2020-2021 school years and in each subsequent school year,
+24
+all first grade students shall be screened for dyslexia.
+25 SB 64
+Page 10
+1 B. A student whose dyslexia screening demonstrates
+2 characteristics of dyslexia and who is having difficulty
+3 learning to read, write, spell, understand spoken language or
+4 express thoughts clearly shall receive appropriate classroom
+5 interventions through a multilayered system of supports or be
+6 referred to a student assistance team.
+7 C. In accordance with department procedures for a
+8 multilayered system of supports, guidelines and policies,
+9 each school district shall provide timely, appropriate,
+10 systematic, scientific, evidence-based interventions
+11 prescribed by the student assistance team, with progress
+12 monitoring to determine the student's response or lack of
+13 response to interventions.
+14 D. A parent of a student referred to a student
+15 assistance team shall be informed of the parent's right to
+16 request an initial special education evaluation at any time
+during the school district's implementation of the
+17
+interventions prescribed by the student assistance team. If
+18
+the school district agrees that the student may have a
+19
+disability, the student assistance team shall refer the child
+20
+for an evaluation. The student shall be evaluated within
+21
+sixty days of receiving the parental consent for an initial
+22
+evaluation. If the school district refuses the parent's
+23
+request for an initial evaluation, the school district shall
+24
+provide written notice of the refusal to the parent,
+25 SB 64
+Page 11
+1 including notice of the parent's right to challenge the
+2 school district's decision as provided in state and federal
+3 law and rules.
+4 E. Within the course of the 2019-2020 and
+5 2020-2021 school years, every school district shall develop
+6 and implement a literacy professional development plan that
+7 includes a detailed framework for structured literacy
+8 training by a licensed and accredited or credentialed teacher
+9 preparation provider for all elementary school teachers and
+10 for training in evidence-based reading intervention for
+11 reading interventionists and special education teachers
+12 working with students demonstrating characteristics of
+13 dyslexia or diagnosed with dyslexia. The plan shall continue
+14 to be implemented each school year and may be updated as
+15 necessary. The department shall provide lists of recommended
+16 teacher professional development materials and opportunities
+for teachers and school administrators regarding
+17
+evidence-based reading instruction for students at risk for
+18
+reading failure and displaying the characteristics of
+19
+dyslexia.
+20
+F. School districts shall train school
+21
+administrators and teachers who teach reading to implement
+22
+appropriate evidence-based reading interventions. School
+23
+districts shall train special education teachers to provide
+24
+structured literacy training for students who are identified
+25 SB 64
+Page 12
+1 with dyslexia as a specific learning disability and who are
+2 eligible for special education services.
+3 G. The department shall provide technical
+4 assistance for special education diagnosticians and other
+5 special education professionals regarding the formal special
+6 education evaluation of students suspected of having a
+7 specific learning disability, such as dyslexia.
+8 H. The department shall adopt rules, standards and
+9 guidelines necessary to implement this section."
+10 SECTION 7. TEMPORARY PROVISION--RECOMPILATION.--Section
+11 22-13-8 NMSA 1978 (being Laws 2009, Chapter 162, Section 1)
+12 is recompiled in the Special Education Act.
+13 SECTION 8. REPEAL.--Section 22-13-6 NMSA 1978 (being
+14 Laws 1972, Chapter 95, Section 2, as amended) is repealed.
+15 SECTION 9. EFFECTIVE DATE.--The effective date of the
+16 provisions of this act is July 1, 2026. SB 64
+Page 13
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO PUBLIC EDUCATION; ENACTING THE SPECIAL EDUCATION
+3 ACT; CREATING THE OFFICE OF SPECIAL EDUCATION IN THE PUBLIC
+4 EDUCATION DEPARTMENT; PROVIDING FOR A DEPUTY SECRETARY OF
+5 SPECIAL EDUCATION; PROVIDING POWERS AND DUTIES; REMOVING
+6 GIFTED STUDENTS FROM SPECIAL EDUCATION; RECOMPILING CURRENT
+7 SPECIAL EDUCATION STATUTES INTO THE SPECIAL EDUCATION ACT;
+8 AMENDING, REPEALING, ENACTING AND RECOMPILING SECTIONS OF THE
+9 NMSA 1978.
+10
+11 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+12 SECTION 1. Section 22-1-2 NMSA 1978 (being Laws 2003,
+13 Chapter 153, Section 3, as amended by Laws 2019, Chapter 206,
+14 Section 1 and by Laws 2019, Chapter 207, Section 1) is
+15 amended to read:
+16 "22-1-2. DEFINITIONS.--As used in the Public School
+17 Code:
+18 A. "academic proficiency" means mastery of the
+19 subject-matter knowledge and skills specified in state
+20 academic content and performance standards for a student's
+21 grade level;
+22 B. "charter school" means a school authorized by a
+23 chartering authority to operate as a public school;
+24 C. "commission" means the public education
+25 commission; SB 64
+Page 1
+
+1 D. "department" means the public education
+2 department;
+3 E. "exceptional child" means a school-age person
+4 whose abilities render regular services of a public school
+5 inconsistent with the student's educational needs;
+6 F. "gifted child" means a school-age person
+7 determined to be gifted pursuant to Section 22-13-6.1 NMSA
+8 1978 and standards adopted by the department in accordance
+9 with that section. Nothing in this subsection precludes a
+10 school district or charter school from offering additional
+11 gifted programs for students who fail to meet the eligibility
+12 criteria; however, the state shall only provide state funds
+13 for department-approved gifted programs for those students
+14 who meet the established criteria;
+15 G. "home school" means the operation by the parent
+16 of a school-age person of a home study program of instruction
+that provides a basic academic educational program, including
+17
+reading, language arts, mathematics, social studies and
+18
+science;
+19
+H. "instructional support provider" means a person
+20
+who is employed to support the instructional program of a
+21
+school district, including educational assistant, school
+22
+counselor, social worker, school nurse, speech-language
+23
+pathologist, psychologist, physical therapist, occupational
+24
+therapist, recreational therapist, marriage and family
+25 SB 64
+Page 2
+
+1 therapist, interpreter for the deaf and diagnostician;
+2 I. "licensed school employee" means teachers,
+3 school administrators and instructional support providers;
+4 J. "local school board" means the policy-setting
+5 body of a school district;
+6 K. "local superintendent" means the chief
+7 executive officer of a school district;
+8 L. "multilayered system of supports" means a
+9 coordinated and comprehensive framework of evidence-based
+10 academic and behavioral supports that address a student's
+11 educational needs with graduated intensity based on data
+12 collected about the student;
+13 M. "parent" includes a guardian or other person
+14 having custody and control of a school-age person;
+15 N. "private school" means a school, other than a
+16 home school, that offers on-site programs of instruction and
+that is not under the control, supervision or management of a
+17
+local school board;
+18
+O. "public school" means that part of a school
+19
+district that is a single attendance center in which
+20
+instruction is offered by one or more teachers and is
+21
+discernible as a building or group of buildings generally
+22
+recognized as either an elementary, middle, junior high or
+23
+high school or any combination of those and includes a
+24
+charter school;
+25 SB 64
+Page 3
+
+1 P. "school" means a supervised program of
+2 instruction designed to educate a student in a particular
+3 place, manner and subject area;
+4 Q. "school administrator" means a person licensed
+5 to administer in a school district and includes school
+6 principals, central district administrators and charter
+7 school head administrators;
+8 R. "school-age person" means a person who is at
+9 least five years of age prior to 12:01 a.m. on September 1 of
+10 the school year, who has not received a high school diploma
+11 or its equivalent and who has not reached the person's
+12 twenty-second birthday on the first day of the school year
+13 and meets other criteria provided in the Public School
+14 Finance Act;
+15 S. "school building" means a public school, an
+16 administration building and related school structures or
+facilities, including teacher housing, that is owned,
+17
+acquired or constructed by the school district as necessary
+18
+to carry out the functions of the school district;
+19
+T. "school bus private owner" means a person,
+20
+other than a school district, the department, the state or
+21
+any other political subdivision of the state, that owns a
+22
+school bus;
+23
+U. "school district" means an area of land
+24
+established as a political subdivision of the state for the
+25 SB 64
+Page 4
+
+1 administration of public schools and segregated
+2 geographically for taxation and bonding purposes;
+3 V. "school employee" includes licensed and
+4 nonlicensed employees of a school district;
+5 W. "school principal" means the chief
+6 instructional leader and administrative head of a public
+7 school;
+8 X. "school year" means the total number of
+9 contract days offered by public schools in a school district
+10 during a period of twelve consecutive months;
+11 Y. "secretary" means the secretary of public
+12 education;
+13 Z. "state agency" or "state institution" means the
+14 New Mexico military institute, New Mexico school for the
+15 blind and visually impaired, New Mexico school for the deaf,
+16 New Mexico boys' school, girls' welfare home, New Mexico
+youth diagnostic and development center, Sequoyah adolescent
+17
+treatment center, Carrie Tingley crippled children's
+18
+hospital, New Mexico behavioral health institute at Las Vegas
+19
+and any other state agency responsible for educating resident
+20
+children;
+21
+AA. "state educational institution" means an
+22
+institution enumerated in Article 12, Section 11 of the
+23
+constitution of New Mexico;
+24
+BB. "student" means a school-aged person who is
+25 SB 64
+Page 5
+
+1 enrolled in a public school;
+2 CC. "student assistance team" means a school-based
+3 group whose purpose is to provide additional educational
+4 support to students who are experiencing difficulties that
+5 are preventing them from benefiting from general instruction;
+6 DD. "substitute teacher" means a person who holds
+7 a certificate to substitute for a teacher in the classroom;
+8 EE. "teacher" means a person who holds a level
+9 one, two or three-A license and whose primary duty is
+10 classroom instruction or the supervision, below the school
+11 principal level, of an instructional program or whose duties
+12 include curriculum development, peer intervention, peer
+13 coaching or mentoring or serving as a resource teacher for
+14 other teachers;
+15 FF. "certified school instructor" means a licensed
+16 school employee; and
+GG. "certified school employee" or "certified
+17
+school personnel" means a licensed school employee."
+18
+SECTION 2. A new section of the Public School Code is
+19
+enacted to read:
+20
+"SHORT TITLE.--Sections 2 through 6 of this act may be
+21
+cited as the "Special Education Act"."
+22
+SECTION 3. A new section of the Public School Code is
+23
+enacted to read:
+24
+"DEFINITIONS.--As used in the Special Education Act:
+25 SB 64
+Page 6
+
+1 A. "deputy secretary" means the deputy secretary
+2 for special education;
+3 B. "dyslexia" means a specific learning disability
+4 that is neurobiological in origin and characterized by
+5 difficulty with accurate or fluent word recognition and poor
+6 spelling and decoding abilities, which characteristics
+7 typically result from a deficit in the phonological component
+8 of language that is often unexpected in relation to other
+9 cognitive abilities and the provision of effective classroom
+10 instruction and may result in problems in reading
+11 comprehension and reduced reading experience that may impede
+12 the growth of vocabulary and background knowledge;
+13 C. "office" means the office of special education;
+14 D. "school district" includes charter schools;
+15 E. "special education" means the provision of
+16 services additional to, supplementary to or different from
+those provided in the regular school program by a systematic
+17
+modification and adaptation of instructional techniques,
+18
+materials and equipment to meet the needs of three- and
+19
+four-year-old children and students with disabilities; and
+20
+F. "student with disabilities" means a student
+21
+with physical or mental impairments or specific learning
+22
+disabilities who, as a result of those impairments or
+23
+specific learning disabilities, requires special education
+24
+and related services in accordance with the federal
+25 SB 64
+Page 7
+
+1 Individuals with Disabilities Education Act."
+2 SECTION 4. A new section of the Public School Code is
+3 enacted to read:
+4 "OFFICE OF SPECIAL EDUCATION--CREATED--DUTIES.--
+5 A. The "office of special education" is created in
+6 the department. The "deputy secretary for special education"
+7 shall be appointed by the secretary on the basis of education
+8 and experience in special education. The deputy secretary
+9 shall direct the activities of the office and shall directly
+10 report to the secretary.
+11 B. The office shall:
+12 (1) ensure that students with disabilities
+13 are provided with the same opportunity for education as
+14 students without disabilities;
+15 (2) verify that all students with
+16 disabilities receive a free appropriate public education,
+regardless of the nature or severity of the disabilities;
+17
+(3) ensure stability and consistency of
+18
+services for students with disabilities;
+19
+(4) develop and maintain a statewide uniform
+20
+online system for the formulation of individualized education
+21
+programs and require all school districts to use the system
+22
+to document services, monitor progress and ensure
+23
+consistency, fidelity and compliance with the federal
+24
+Individuals with Disabilities Education Act time lines and
+25 SB 64
+Page 8
+
+1 safeguards;
+2 (5) enforce laws regarding the education of
+3 students with disabilities, including the federal Individuals
+4 with Disabilities Education Act and the Special Education
+5 Act, and monitor compliance with laws that prohibit
+6 discrimination against students with disabilities; and
+7 (6) consult with a committee of school
+8 district superintendents and charter school head
+9 administrators selected by their peers on a quarterly basis
+10 to plan and implement continuous improvement measures related
+11 to the systems and services provided to students with
+12 disabilities throughout the state."
+13 SECTION 5. Section 22-13-7 NMSA 1978 (being Laws 1972,
+14 Chapter 95, Section 3, as amended) is recompiled in the
+15 Special Education Act and is amended to read:
+16 "SPECIAL EDUCATION--RESPONSIBILITY.--
+A. The office shall make, adopt and keep current a
+17
+state plan for special education policy, programs and
+18
+standards.
+19
+B. The department shall set standards for
+20
+diagnosis and screening of and educational offerings for
+21
+students with disabilities in public schools, developmentally
+22
+delayed three- and four-year-old children and eligible
+23
+children in private, nonsectarian, nonprofit training centers
+24
+and in state institutions under the authority of the
+25 SB 64
+Page 9
+
+1 secretary of health.
+2 C. The department shall establish and maintain an
+3 evaluation program of the system that monitors the
+4 implementation and impact of all special education programs
+5 for three- and four-year-old developmentally delayed children
+6 and students with disabilities in the public schools. The
+7 system shall be operated with the cooperation of school
+8 districts. Portions of the system may be subcontracted, and
+9 periodic reports regarding the efficacy of special education
+10 programs for children and students with disabilities shall be
+11 made to the governor and the legislative education study
+12 committee.
+13 D. The office shall coordinate programming related
+14 to the transition of students with disabilities from
+15 secondary and post-secondary education programs to employment
+16 or vocational placement in accordance with the Special
+Education Act."
+17
+SECTION 6. Section 22-13-32 NMSA 1978 (being Laws 2010,
+18
+Chapter 59, Section 2, as amended) is recompiled in the
+19
+Special Education Act and is amended to read:
+20
+"SUPPORTS FOR STUDENTS DISPLAYING CHARACTERISTICS OF
+21
+DYSLEXIA.--
+22
+A. Within the course of the 2019-2020 and
+23
+2020-2021 school years and in each subsequent school year,
+24
+all first grade students shall be screened for dyslexia.
+25 SB 64
+Page 10
+
+1 B. A student whose dyslexia screening demonstrates
+2 characteristics of dyslexia and who is having difficulty
+3 learning to read, write, spell, understand spoken language or
+4 express thoughts clearly shall receive appropriate classroom
+5 interventions through a multilayered system of supports or be
+6 referred to a student assistance team.
+7 C. In accordance with department procedures for a
+8 multilayered system of supports, guidelines and policies,
+9 each school district shall provide timely, appropriate,
+10 systematic, scientific, evidence-based interventions
+11 prescribed by the student assistance team, with progress
+12 monitoring to determine the student's response or lack of
+13 response to interventions.
+14 D. A parent of a student referred to a student
+15 assistance team shall be informed of the parent's right to
+16 request an initial special education evaluation at any time
+during the school district's implementation of the
+17
+interventions prescribed by the student assistance team. If
+18
+the school district agrees that the student may have a
+19
+disability, the student assistance team shall refer the child
+20
+for an evaluation. The student shall be evaluated within
+21
+sixty days of receiving the parental consent for an initial
+22
+evaluation. If the school district refuses the parent's
+23
+request for an initial evaluation, the school district shall
+24
+provide written notice of the refusal to the parent,
+25 SB 64
+Page 11
+
+1 including notice of the parent's right to challenge the
+2 school district's decision as provided in state and federal
+3 law and rules.
+4 E. Within the course of the 2019-2020 and
+5 2020-2021 school years, every school district shall develop
+6 and implement a literacy professional development plan that
+7 includes a detailed framework for structured literacy
+8 training by a licensed and accredited or credentialed teacher
+9 preparation provider for all elementary school teachers and
+10 for training in evidence-based reading intervention for
+11 reading interventionists and special education teachers
+12 working with students demonstrating characteristics of
+13 dyslexia or diagnosed with dyslexia. The plan shall continue
+14 to be implemented each school year and may be updated as
+15 necessary. The department shall provide lists of recommended
+16 teacher professional development materials and opportunities
+for teachers and school administrators regarding
+17
+evidence-based reading instruction for students at risk for
+18
+reading failure and displaying the characteristics of
+19
+dyslexia.
+20
+F. School districts shall train school
+21
+administrators and teachers who teach reading to implement
+22
+appropriate evidence-based reading interventions. School
+23
+districts shall train special education teachers to provide
+24
+structured literacy training for students who are identified
+25 SB 64
+Page 12
+
+1 with dyslexia as a specific learning disability and who are
+2 eligible for special education services.
+3 G. The department shall provide technical
+4 assistance for special education diagnosticians and other
+5 special education professionals regarding the formal special
+6 education evaluation of students suspected of having a
+7 specific learning disability, such as dyslexia.
+8 H. The department shall adopt rules, standards and
+9 guidelines necessary to implement this section."
+10 SECTION 7. TEMPORARY PROVISION--RECOMPILATION.--Section
+11 22-13-8 NMSA 1978 (being Laws 2009, Chapter 162, Section 1)
+12 is recompiled in the Special Education Act.
+13 SECTION 8. REPEAL.--Section 22-13-6 NMSA 1978 (being
+14 Laws 1972, Chapter 95, Section 2, as amended) is repealed.
+15 SECTION 9. EFFECTIVE DATE.--The effective date of the
+16 provisions of this act is July 1, 2026. SB 64
+Page 13
+17
+18
+19
+20
+21
+22
+23
+24
+25

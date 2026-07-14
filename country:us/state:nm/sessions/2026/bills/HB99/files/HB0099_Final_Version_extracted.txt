@@ -1,0 +1,1072 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2 RELATING TO MEDICAL MALPRACTICE; CLARIFYING DEFINITIONS IN
+3 THE MEDICAL MALPRACTICE ACT; LIMITING PUNITIVE DAMAGES IN
+4 MEDICAL MALPRACTICE CASES; REQUIRING PAYMENTS FROM THE
+5 PATIENT'S COMPENSATION FUND TO BE MADE AS EXPENSES ARE
+6 INCURRED.
+7
+8 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+9 SECTION 1. Section 41-5-3 NMSA 1978 (being Laws 1976,
+10 Chapter 2, Section 3, as amended) is amended to read:
+11 "41-5-3. DEFINITIONS.--As used in the Medical
+12 Malpractice Act:
+13 A. "advisory board" means the patient's
+14 compensation fund advisory board;
+15 B. "control" means equity ownership in a business
+16 entity that:
+17 (1) represents more than fifty percent of
+18 the total voting power of the business entity; or
+19 (2) has a value of more than fifty percent
+20 of that business entity;
+21 C. "fund" means the patient's compensation fund;
+22 D. "health care provider" means a person, a
+23 corporation, an organization, a facility or an institution
+24 licensed or certified by this state to provide health care or
+25 professional services as a doctor of medicine, a hospital, an HJC/HB 99
+Page 1
+1 outpatient health care facility, a doctor of osteopathy, a
+2 chiropractor, a podiatric physician, a nurse anesthetist, a
+3 physician's assistant, a certified nurse practitioner, a
+4 clinical nurse specialist or certified nurse-midwife or a
+5 business entity that is organized, incorporated or formed
+6 pursuant to the laws of New Mexico that provides health care
+7 services primarily through natural persons identified in this
+8 subsection. "Health care provider" does not mean a person or
+9 an entity protected pursuant to the Tort Claims Act or the
+10 Federal Tort Claims Act;
+11 E. "hospital" means a facility licensed as a
+12 hospital in this state that offers inpatient services,
+13 nursing or overnight care on a twenty-four-hour basis for
+14 diagnosing, treating and providing medical, psychological or
+15 surgical care for three or more separate persons who have a
+16 physical or mental illness, disease, injury or rehabilitative
+17 condition or are pregnant and may offer emergency services.
+18 "Hospital" includes a hospital's parent corporation,
+19 subsidiary corporations or affiliates if incorporated or
+20 registered in New Mexico; employees and locum tenens
+21 providing services at the hospital; and agency nurses
+22 providing services at the hospital. "Hospital" does not mean
+23 a person or an entity protected pursuant to the Tort Claims
+24 Act or the Federal Tort Claims Act;
+25 F. "hospital system" means a group of two or more HJC/HB 99
+Page 2
+1 hospitals that are owned, operated or controlled by the same
+2 person or persons;
+3 G. "independent outpatient health care facility"
+4 means a health care facility that is an ambulatory surgical
+5 center, an urgent care facility or a free-standing emergency
+6 room that is not, directly or indirectly through one or more
+7 intermediaries, controlled or under common control with a
+8 hospital. "Independent outpatient health care facility"
+9 includes a facility's employees, locum tenens providers and
+10 agency nurses providing services at the facility.
+11 "Independent outpatient health care facility" does not mean a
+12 person or an entity protected pursuant to the Tort Claims Act
+13 or the Federal Tort Claims Act;
+14 H. "independent provider" means a doctor of
+15 medicine, doctor of osteopathy, chiropractor, podiatric
+16 physician, nurse anesthetist, physician's assistant,
+17 certified nurse practitioner, clinical nurse specialist or
+18 certified nurse-midwife who is not an employee of a hospital
+19 or an outpatient health care facility. "Independent
+20 provider" does not mean a person or an entity protected
+21 pursuant to the Tort Claims Act or the Federal Tort Claims
+22 Act. "Independent provider" includes:
+23 (1) a health care facility that is:
+24 (a) licensed pursuant to the Health
+25 Care Code as an outpatient facility; HJC/HB 99
+Page 3
+1 (b) not an ambulatory surgical center,
+2 an urgent care facility or a free-standing emergency room;
+3 and
+4 (c) not hospital-controlled; and
+5 (2) a business entity that is not a hospital
+6 or an outpatient health care facility that employs or
+7 consists of members who are licensed or certified as doctors
+8 of medicine, doctors of osteopathy, chiropractors, podiatric
+9 physicians, nurse anesthetists, physician's assistants,
+10 certified nurse practitioners, clinical nurse specialists or
+11 certified nurse-midwives and the business entity's employees;
+12 I. "insurer" means an insurance company engaged in
+13 writing health care provider malpractice liability insurance
+14 in this state;
+15 J. "malpractice claim" includes any cause of
+16 action arising in this state against a health care provider
+17 for medical treatment, lack of medical treatment or other
+18 claimed departure from accepted standards of health care that
+19 proximately results in injury to the patient, whether the
+20 patient's claim or cause of action sounds in tort or
+21 contract, and includes but is not limited to actions based on
+22 battery or wrongful death. "Malpractice claim" does not
+23 include a cause of action arising out of the driving, flying
+24 or nonmedical acts involved in the operation, use or
+25 maintenance of a vehicular or aircraft ambulance; HJC/HB 99
+Page 4
+1 K. "medical care and related benefits" means all
+2 reasonable medical, surgical, physical rehabilitation and
+3 custodial services and includes drugs, prosthetic devices and
+4 other similar materials reasonably necessary in the provision
+5 of such services;
+6 L. "occurrence" means a health care provider's or
+7 health care providers' acts or omissions in the course of
+8 medical treatment that created or combined to create an
+9 injury or injuries to a patient, regardless of the number of
+10 health care providers whose acts or omissions contributed to
+11 the injury or injuries; provided that "occurrence" shall not
+12 be construed to limit recovery to only one maximum statutory
+13 payment when independent medical acts or omissions cause
+14 separate injury or injuries to a patient in a course of
+15 medical treatment;
+16 M. "outpatient health care facility" means an
+17 entity that is hospital-controlled and is licensed pursuant
+18 to the Health Care Code as an outpatient facility, including
+19 ambulatory surgical centers, free-standing emergency rooms,
+20 urgent care clinics, acute care centers and intermediate care
+21 facilities and includes a facility's employees, locum tenens
+22 providers and agency nurses providing services at the
+23 facility. "Outpatient health care facility" does not
+24 include:
+25 (1) independent providers; HJC/HB 99
+Page 5
+1 (2) independent outpatient health care
+2 facilities; or
+3 (3) individuals or entities protected
+4 pursuant to the Tort Claims Act or the Federal Tort Claims
+5 Act;
+6 N. "patient" means a natural person who received
+7 or should have received health care from a health care
+8 provider, under a contract, express or implied;
+9 O. "superintendent" means the superintendent of
+10 insurance; and
+11 P. "value of accrued medical care and related
+12 benefits" means the actual amount paid or owed by a patient,
+13 or a third party on behalf of a patient, for medical care and
+14 related benefits. "Value of accrued medical care and related
+15 benefits" does not include any costs waived, written off or
+16 lowered by a health care provider."
+17 SECTION 2. Section 41-5-5 NMSA 1978 (being Laws 1992,
+18 Chapter 33, Section 2, as amended) is amended to read:
+19 "41-5-5. QUALIFICATIONS.--
+20 A. To be qualified under the provisions of the
+21 Medical Malpractice Act, a health care provider, except an
+22 independent outpatient health care facility, shall:
+23 (1) establish its financial responsibility
+24 by filing proof with the superintendent that the health care
+25 provider is insured by a policy of malpractice liability HJC/HB 99
+Page 6
+1 insurance issued by an authorized insurer in the amount of at
+2 least two hundred fifty thousand dollars ($250,000) per
+3 occurrence or by having continuously on deposit the sum of
+4 seven hundred fifty thousand dollars ($750,000) in cash with
+5 the superintendent or such other like deposit as the
+6 superintendent may allow by rule; provided that hospitals and
+7 hospital-controlled outpatient health care facilities that
+8 establish financial responsibility through a policy of
+9 malpractice liability insurance may use any form of
+10 malpractice insurance; and provided further that for
+11 independent providers, in the absence of an additional
+12 deposit or policy as required by this subsection, the deposit
+13 or policy shall provide coverage for not more than three
+14 separate occurrences; and
+15 (2) pay the surcharge assessed on health
+16 care providers by the superintendent pursuant to Section
+17 41-5-25 NMSA 1978.
+18 B. To be qualified under the provisions of the
+19 Medical Malpractice Act, an independent outpatient health
+20 care facility shall:
+21 (1) establish its financial responsibility
+22 by filing proof with the superintendent that the health care
+23 provider is insured by a policy of malpractice liability
+24 insurance issued by an authorized insurer in the amount of at
+25 least five hundred thousand dollars ($500,000) per occurrence HJC/HB 99
+Page 7
+1 or by having continuously on deposit the sum of one million
+2 five hundred thousand dollars ($1,500,000) in cash with the
+3 superintendent or other like deposit as the superintendent
+4 may allow by rule; provided that for independent outpatient
+5 health care facilities, in the absence of an additional
+6 deposit or policy as required by this subsection, the deposit
+7 or policy shall provide coverage for not more than three
+8 separate occurrences; and
+9 (2) pay the surcharge assessed on
+10 independent outpatient health care facilities by the
+11 superintendent pursuant to Section 41-5-25 NMSA 1978.
+12 C. For hospitals or hospital-controlled outpatient
+13 health care facilities electing to be covered under the
+14 Medical Malpractice Act, the superintendent shall determine,
+15 based on a risk assessment of each hospital or hospital-
+16 controlled outpatient health care facility, each hospital's
+17 or hospital-controlled outpatient health care facility's base
+18 coverage or deposit and additional charges for the fund. The
+19 superintendent shall arrange for an actuarial study before
+20 determining base coverage or deposit and surcharges.
+21 D. A health care provider not qualifying under
+22 this section shall not have the benefit of any of the
+23 provisions of the Medical Malpractice Act in the event of a
+24 malpractice claim against it; provided that beginning July 1,
+25 2021, hospitals and hospital-controlled outpatient health HJC/HB 99
+Page 8
+1 care facilities shall not participate in the medical review
+2 process."
+3 SECTION 3. Section 41-5-6 NMSA 1978 (being Laws 1992,
+4 Chapter 33, Section 4, as amended) is amended to read:
+5 "41-5-6. LIMITATION OF RECOVERY.--
+6 A. Except for punitive damages and past and future
+7 medical care and related benefits, the aggregate dollar
+8 amount recoverable by all persons for or arising from any
+9 injury or death to a patient as a result of malpractice shall
+10 not exceed six hundred thousand dollars ($600,000) per
+11 occurrence for malpractice claims brought against health care
+12 providers if the injury or death occurred prior to January 1,
+13 2022. In jury cases, the jury shall not be given any
+14 instructions dealing with this limitation.
+15 B. Except for punitive damages and past and future
+16 medical care and related benefits, the aggregate dollar
+17 amount recoverable by all persons for or arising from any
+18 injury or death to a patient as a result of malpractice shall
+19 not exceed seven hundred fifty thousand dollars ($750,000)
+20 per occurrence for malpractice claims against independent
+21 providers; provided that, beginning January 1, 2023, the per
+22 occurrence limit on recovery shall be adjusted annually by
+23 the consumer price index for all urban consumers.
+24 C. The aggregate dollar amount recoverable by all
+25 persons for or arising from any injury or death to a patient HJC/HB 99
+Page 9
+1 as a result of malpractice, except for punitive damages and
+2 past and future medical care and related benefits, shall not
+3 exceed seven hundred fifty thousand dollars ($750,000) for
+4 claims brought against an independent outpatient health care
+5 facility; for an injury or death that occurred in calendar
+6 years 2022 and 2023.
+7 D. In calendar year 2024 and subsequent years, the
+8 aggregate dollar amount recoverable by all persons for or
+9 arising from an injury or death to a patient as a result of
+10 malpractice, except for punitive damages and past and future
+11 medical care and related benefits, shall not exceed the
+12 following amounts for claims brought against an independent
+13 outpatient health care facility:
+14 (1) for an injury or death that occurred in
+15 calendar year 2024, one million dollars ($1,000,000) per
+16 occurrence; and
+17 (2) for an injury or death that occurred in
+18 calendar year 2025 and thereafter, the amount provided in
+19 Paragraph (1) of this subsection, adjusted annually by the
+20 prior three-year average consumer price index for all urban
+21 consumers, per occurrence.
+22 E. In calendar year 2022 and subsequent calendar
+23 years, the aggregate dollar amount recoverable by all persons
+24 for or arising from any injury or death to a patient as a
+25 result of malpractice, except for punitive damages and past HJC/HB 99
+Page 10
+1 and future medical care and related benefits, shall not
+2 exceed the following amounts for claims brought against a
+3 hospital or a hospital-controlled outpatient health care
+4 facility:
+5 (1) for an injury or death that occurred in
+6 calendar year 2022, four million dollars ($4,000,000) per
+7 occurrence;
+8 (2) for an injury or death that occurred in
+9 calendar year 2023, four million five hundred thousand
+10 dollars ($4,500,000) per occurrence;
+11 (3) for an injury or death that occurred in
+12 calendar year 2024, five million dollars ($5,000,000) per
+13 occurrence;
+14 (4) for an injury or death that occurred in
+15 calendar year 2025, five million five hundred thousand
+16 dollars ($5,500,000) per occurrence;
+17 (5) for an injury or death that occurred in
+18 calendar year 2026, six million dollars ($6,000,000) per
+19 occurrence; and
+20 (6) for an injury or death that occurred in
+21 calendar year 2027 and each calendar year thereafter, the
+22 amount provided in Paragraph (5) of this subsection, adjusted
+23 annually by the consumer price index for all urban consumers,
+24 per occurrence.
+25 F. The aggregate dollar amounts provided in HJC/HB 99
+Page 11
+1 Subsections B through E of this section include payment to
+2 any person for any number of loss of consortium claims or
+3 other claims per occurrence that arise solely because of the
+4 injuries or death of the patient.
+5 G. In jury cases, the jury shall not be given any
+6 instructions dealing with the limitations provided in this
+7 section.
+8 H. The value of accrued medical care and related
+9 benefits shall not be subject to any limitation.
+10 I. Except for an independent outpatient health
+11 care facility, a health care provider's personal liability is
+12 limited to two hundred fifty thousand dollars ($250,000) for
+13 monetary damages and medical care and related benefits as
+14 provided in Section 41-5-7 NMSA 1978. Any amount due from a
+15 judgment or settlement in excess of two hundred fifty
+16 thousand dollars ($250,000) shall be paid from the fund,
+17 except as provided in Subsections J and K of this section.
+18 J. An independent outpatient health care
+19 facility's personal liability is limited to five hundred
+20 thousand dollars ($500,000) for monetary damages and medical
+21 care and related benefits as provided in Section 41-5-7 NMSA
+22 1978. Any amount due from a judgment or settlement in excess
+23 of five hundred thousand dollars ($500,000) shall be paid
+24 from the fund.
+25 K. Amounts due from a judgment or settlement HJC/HB 99
+Page 12
+1 against a hospital or hospital-controlled outpatient health
+2 care facility in excess of seven hundred fifty thousand
+3 dollars ($750,000), excluding past and future medical
+4 expenses, shall be paid by the hospital or hospital-
+5 controlled outpatient health care facility and not by the
+6 fund."
+7 SECTION 4. Section 41-5-7 NMSA 1978 (being Laws 1992,
+8 Chapter 33, Section 5, as amended) is amended to read:
+9 "41-5-7. MEDICAL EXPENSES.--
+10 A. Awards of past and future medical care and
+11 related benefits shall not be subject to the limitations of
+12 recovery imposed in Section 41-5-6 NMSA 1978.
+13 B. The health care provider shall be liable for
+14 all medical care and related benefit payments until the total
+15 payments made by or on behalf of it for monetary damages and
+16 medical care and related benefits combined equals the health
+17 care provider's personal liability limit as provided in
+18 Section 41-5-6 NMSA 1978, after which the payments shall be
+19 made by the fund.
+20 C. Payments made from the fund for the cost of
+21 medical care and related benefits shall be made as expenses
+22 are incurred."
+23 SECTION 5. A new section of the Medical Malpractice
+24 Act, Section 41-5-7.1 NMSA 1978, is enacted to read:
+25 "41-5-7.1. PUNITIVE DAMAGES.-- HJC/HB 99
+Page 13
+1 A. Punitive damages may only be awarded in a
+2 malpractice claim if the prevailing party provides clear and
+3 convincing evidence demonstrating that the acts of the health
+4 care provider were malicious, willful, wanton, reckless,
+5 fraudulent or in bad faith.
+6 B. A judgment of punitive damages against any of
+7 the following persons shall not be in an amount greater than
+8 the applicable limitation on monetary damages provided in
+9 Section 41-5-6 NMSA 1978:
+10 (1) an independent provider;
+11 (2) an independent outpatient health care
+12 facility and the facility's employees, locum tenens providers
+13 and agency nurses;
+14 (3) a hospital operated by a New Mexico
+15 resident or domestic corporation that is not part of a
+16 hospital system and the hospital's employees, locum tenens
+17 providers and agency nurses; and
+18 (4) employees, locum tenens providers and
+19 agency nurses of a hospital or a hospital-controlled
+20 outpatient health care facility.
+21 C. Except as provided in Subsection B of this
+22 section, a judgment of punitive damages against a hospital or
+23 hospital-controlled outpatient health care facility shall not
+24 be in an amount greater than two and one-half times the
+25 applicable limitation on monetary damages provided in Section HJC/HB 99
+Page 14
+1 41-5-6 NMSA 1978.
+2 D. A judgment of punitive damages against a health
+3 care provider shall not be paid from the fund.
+4 E. The initial claim for relief in a malpractice
+5 claim shall not include punitive damages. A claim for
+6 punitive damages may be asserted by amendment to the
+7 pleadings only after the plaintiff has presented sufficient
+8 evidence to the court that it is more likely than not that
+9 the claim has a triable issue after substantial completion of
+10 discovery. If the court allows amendment to the complaint
+11 pursuant to this subsection, the court, in its discretion,
+12 may permit additional discovery on the question of punitive
+13 damages."
+14 SECTION 6. Section 41-5-25 NMSA 1978 (being Laws 1992,
+15 Chapter 33, Section 9, as amended) is amended to read:
+16 "41-5-25. PATIENT'S COMPENSATION FUND--THIRD-PARTY
+17 ADMINISTRATOR--ACTUARIAL STUDIES--SURCHARGES--CLAIMS--
+18 PRORATION--PROOFS OF AUTHENTICITY.--
+19 A. The "patient's compensation fund" is created as
+20 a nonreverting fund in the state treasury. The fund consists
+21 of money from surcharges, income from investment of the fund
+22 and any other money deposited to the credit of the fund. The
+23 fund shall be held in trust, deposited in a segregated
+24 account in the state treasury and invested by the investment
+25 office and shall not become a part of or revert to the HJC/HB 99
+Page 15
+1 general fund or any other fund of the state. Money from the
+2 fund shall be expended only for the purposes of and to the
+3 extent provided in the Medical Malpractice Act. All approved
+4 expenses of collecting, protecting and administering the
+5 fund, including purchasing insurance for the fund, shall be
+6 paid from the fund.
+7 B. The superintendent shall contract for the
+8 administration and operation of the fund with a qualified,
+9 licensed third-party administrator, selected in consultation
+10 with the advisory board, no later than January 1, 2022. The
+11 third-party administrator shall provide an annual audit of
+12 the fund to the superintendent.
+13 C. The superintendent, as custodian of the fund,
+14 and the third-party administrator shall be notified by the
+15 health care provider or the health care provider's insurer
+16 within thirty days of service on the health care provider of
+17 a complaint asserting a malpractice claim brought in a court
+18 in this state against the health care provider.
+19 D. The superintendent shall levy an annual
+20 surcharge on all New Mexico health care providers qualifying
+21 under Section 41-5-5 NMSA 1978. The surcharge for health
+22 care providers shall be based on sound actuarial principles,
+23 using data obtained from New Mexico claims and loss
+24 experience. The surcharges for independent providers and
+25 independent outpatient health care facilities shall be HJC/HB 99
+Page 16
+1 determined by the superintendent with the advice of the
+2 advisory board and based on the annual independent actuarial
+3 study of the fund. The surcharge for hospitals and
+4 outpatient health care facilities shall be no less than the
+5 actuary's recommended surcharges based on an expected value
+6 basis to fully fund the current and projected claims
+7 obligations of the hospitals and outpatient health care
+8 facilities. A hospital or outpatient health care facility
+9 seeking participation in the fund during the remaining
+10 qualifying years shall provide, at a minimum, the hospital's
+11 or outpatient health care facility's direct and indirect cost
+12 information as reported to the federal centers for medicare
+13 and medicaid services for all self-insured malpractice
+14 claims, including claims and paid loss detail, and the claims
+15 and paid loss detail from any professional liability
+16 insurance carriers for each hospital or outpatient health
+17 care facility and each employed health care provider for the
+18 past eight years to the third-party actuary. The same
+19 information shall be available to the advisory board for
+20 review, including financial information and data, and
+21 excluding individually identifying case information, which
+22 information shall not be subject to the Inspection of Public
+23 Records Act. The superintendent, the third-party actuary or
+24 the advisory board shall not use or disclose the information
+25 for any purpose other than to fulfill the duties pursuant to HJC/HB 99
+Page 17
+1 this subsection.
+2 E. The surcharge shall be collected on the same
+3 basis as premiums by each insurer from the health care
+4 provider. The surcharge shall be due and payable within
+5 thirty days after the premiums for malpractice liability
+6 insurance have been received by the insurer from the health
+7 care provider in New Mexico. If the surcharge is collected
+8 but not paid timely, the superintendent may suspend the
+9 certificate of authority of the insurer until the annual
+10 premium surcharge is paid.
+11 F. Surcharges shall be set by October 31 of each
+12 year for the next calendar year. Beginning in 2021, the
+13 surcharges shall be set with the intention of bringing the
+14 fund to solvency with no projected deficit by December 31,
+15 2026. All qualified and participating hospitals and
+16 outpatient health care facilities shall cure any fund deficit
+17 attributable to hospitals and outpatient health care
+18 facilities by December 31, 2026.
+19 G. If the fund would be exhausted by payment of
+20 all claims allowed during a particular calendar year, then
+21 the amounts paid to each patient and other parties obtaining
+22 judgments shall be prorated, with each such party receiving
+23 an amount equal to the percentage the party's own payment
+24 schedule bears to the total of payment schedules outstanding
+25 and payable by the fund. Any amounts due and unpaid as a HJC/HB 99
+Page 18
+1 result of such proration shall be paid in the following
+2 calendar years.
+3 H. Upon receipt of one of the proofs of
+4 authenticity listed in this subsection, reflecting a judgment
+5 for damages rendered pursuant to the Medical Malpractice Act,
+6 the superintendent shall issue or have issued warrants in
+7 accordance with the payment schedule constructed by the court
+8 and made a part of its final judgment. The only claim
+9 against the fund shall be a voucher or other appropriate
+10 request by the superintendent after the superintendent
+11 receives:
+12 (1) until January 1, 2022, a certified copy
+13 of a final judgment in excess of two hundred thousand dollars
+14 ($200,000) against a health care provider;
+15 (2) until January 1, 2022, a certified copy
+16 of a court-approved settlement or certification of settlement
+17 made prior to initiating suit, signed by both parties, in
+18 excess of two hundred thousand dollars ($200,000) against a
+19 health care provider; or
+20 (3) until January 1, 2022, a certified copy
+21 of a final judgment less than two hundred thousand dollars
+22 ($200,000) and an affidavit of a health care provider or its
+23 insurer attesting that payments made pursuant to Subsection B
+24 of Section 41-5-7 NMSA 1978, combined with the monetary
+25 recovery, exceed two hundred thousand dollars ($200,000). HJC/HB 99
+Page 19
+1 I. On or after January 1, 2022, the amounts
+2 specified in Paragraphs (1) through (3) of Subsection H of
+3 this section shall be two hundred fifty thousand dollars
+4 ($250,000)."
+5 SECTION 7. SEVERABILITY.--If a provision of this act or
+6 its application to any person or circumstance is held
+7 invalid, the invalidity does not affect other provisions or
+8 applications of this act that can be given effect without the
+9 invalid provision or application, and to this end the
+10 provisions of this act are severable.
+11 SECTION 8. APPLICABILITY.--The provisions of this act
+12 apply to all claims for medical malpractice that arise on or
+13 after the effective date of this act. HJC/HB 99
+Page 20
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO MEDICAL MALPRACTICE; CLARIFYING DEFINITIONS IN
+3 THE MEDICAL MALPRACTICE ACT; LIMITING PUNITIVE DAMAGES IN
+4 MEDICAL MALPRACTICE CASES; REQUIRING PAYMENTS FROM THE
+5 PATIENT'S COMPENSATION FUND TO BE MADE AS EXPENSES ARE
+6 INCURRED.
+7
+8 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+9 SECTION 1. Section 41-5-3 NMSA 1978 (being Laws 1976,
+10 Chapter 2, Section 3, as amended) is amended to read:
+11 "41-5-3. DEFINITIONS.--As used in the Medical
+12 Malpractice Act:
+13 A. "advisory board" means the patient's
+14 compensation fund advisory board;
+15 B. "control" means equity ownership in a business
+16 entity that:
+17 (1) represents more than fifty percent of
+18 the total voting power of the business entity; or
+19 (2) has a value of more than fifty percent
+20 of that business entity;
+21 C. "fund" means the patient's compensation fund;
+22 D. "health care provider" means a person, a
+23 corporation, an organization, a facility or an institution
+24 licensed or certified by this state to provide health care or
+25 professional services as a doctor of medicine, a hospital, an HJC/HB 99
+Page 1
+
+1 outpatient health care facility, a doctor of osteopathy, a
+2 chiropractor, a podiatric physician, a nurse anesthetist, a
+3 physician's assistant, a certified nurse practitioner, a
+4 clinical nurse specialist or certified nurse-midwife or a
+5 business entity that is organized, incorporated or formed
+6 pursuant to the laws of New Mexico that provides health care
+7 services primarily through natural persons identified in this
+8 subsection. "Health care provider" does not mean a person or
+9 an entity protected pursuant to the Tort Claims Act or the
+10 Federal Tort Claims Act;
+11 E. "hospital" means a facility licensed as a
+12 hospital in this state that offers inpatient services,
+13 nursing or overnight care on a twenty-four-hour basis for
+14 diagnosing, treating and providing medical, psychological or
+15 surgical care for three or more separate persons who have a
+16 physical or mental illness, disease, injury or rehabilitative
+17 condition or are pregnant and may offer emergency services.
+18 "Hospital" includes a hospital's parent corporation,
+19 subsidiary corporations or affiliates if incorporated or
+20 registered in New Mexico; employees and locum tenens
+21 providing services at the hospital; and agency nurses
+22 providing services at the hospital. "Hospital" does not mean
+23 a person or an entity protected pursuant to the Tort Claims
+24 Act or the Federal Tort Claims Act;
+25 F. "hospital system" means a group of two or more HJC/HB 99
+Page 2
+
+1 hospitals that are owned, operated or controlled by the same
+2 person or persons;
+3 G. "independent outpatient health care facility"
+4 means a health care facility that is an ambulatory surgical
+5 center, an urgent care facility or a free-standing emergency
+6 room that is not, directly or indirectly through one or more
+7 intermediaries, controlled or under common control with a
+8 hospital. "Independent outpatient health care facility"
+9 includes a facility's employees, locum tenens providers and
+10 agency nurses providing services at the facility.
+11 "Independent outpatient health care facility" does not mean a
+12 person or an entity protected pursuant to the Tort Claims Act
+13 or the Federal Tort Claims Act;
+14 H. "independent provider" means a doctor of
+15 medicine, doctor of osteopathy, chiropractor, podiatric
+16 physician, nurse anesthetist, physician's assistant,
+17 certified nurse practitioner, clinical nurse specialist or
+18 certified nurse-midwife who is not an employee of a hospital
+19 or an outpatient health care facility. "Independent
+20 provider" does not mean a person or an entity protected
+21 pursuant to the Tort Claims Act or the Federal Tort Claims
+22 Act. "Independent provider" includes:
+23 (1) a health care facility that is:
+24 (a) licensed pursuant to the Health
+25 Care Code as an outpatient facility; HJC/HB 99
+Page 3
+
+1 (b) not an ambulatory surgical center,
+2 an urgent care facility or a free-standing emergency room;
+3 and
+4 (c) not hospital-controlled; and
+5 (2) a business entity that is not a hospital
+6 or an outpatient health care facility that employs or
+7 consists of members who are licensed or certified as doctors
+8 of medicine, doctors of osteopathy, chiropractors, podiatric
+9 physicians, nurse anesthetists, physician's assistants,
+10 certified nurse practitioners, clinical nurse specialists or
+11 certified nurse-midwives and the business entity's employees;
+12 I. "insurer" means an insurance company engaged in
+13 writing health care provider malpractice liability insurance
+14 in this state;
+15 J. "malpractice claim" includes any cause of
+16 action arising in this state against a health care provider
+17 for medical treatment, lack of medical treatment or other
+18 claimed departure from accepted standards of health care that
+19 proximately results in injury to the patient, whether the
+20 patient's claim or cause of action sounds in tort or
+21 contract, and includes but is not limited to actions based on
+22 battery or wrongful death. "Malpractice claim" does not
+23 include a cause of action arising out of the driving, flying
+24 or nonmedical acts involved in the operation, use or
+25 maintenance of a vehicular or aircraft ambulance; HJC/HB 99
+Page 4
+
+1 K. "medical care and related benefits" means all
+2 reasonable medical, surgical, physical rehabilitation and
+3 custodial services and includes drugs, prosthetic devices and
+4 other similar materials reasonably necessary in the provision
+5 of such services;
+6 L. "occurrence" means a health care provider's or
+7 health care providers' acts or omissions in the course of
+8 medical treatment that created or combined to create an
+9 injury or injuries to a patient, regardless of the number of
+10 health care providers whose acts or omissions contributed to
+11 the injury or injuries; provided that "occurrence" shall not
+12 be construed to limit recovery to only one maximum statutory
+13 payment when independent medical acts or omissions cause
+14 separate injury or injuries to a patient in a course of
+15 medical treatment;
+16 M. "outpatient health care facility" means an
+17 entity that is hospital-controlled and is licensed pursuant
+18 to the Health Care Code as an outpatient facility, including
+19 ambulatory surgical centers, free-standing emergency rooms,
+20 urgent care clinics, acute care centers and intermediate care
+21 facilities and includes a facility's employees, locum tenens
+22 providers and agency nurses providing services at the
+23 facility. "Outpatient health care facility" does not
+24 include:
+25 (1) independent providers; HJC/HB 99
+Page 5
+
+1 (2) independent outpatient health care
+2 facilities; or
+3 (3) individuals or entities protected
+4 pursuant to the Tort Claims Act or the Federal Tort Claims
+5 Act;
+6 N. "patient" means a natural person who received
+7 or should have received health care from a health care
+8 provider, under a contract, express or implied;
+9 O. "superintendent" means the superintendent of
+10 insurance; and
+11 P. "value of accrued medical care and related
+12 benefits" means the actual amount paid or owed by a patient,
+13 or a third party on behalf of a patient, for medical care and
+14 related benefits. "Value of accrued medical care and related
+15 benefits" does not include any costs waived, written off or
+16 lowered by a health care provider."
+17 SECTION 2. Section 41-5-5 NMSA 1978 (being Laws 1992,
+18 Chapter 33, Section 2, as amended) is amended to read:
+19 "41-5-5. QUALIFICATIONS.--
+20 A. To be qualified under the provisions of the
+21 Medical Malpractice Act, a health care provider, except an
+22 independent outpatient health care facility, shall:
+23 (1) establish its financial responsibility
+24 by filing proof with the superintendent that the health care
+25 provider is insured by a policy of malpractice liability HJC/HB 99
+Page 6
+
+1 insurance issued by an authorized insurer in the amount of at
+2 least two hundred fifty thousand dollars ($250,000) per
+3 occurrence or by having continuously on deposit the sum of
+4 seven hundred fifty thousand dollars ($750,000) in cash with
+5 the superintendent or such other like deposit as the
+6 superintendent may allow by rule; provided that hospitals and
+7 hospital-controlled outpatient health care facilities that
+8 establish financial responsibility through a policy of
+9 malpractice liability insurance may use any form of
+10 malpractice insurance; and provided further that for
+11 independent providers, in the absence of an additional
+12 deposit or policy as required by this subsection, the deposit
+13 or policy shall provide coverage for not more than three
+14 separate occurrences; and
+15 (2) pay the surcharge assessed on health
+16 care providers by the superintendent pursuant to Section
+17 41-5-25 NMSA 1978.
+18 B. To be qualified under the provisions of the
+19 Medical Malpractice Act, an independent outpatient health
+20 care facility shall:
+21 (1) establish its financial responsibility
+22 by filing proof with the superintendent that the health care
+23 provider is insured by a policy of malpractice liability
+24 insurance issued by an authorized insurer in the amount of at
+25 least five hundred thousand dollars ($500,000) per occurrence HJC/HB 99
+Page 7
+
+1 or by having continuously on deposit the sum of one million
+2 five hundred thousand dollars ($1,500,000) in cash with the
+3 superintendent or other like deposit as the superintendent
+4 may allow by rule; provided that for independent outpatient
+5 health care facilities, in the absence of an additional
+6 deposit or policy as required by this subsection, the deposit
+7 or policy shall provide coverage for not more than three
+8 separate occurrences; and
+9 (2) pay the surcharge assessed on
+10 independent outpatient health care facilities by the
+11 superintendent pursuant to Section 41-5-25 NMSA 1978.
+12 C. For hospitals or hospital-controlled outpatient
+13 health care facilities electing to be covered under the
+14 Medical Malpractice Act, the superintendent shall determine,
+15 based on a risk assessment of each hospital or hospital-
+16 controlled outpatient health care facility, each hospital's
+17 or hospital-controlled outpatient health care facility's base
+18 coverage or deposit and additional charges for the fund. The
+19 superintendent shall arrange for an actuarial study before
+20 determining base coverage or deposit and surcharges.
+21 D. A health care provider not qualifying under
+22 this section shall not have the benefit of any of the
+23 provisions of the Medical Malpractice Act in the event of a
+24 malpractice claim against it; provided that beginning July 1,
+25 2021, hospitals and hospital-controlled outpatient health HJC/HB 99
+Page 8
+
+1 care facilities shall not participate in the medical review
+2 process."
+3 SECTION 3. Section 41-5-6 NMSA 1978 (being Laws 1992,
+4 Chapter 33, Section 4, as amended) is amended to read:
+5 "41-5-6. LIMITATION OF RECOVERY.--
+6 A. Except for punitive damages and past and future
+7 medical care and related benefits, the aggregate dollar
+8 amount recoverable by all persons for or arising from any
+9 injury or death to a patient as a result of malpractice shall
+10 not exceed six hundred thousand dollars ($600,000) per
+11 occurrence for malpractice claims brought against health care
+12 providers if the injury or death occurred prior to January 1,
+13 2022. In jury cases, the jury shall not be given any
+14 instructions dealing with this limitation.
+15 B. Except for punitive damages and past and future
+16 medical care and related benefits, the aggregate dollar
+17 amount recoverable by all persons for or arising from any
+18 injury or death to a patient as a result of malpractice shall
+19 not exceed seven hundred fifty thousand dollars ($750,000)
+20 per occurrence for malpractice claims against independent
+21 providers; provided that, beginning January 1, 2023, the per
+22 occurrence limit on recovery shall be adjusted annually by
+23 the consumer price index for all urban consumers.
+24 C. The aggregate dollar amount recoverable by all
+25 persons for or arising from any injury or death to a patient HJC/HB 99
+Page 9
+
+1 as a result of malpractice, except for punitive damages and
+2 past and future medical care and related benefits, shall not
+3 exceed seven hundred fifty thousand dollars ($750,000) for
+4 claims brought against an independent outpatient health care
+5 facility; for an injury or death that occurred in calendar
+6 years 2022 and 2023.
+7 D. In calendar year 2024 and subsequent years, the
+8 aggregate dollar amount recoverable by all persons for or
+9 arising from an injury or death to a patient as a result of
+10 malpractice, except for punitive damages and past and future
+11 medical care and related benefits, shall not exceed the
+12 following amounts for claims brought against an independent
+13 outpatient health care facility:
+14 (1) for an injury or death that occurred in
+15 calendar year 2024, one million dollars ($1,000,000) per
+16 occurrence; and
+17 (2) for an injury or death that occurred in
+18 calendar year 2025 and thereafter, the amount provided in
+19 Paragraph (1) of this subsection, adjusted annually by the
+20 prior three-year average consumer price index for all urban
+21 consumers, per occurrence.
+22 E. In calendar year 2022 and subsequent calendar
+23 years, the aggregate dollar amount recoverable by all persons
+24 for or arising from any injury or death to a patient as a
+25 result of malpractice, except for punitive damages and past HJC/HB 99
+Page 10
+
+1 and future medical care and related benefits, shall not
+2 exceed the following amounts for claims brought against a
+3 hospital or a hospital-controlled outpatient health care
+4 facility:
+5 (1) for an injury or death that occurred in
+6 calendar year 2022, four million dollars ($4,000,000) per
+7 occurrence;
+8 (2) for an injury or death that occurred in
+9 calendar year 2023, four million five hundred thousand
+10 dollars ($4,500,000) per occurrence;
+11 (3) for an injury or death that occurred in
+12 calendar year 2024, five million dollars ($5,000,000) per
+13 occurrence;
+14 (4) for an injury or death that occurred in
+15 calendar year 2025, five million five hundred thousand
+16 dollars ($5,500,000) per occurrence;
+17 (5) for an injury or death that occurred in
+18 calendar year 2026, six million dollars ($6,000,000) per
+19 occurrence; and
+20 (6) for an injury or death that occurred in
+21 calendar year 2027 and each calendar year thereafter, the
+22 amount provided in Paragraph (5) of this subsection, adjusted
+23 annually by the consumer price index for all urban consumers,
+24 per occurrence.
+25 F. The aggregate dollar amounts provided in HJC/HB 99
+Page 11
+
+1 Subsections B through E of this section include payment to
+2 any person for any number of loss of consortium claims or
+3 other claims per occurrence that arise solely because of the
+4 injuries or death of the patient.
+5 G. In jury cases, the jury shall not be given any
+6 instructions dealing with the limitations provided in this
+7 section.
+8 H. The value of accrued medical care and related
+9 benefits shall not be subject to any limitation.
+10 I. Except for an independent outpatient health
+11 care facility, a health care provider's personal liability is
+12 limited to two hundred fifty thousand dollars ($250,000) for
+13 monetary damages and medical care and related benefits as
+14 provided in Section 41-5-7 NMSA 1978. Any amount due from a
+15 judgment or settlement in excess of two hundred fifty
+16 thousand dollars ($250,000) shall be paid from the fund,
+17 except as provided in Subsections J and K of this section.
+18 J. An independent outpatient health care
+19 facility's personal liability is limited to five hundred
+20 thousand dollars ($500,000) for monetary damages and medical
+21 care and related benefits as provided in Section 41-5-7 NMSA
+22 1978. Any amount due from a judgment or settlement in excess
+23 of five hundred thousand dollars ($500,000) shall be paid
+24 from the fund.
+25 K. Amounts due from a judgment or settlement HJC/HB 99
+Page 12
+
+1 against a hospital or hospital-controlled outpatient health
+2 care facility in excess of seven hundred fifty thousand
+3 dollars ($750,000), excluding past and future medical
+4 expenses, shall be paid by the hospital or hospital-
+5 controlled outpatient health care facility and not by the
+6 fund."
+7 SECTION 4. Section 41-5-7 NMSA 1978 (being Laws 1992,
+8 Chapter 33, Section 5, as amended) is amended to read:
+9 "41-5-7. MEDICAL EXPENSES.--
+10 A. Awards of past and future medical care and
+11 related benefits shall not be subject to the limitations of
+12 recovery imposed in Section 41-5-6 NMSA 1978.
+13 B. The health care provider shall be liable for
+14 all medical care and related benefit payments until the total
+15 payments made by or on behalf of it for monetary damages and
+16 medical care and related benefits combined equals the health
+17 care provider's personal liability limit as provided in
+18 Section 41-5-6 NMSA 1978, after which the payments shall be
+19 made by the fund.
+20 C. Payments made from the fund for the cost of
+21 medical care and related benefits shall be made as expenses
+22 are incurred."
+23 SECTION 5. A new section of the Medical Malpractice
+24 Act, Section 41-5-7.1 NMSA 1978, is enacted to read:
+25 "41-5-7.1. PUNITIVE DAMAGES.-- HJC/HB 99
+Page 13
+
+1 A. Punitive damages may only be awarded in a
+2 malpractice claim if the prevailing party provides clear and
+3 convincing evidence demonstrating that the acts of the health
+4 care provider were malicious, willful, wanton, reckless,
+5 fraudulent or in bad faith.
+6 B. A judgment of punitive damages against any of
+7 the following persons shall not be in an amount greater than
+8 the applicable limitation on monetary damages provided in
+9 Section 41-5-6 NMSA 1978:
+10 (1) an independent provider;
+11 (2) an independent outpatient health care
+12 facility and the facility's employees, locum tenens providers
+13 and agency nurses;
+14 (3) a hospital operated by a New Mexico
+15 resident or domestic corporation that is not part of a
+16 hospital system and the hospital's employees, locum tenens
+17 providers and agency nurses; and
+18 (4) employees, locum tenens providers and
+19 agency nurses of a hospital or a hospital-controlled
+20 outpatient health care facility.
+21 C. Except as provided in Subsection B of this
+22 section, a judgment of punitive damages against a hospital or
+23 hospital-controlled outpatient health care facility shall not
+24 be in an amount greater than two and one-half times the
+25 applicable limitation on monetary damages provided in Section HJC/HB 99
+Page 14
+
+1 41-5-6 NMSA 1978.
+2 D. A judgment of punitive damages against a health
+3 care provider shall not be paid from the fund.
+4 E. The initial claim for relief in a malpractice
+5 claim shall not include punitive damages. A claim for
+6 punitive damages may be asserted by amendment to the
+7 pleadings only after the plaintiff has presented sufficient
+8 evidence to the court that it is more likely than not that
+9 the claim has a triable issue after substantial completion of
+10 discovery. If the court allows amendment to the complaint
+11 pursuant to this subsection, the court, in its discretion,
+12 may permit additional discovery on the question of punitive
+13 damages."
+14 SECTION 6. Section 41-5-25 NMSA 1978 (being Laws 1992,
+15 Chapter 33, Section 9, as amended) is amended to read:
+16 "41-5-25. PATIENT'S COMPENSATION FUND--THIRD-PARTY
+17 ADMINISTRATOR--ACTUARIAL STUDIES--SURCHARGES--CLAIMS--
+18 PRORATION--PROOFS OF AUTHENTICITY.--
+19 A. The "patient's compensation fund" is created as
+20 a nonreverting fund in the state treasury. The fund consists
+21 of money from surcharges, income from investment of the fund
+22 and any other money deposited to the credit of the fund. The
+23 fund shall be held in trust, deposited in a segregated
+24 account in the state treasury and invested by the investment
+25 office and shall not become a part of or revert to the HJC/HB 99
+Page 15
+
+1 general fund or any other fund of the state. Money from the
+2 fund shall be expended only for the purposes of and to the
+3 extent provided in the Medical Malpractice Act. All approved
+4 expenses of collecting, protecting and administering the
+5 fund, including purchasing insurance for the fund, shall be
+6 paid from the fund.
+7 B. The superintendent shall contract for the
+8 administration and operation of the fund with a qualified,
+9 licensed third-party administrator, selected in consultation
+10 with the advisory board, no later than January 1, 2022. The
+11 third-party administrator shall provide an annual audit of
+12 the fund to the superintendent.
+13 C. The superintendent, as custodian of the fund,
+14 and the third-party administrator shall be notified by the
+15 health care provider or the health care provider's insurer
+16 within thirty days of service on the health care provider of
+17 a complaint asserting a malpractice claim brought in a court
+18 in this state against the health care provider.
+19 D. The superintendent shall levy an annual
+20 surcharge on all New Mexico health care providers qualifying
+21 under Section 41-5-5 NMSA 1978. The surcharge for health
+22 care providers shall be based on sound actuarial principles,
+23 using data obtained from New Mexico claims and loss
+24 experience. The surcharges for independent providers and
+25 independent outpatient health care facilities shall be HJC/HB 99
+Page 16
+
+1 determined by the superintendent with the advice of the
+2 advisory board and based on the annual independent actuarial
+3 study of the fund. The surcharge for hospitals and
+4 outpatient health care facilities shall be no less than the
+5 actuary's recommended surcharges based on an expected value
+6 basis to fully fund the current and projected claims
+7 obligations of the hospitals and outpatient health care
+8 facilities. A hospital or outpatient health care facility
+9 seeking participation in the fund during the remaining
+10 qualifying years shall provide, at a minimum, the hospital's
+11 or outpatient health care facility's direct and indirect cost
+12 information as reported to the federal centers for medicare
+13 and medicaid services for all self-insured malpractice
+14 claims, including claims and paid loss detail, and the claims
+15 and paid loss detail from any professional liability
+16 insurance carriers for each hospital or outpatient health
+17 care facility and each employed health care provider for the
+18 past eight years to the third-party actuary. The same
+19 information shall be available to the advisory board for
+20 review, including financial information and data, and
+21 excluding individually identifying case information, which
+22 information shall not be subject to the Inspection of Public
+23 Records Act. The superintendent, the third-party actuary or
+24 the advisory board shall not use or disclose the information
+25 for any purpose other than to fulfill the duties pursuant to HJC/HB 99
+Page 17
+
+1 this subsection.
+2 E. The surcharge shall be collected on the same
+3 basis as premiums by each insurer from the health care
+4 provider. The surcharge shall be due and payable within
+5 thirty days after the premiums for malpractice liability
+6 insurance have been received by the insurer from the health
+7 care provider in New Mexico. If the surcharge is collected
+8 but not paid timely, the superintendent may suspend the
+9 certificate of authority of the insurer until the annual
+10 premium surcharge is paid.
+11 F. Surcharges shall be set by October 31 of each
+12 year for the next calendar year. Beginning in 2021, the
+13 surcharges shall be set with the intention of bringing the
+14 fund to solvency with no projected deficit by December 31,
+15 2026. All qualified and participating hospitals and
+16 outpatient health care facilities shall cure any fund deficit
+17 attributable to hospitals and outpatient health care
+18 facilities by December 31, 2026.
+19 G. If the fund would be exhausted by payment of
+20 all claims allowed during a particular calendar year, then
+21 the amounts paid to each patient and other parties obtaining
+22 judgments shall be prorated, with each such party receiving
+23 an amount equal to the percentage the party's own payment
+24 schedule bears to the total of payment schedules outstanding
+25 and payable by the fund. Any amounts due and unpaid as a HJC/HB 99
+Page 18
+
+1 result of such proration shall be paid in the following
+2 calendar years.
+3 H. Upon receipt of one of the proofs of
+4 authenticity listed in this subsection, reflecting a judgment
+5 for damages rendered pursuant to the Medical Malpractice Act,
+6 the superintendent shall issue or have issued warrants in
+7 accordance with the payment schedule constructed by the court
+8 and made a part of its final judgment. The only claim
+9 against the fund shall be a voucher or other appropriate
+10 request by the superintendent after the superintendent
+11 receives:
+12 (1) until January 1, 2022, a certified copy
+13 of a final judgment in excess of two hundred thousand dollars
+14 ($200,000) against a health care provider;
+15 (2) until January 1, 2022, a certified copy
+16 of a court-approved settlement or certification of settlement
+17 made prior to initiating suit, signed by both parties, in
+18 excess of two hundred thousand dollars ($200,000) against a
+19 health care provider; or
+20 (3) until January 1, 2022, a certified copy
+21 of a final judgment less than two hundred thousand dollars
+22 ($200,000) and an affidavit of a health care provider or its
+23 insurer attesting that payments made pursuant to Subsection B
+24 of Section 41-5-7 NMSA 1978, combined with the monetary
+25 recovery, exceed two hundred thousand dollars ($200,000). HJC/HB 99
+Page 19
+
+1 I. On or after January 1, 2022, the amounts
+2 specified in Paragraphs (1) through (3) of Subsection H of
+3 this section shall be two hundred fifty thousand dollars
+4 ($250,000)."
+5 SECTION 7. SEVERABILITY.--If a provision of this act or
+6 its application to any person or circumstance is held
+7 invalid, the invalidity does not affect other provisions or
+8 applications of this act that can be given effect without the
+9 invalid provision or application, and to this end the
+10 provisions of this act are severable.
+11 SECTION 8. APPLICABILITY.--The provisions of this act
+12 apply to all claims for medical malpractice that arise on or
+13 after the effective date of this act. HJC/HB 99
+Page 20
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25

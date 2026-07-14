@@ -1,0 +1,436 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2 RELATING TO HEALTH CARE; PROHIBITING HEALTH CARE FACILITY
+3 FEES FROM BEING CHARGED FOR CERTAIN SERVICES; REQUIRING
+4 DISCLOSURE OF FACILITY FEES TO PATIENTS AND REPORTING OF
+5 FACILITY FEES TO THE ALL-PAYER CLAIMS DATABASE.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. SHORT TITLE.--This act may be cited as the
+9 "Fair Pricing for Routine Medical Care Act".
+10 SECTION 2. DEFINITIONS.--As used in the Fair Pricing
+11 for Routine Medical Care Act:
+12 A. "affiliated with" means that a person is:
+13 (1) employed by a hospital or health system;
+14 or
+15 (2) under a professional services agreement,
+16 faculty agreement or management agreement with a hospital or
+17 health system that permits the hospital or health system to
+18 bill on behalf of the person;
+19 B. "campus" means:
+20 (1) a hospital's main buildings;
+21 (2) the physical area immediately adjacent
+22 to a hospital's main buildings;
+23 (3) structures owned by a hospital that are
+24 not strictly contiguous to the main buildings but are located
+25 within two hundred fifty yards of the main buildings; or HHHC/HB 306
+Page 1
+1 (4) any other area that has been determined
+2 by the federal centers for medicare and medicaid services, on
+3 an individual case-by-case basis, to be part of a hospital's
+4 campus;
+5 C. "facility fee" means a fee charged or billed by
+6 a hospital or health system for outpatient hospital services
+7 that is:
+8 (1) intended to compensate the health system
+9 or hospital for operational expenses; and
+10 (2) separate and distinct from a
+11 professional fee charged or billed by a hospital or health
+12 system for professional medical services;
+13 D. "freestanding emergency department" means a
+14 facility licensed by the health care authority that is
+15 separate from an acute care hospital and that provides
+16 twenty-four-hour emergency care to patients at the same level
+17 of care that a hospital-based emergency department delivers;
+18 E. "health facility" means a health facility or
+19 health agency required to be licensed by the health care
+20 authority pursuant to the Health Care Code;
+21 F. "health system" means a:
+22 (1) parent corporation of one or more
+23 hospitals and any person affiliated with the parent
+24 corporation through ownership, governance, membership or
+25 other means; or HHHC/HB 306
+Page 2
+1 (2) hospital and any person affiliated with
+2 the hospital through ownership, governance, membership or
+3 other means;
+4 G. "hospital" means a health facility that is
+5 licensed by the health care authority as a hospital;
+6 H. "preventive health care service" means a
+7 service recommended by the United States preventive services
+8 task force;
+9 I. "rural" means a rural county or an
+10 unincorporated area of a partially rural county, as
+11 designated by the health resources and services
+12 administration of the United States department of health and
+13 human services; and
+14 J. "telehealth" means the use of electronic
+15 information, imaging and communication technologies,
+16 including interactive audio, video, data communications and
+17 store-and-forward technologies, to provide and support health
+18 care delivery, diagnosis, consultation, treatment, transfer
+19 of medical data and education when distance separates the
+20 patient and the health care provider.
+21 SECTION 3. LIMITATIONS ON CHARGES FOR CERTAIN HEALTH
+22 CARE SERVICES PROVIDED IN CERTAIN SETTINGS.--
+23 A. Except as provided in Subsection D of this
+24 section, beginning January 1, 2027, a hospital or health
+25 system shall not charge, bill or collect a facility fee HHHC/HB 306
+Page 3
+1 directly from a patient for:
+2 (1) preventive health care services provided
+3 in an outpatient setting, including services accessed from
+4 the patient's vehicle;
+5 (2) vaccination services provided in an
+6 outpatient setting, including services accessed from the
+7 patient's vehicle; or
+8 (3) telehealth services.
+9 B. Nothing in this section prohibits a hospital or
+10 health system from charging a facility fee for:
+11 (1) health care services provided in an
+12 inpatient setting;
+13 (2) health care services provided at a
+14 hospital emergency department; or
+15 (3) health care services provided at a
+16 freestanding emergency department.
+17 C. Nothing in this section prohibits a hospital or
+18 health system from charging, billing or collecting a facility
+19 fee from a patient's insurer pursuant to an agreement between
+20 the hospital or health system and the insurer or as required
+21 by law.
+22 D. The provisions of Subsection A of this section
+23 shall not apply to a hospital or a hospital's clinic located
+24 in a rural area.
+25 E. Notwithstanding the provisions of Subsections HHHC/HB 306
+Page 4
+1 B, C and D of this section, a hospital or health system shall
+2 not charge, bill or collect a facility fee directly from a
+3 patient who does not have health insurance coverage and is
+4 provided the benefits of a health care service for which a
+5 facility fee would otherwise be charged.
+6 SECTION 4. BILLING TRANSPARENCY AND PATIENT
+7 NOTIFICATION.--
+8 A. Beginning January 1, 2027, a hospital or health
+9 system that charges a facility fee shall:
+10 (1) at the time an appointment is scheduled
+11 and again at the time health care services are rendered,
+12 provide notice to a patient that:
+13 (a) discloses that a facility fee may
+14 be charged;
+15 (b) indicates the amount of the
+16 facility fee;
+17 (c) discloses that a facility fee may
+18 not be covered in whole or in part by the patient's
+19 insurance; and
+20 (d) to the extent practicable, shall be
+21 provided in the patient's preferred language;
+22 (2) post a plainly visible sign written in
+23 English and Spanish that states that a patient may or may not
+24 be charged a facility fee in addition to the cost of a
+25 professional fee. The sign shall: HHHC/HB 306
+Page 5
+1 (a) include information on the types of
+2 facility fees that the hospital or health system is
+3 prohibited from charging under the Fair Pricing for Routine
+4 Medical Care Act;
+5 (b) disclose that patients who do not
+6 have health insurance coverage are exempt from paying a
+7 facility fee under the Fair Pricing for Routine Medical Care
+8 Act;
+9 (c) be located within the health
+10 facility in an area where patients seeking care register or
+11 check in; and
+12 (d) include information on where a
+13 patient may inquire further about facility fees; and
+14 (3) provide patients with a standardized
+15 bill that:
+16 (a) is clear, consumer-friendly and, to
+17 the extent practicable, in the patient's preferred language;
+18 (b) includes itemized charges for each
+19 health care service provided;
+20 (c) specifically identifies any
+21 facility fee charged;
+22 (d) identifies specific charges that
+23 have been billed to the patient's insurance; and
+24 (e) provides contact information for a
+25 person the patient may contact to contest charges in the HHHC/HB 306
+Page 6
+1 bill.
+2 B. If a patient, after receiving notice pursuant
+3 to Paragraph (1) of Subsection A of this section and before
+4 services are rendered, declines, cancels or reschedules an
+5 appointment because the facility fee is too high or may not
+6 be covered by the patient’s insurance plan, the hospital or
+7 health system shall not impose a cancellation fee, no-show
+8 fee or other penalty for that appointment.
+9 SECTION 5. FACILITY FEE REPORTING.--A hospital or
+10 health system that charges a facility fee shall report data
+11 related to the facility fee to the all-payer claims database
+12 established pursuant to the Health Information System Act.
+13 The data shall include the following information for services
+14 provided by a hospital in inpatient settings and outpatient
+15 settings and in locations on the hospital's campus and off
+16 the hospital's campus during each of the three previous
+17 calendar years:
+18 A. the number of times facility fees were charged
+19 to patients;
+20 B. the total dollar amount of facility fees
+21 charged to patients;
+22 C. the twenty-five most common billing codes for
+23 which a facility fee was charged and the total amount charged
+24 to patients for each of those codes;
+25 D. the twenty-five billing codes with the highest HHHC/HB 306
+Page 7
+1 average patient charges and the total amount charged to
+2 patients for each billing code; and
+3 E. any other data required by the department of
+4 health to assess the prevalence and cost of facility fees in
+5 the state. HHHC/HB 306
+Page 8
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO HEALTH CARE; PROHIBITING HEALTH CARE FACILITY
+3 FEES FROM BEING CHARGED FOR CERTAIN SERVICES; REQUIRING
+4 DISCLOSURE OF FACILITY FEES TO PATIENTS AND REPORTING OF
+5 FACILITY FEES TO THE ALL-PAYER CLAIMS DATABASE.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. SHORT TITLE.--This act may be cited as the
+9 "Fair Pricing for Routine Medical Care Act".
+10 SECTION 2. DEFINITIONS.--As used in the Fair Pricing
+11 for Routine Medical Care Act:
+12 A. "affiliated with" means that a person is:
+13 (1) employed by a hospital or health system;
+14 or
+15 (2) under a professional services agreement,
+16 faculty agreement or management agreement with a hospital or
+17 health system that permits the hospital or health system to
+18 bill on behalf of the person;
+19 B. "campus" means:
+20 (1) a hospital's main buildings;
+21 (2) the physical area immediately adjacent
+22 to a hospital's main buildings;
+23 (3) structures owned by a hospital that are
+24 not strictly contiguous to the main buildings but are located
+25 within two hundred fifty yards of the main buildings; or HHHC/HB 306
+Page 1
+
+1 (4) any other area that has been determined
+2 by the federal centers for medicare and medicaid services, on
+3 an individual case-by-case basis, to be part of a hospital's
+4 campus;
+5 C. "facility fee" means a fee charged or billed by
+6 a hospital or health system for outpatient hospital services
+7 that is:
+8 (1) intended to compensate the health system
+9 or hospital for operational expenses; and
+10 (2) separate and distinct from a
+11 professional fee charged or billed by a hospital or health
+12 system for professional medical services;
+13 D. "freestanding emergency department" means a
+14 facility licensed by the health care authority that is
+15 separate from an acute care hospital and that provides
+16 twenty-four-hour emergency care to patients at the same level
+17 of care that a hospital-based emergency department delivers;
+18 E. "health facility" means a health facility or
+19 health agency required to be licensed by the health care
+20 authority pursuant to the Health Care Code;
+21 F. "health system" means a:
+22 (1) parent corporation of one or more
+23 hospitals and any person affiliated with the parent
+24 corporation through ownership, governance, membership or
+25 other means; or HHHC/HB 306
+Page 2
+
+1 (2) hospital and any person affiliated with
+2 the hospital through ownership, governance, membership or
+3 other means;
+4 G. "hospital" means a health facility that is
+5 licensed by the health care authority as a hospital;
+6 H. "preventive health care service" means a
+7 service recommended by the United States preventive services
+8 task force;
+9 I. "rural" means a rural county or an
+10 unincorporated area of a partially rural county, as
+11 designated by the health resources and services
+12 administration of the United States department of health and
+13 human services; and
+14 J. "telehealth" means the use of electronic
+15 information, imaging and communication technologies,
+16 including interactive audio, video, data communications and
+17 store-and-forward technologies, to provide and support health
+18 care delivery, diagnosis, consultation, treatment, transfer
+19 of medical data and education when distance separates the
+20 patient and the health care provider.
+21 SECTION 3. LIMITATIONS ON CHARGES FOR CERTAIN HEALTH
+22 CARE SERVICES PROVIDED IN CERTAIN SETTINGS.--
+23 A. Except as provided in Subsection D of this
+24 section, beginning January 1, 2027, a hospital or health
+25 system shall not charge, bill or collect a facility fee HHHC/HB 306
+Page 3
+
+1 directly from a patient for:
+2 (1) preventive health care services provided
+3 in an outpatient setting, including services accessed from
+4 the patient's vehicle;
+5 (2) vaccination services provided in an
+6 outpatient setting, including services accessed from the
+7 patient's vehicle; or
+8 (3) telehealth services.
+9 B. Nothing in this section prohibits a hospital or
+10 health system from charging a facility fee for:
+11 (1) health care services provided in an
+12 inpatient setting;
+13 (2) health care services provided at a
+14 hospital emergency department; or
+15 (3) health care services provided at a
+16 freestanding emergency department.
+17 C. Nothing in this section prohibits a hospital or
+18 health system from charging, billing or collecting a facility
+19 fee from a patient's insurer pursuant to an agreement between
+20 the hospital or health system and the insurer or as required
+21 by law.
+22 D. The provisions of Subsection A of this section
+23 shall not apply to a hospital or a hospital's clinic located
+24 in a rural area.
+25 E. Notwithstanding the provisions of Subsections HHHC/HB 306
+Page 4
+
+1 B, C and D of this section, a hospital or health system shall
+2 not charge, bill or collect a facility fee directly from a
+3 patient who does not have health insurance coverage and is
+4 provided the benefits of a health care service for which a
+5 facility fee would otherwise be charged.
+6 SECTION 4. BILLING TRANSPARENCY AND PATIENT
+7 NOTIFICATION.--
+8 A. Beginning January 1, 2027, a hospital or health
+9 system that charges a facility fee shall:
+10 (1) at the time an appointment is scheduled
+11 and again at the time health care services are rendered,
+12 provide notice to a patient that:
+13 (a) discloses that a facility fee may
+14 be charged;
+15 (b) indicates the amount of the
+16 facility fee;
+17 (c) discloses that a facility fee may
+18 not be covered in whole or in part by the patient's
+19 insurance; and
+20 (d) to the extent practicable, shall be
+21 provided in the patient's preferred language;
+22 (2) post a plainly visible sign written in
+23 English and Spanish that states that a patient may or may not
+24 be charged a facility fee in addition to the cost of a
+25 professional fee. The sign shall: HHHC/HB 306
+Page 5
+
+1 (a) include information on the types of
+2 facility fees that the hospital or health system is
+3 prohibited from charging under the Fair Pricing for Routine
+4 Medical Care Act;
+5 (b) disclose that patients who do not
+6 have health insurance coverage are exempt from paying a
+7 facility fee under the Fair Pricing for Routine Medical Care
+8 Act;
+9 (c) be located within the health
+10 facility in an area where patients seeking care register or
+11 check in; and
+12 (d) include information on where a
+13 patient may inquire further about facility fees; and
+14 (3) provide patients with a standardized
+15 bill that:
+16 (a) is clear, consumer-friendly and, to
+17 the extent practicable, in the patient's preferred language;
+18 (b) includes itemized charges for each
+19 health care service provided;
+20 (c) specifically identifies any
+21 facility fee charged;
+22 (d) identifies specific charges that
+23 have been billed to the patient's insurance; and
+24 (e) provides contact information for a
+25 person the patient may contact to contest charges in the HHHC/HB 306
+Page 6
+
+1 bill.
+2 B. If a patient, after receiving notice pursuant
+3 to Paragraph (1) of Subsection A of this section and before
+4 services are rendered, declines, cancels or reschedules an
+5 appointment because the facility fee is too high or may not
+6 be covered by the patient’s insurance plan, the hospital or
+7 health system shall not impose a cancellation fee, no-show
+8 fee or other penalty for that appointment.
+9 SECTION 5. FACILITY FEE REPORTING.--A hospital or
+10 health system that charges a facility fee shall report data
+11 related to the facility fee to the all-payer claims database
+12 established pursuant to the Health Information System Act.
+13 The data shall include the following information for services
+14 provided by a hospital in inpatient settings and outpatient
+15 settings and in locations on the hospital's campus and off
+16 the hospital's campus during each of the three previous
+17 calendar years:
+18 A. the number of times facility fees were charged
+19 to patients;
+20 B. the total dollar amount of facility fees
+21 charged to patients;
+22 C. the twenty-five most common billing codes for
+23 which a facility fee was charged and the total amount charged
+24 to patients for each of those codes;
+25 D. the twenty-five billing codes with the highest HHHC/HB 306
+Page 7
+
+1 average patient charges and the total amount charged to
+2 patients for each billing code; and
+3 E. any other data required by the department of
+4 health to assess the prevalence and cost of facility fees in
+5 the state. HHHC/HB 306
+Page 8
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25

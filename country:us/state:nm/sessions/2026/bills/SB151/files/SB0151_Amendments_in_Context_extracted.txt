@@ -1,0 +1,5964 @@
+Title: SENATE BILL 151
+Official Title: SENATE BILL 151
+Number of Sections: 31
+Source: versions - Amendments in Context
+Media Type: application/pdf
+Strikethrough Detection: 60 sections found
+
+================================================================================
+
+Section 1:
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SENATE FINANCE COMMITTEE SUBSTITUTE FOR
+SENATE TAX, BUSINESS AND TRANSPORTATION
+COMMITTEE SUBSTITUTE FOR
+57TH LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2026
+This document may incorporate amendments proposed by a
+committee, but not yet adopted, as well as amendments
+that have been adopted during the current legislative
+session. The document is a tool to show amendments in
+context and cannot be used for the purpose of adding
+amendments to legislation.
+AN ACT
+RELATING TO TAXATION; DECOUPLING FROM CERTAIN PROVISIONS OF
+FEDERAL LAW RELATING TO CORPORATE INCOME TAX BY AMENDING THE
+DEFINITION OF "BASE INCOME" IN THE CORPORATE INCOME AND
+FRANCHISE TAX ACT TO CONFORM TO THE FEDERAL INCLUSION OF
+CERTAIN INCOME OF CONTROLLED FOREIGN CORPORATIONS AND
+SUBTRACTING AMOUNTS DEDUCTED FOR BONUS DEPRECIATION AND
+INTEREST EXPENSES; PROVIDING THAT APPORTIONMENT RULES APPLY TO
+.233921.5AIC February 19, 2026 (9:18am)
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+ATTRIBUTED INCOME FROM A CONTROLLED FOREIGN CORPORATION;
+CREATING THE LOCAL JOURNALIST EMPLOYMENT INCOME TAX CREDIT AND
+THE LOCAL JOURNALIST EMPLOYMENT CORPORATE INCOME TAX CREDIT;
+CREATING A GROSS RECEIPTS TAX DEDUCTION FOR THE SALE OF
+CONSTRUCTION MATERIALS AND LABOR USED FOR THE DEVELOPMENT OF
+AFFORDABLE HOUSING; CREATING THE PHYSICIAN TAX CREDIT PURSUANT
+TO THE INCOME TAX ACT; HTRC PROVIDING A GROSS RECEIPTS TAX
+DEDUCTION FOR THE SALE OF CERTAIN EQUIPMENT AND MEDICATION
+DISPENSED BY A HEALTH CARE PRACTITIONER IN A PRACTICE
+SETTING; HTRC CREATING THE LOCAL NEWS PRINTER INCOME TAX
+CREDIT AND THE LOCAL NEWS PRINTER CORPORATE INCOME TAX CREDIT
+HTRC ; EXTENDING THE DATE OF ELIGIBILITY FOR THE HIGH-WAGE
+JOBS TAX CREDIT; MAKING APPROPRIATIONS TO PROVIDE SALARY
+INCREASES FOR STATE AND PUBLIC SCHOOL EMPLOYEES HTRC .
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+
+Section 2:
+SECTION 1. Section 7-2A-2 NMSA 1978 (being Laws 1986,
+Chapter 20, Section 33, as amended) is amended to read:
+"7-2A-2. DEFINITIONS.--For the purpose of the Corporate
+Income and Franchise Tax Act and unless the context requires
+otherwise:
+A. "bank" means any national bank, national banking
+association, state bank or bank holding company;
+B. "apportioned net income" or "apportioned net
+loss" means net income allocated and apportioned to New Mexico
+.233921.5AIC February 19, 2026 (9:18am)
+-2-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+pursuant to the provisions of the Corporate Income and
+Franchise Tax Act or the Uniform Division of Income for Tax
+Purposes Act, but excluding from the sales factor any sales
+that represent intercompany transactions between members of the
+filing group;
+C. "base income" means the federal taxable income
+or the federal net operating loss of a corporation for the
+taxable year calculated pursuant to the Internal Revenue Code,
+after special deductions provided in Sections 241 through 249
+of the Internal Revenue Code but without any deduction for net
+operating losses, as if the corporation filed a federal tax
+return as a separate domestic entity, modified as follows:
+(1) adding to that income:
+(a) interest received on a state or
+local bond exempt under the Internal Revenue Code;
+(b) the amount of any deduction claimed
+in calculating taxable income for all expenses and costs
+directly or indirectly paid, accrued or incurred to a captive
+real estate investment trust;
+(c) the amount of any deduction, other
+than for premiums, for amounts paid directly or indirectly to a
+commonly controlled entity that is exempt from corporate income
+tax pursuant to Section 7-2A-4 NMSA 1978; [and]
+(d) for taxable years beginning on or
+after January 1, 2023, an amount equal to the amount of credit
+.233921.5AIC February 19, 2026 (9:18am)
+-3-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+claimed and allowed for that year pursuant to Section 7-3A-10
+NMSA 1978 with respect to the distributed net income of a pass-
+through entity;
+(e) the amount of any deduction taken
+pursuant to Sections 168(k) and 168(n) of the Internal Revenue
+Code in excess of the deduction amount that would have been
+allowed by Sections 168(a) through 168(j) of the Internal
+Revenue Code; and
+(f) the amount of additional interest
+deducted as a result of the changes to Subparagraph (A) of
+
+Section 3:
+Section 163(j)(8) of the Internal Revenue Code made by Section
+70303 of Public Law 119–21; provided that such interest shall
+be eligible for the carryforward provisions of Section
+163(j)(2) of the Internal Revenue Code;
+(2) subtracting from that income:
+(a) income from obligations of the
+United States net of expenses incurred to earn that income; and
+(b) other amounts that the state is
+prohibited from taxing because of the laws or constitution of
+this state or the United States net of any related expenses;
+[and
+(c) an amount equal to one hundred
+percent of the income of the corporation under Section 951A of
+the Internal Revenue Code, less the amount deducted pursuant to
+
+Section 4:
+Section 250 of the Internal Revenue Code;]
+.233921.5AIC February 19, 2026 (9:18am)
+-4-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) making other adjustments deemed necessary
+to properly reflect income of the unitary group, including
+attribution of income or expense related to unitary assets held
+by related corporations that are not part of the filing group;
+and
+(4) for a taxpayer that conducts a lawful
+business pursuant to the laws of this state, excludes an amount
+equal to any expenditure that is eligible to be claimed as a
+federal income tax deduction but is disallowed pursuant to
+
+Section 5:
+Section 280E of the Internal Revenue Code, as that section may
+be amended or renumbered;
+D. "captive real estate investment trust" means a
+corporation, trust or association taxed as a real estate
+investment trust pursuant to Section 857 of the Internal
+Revenue Code, the shares or beneficial interests of which are
+not regularly traded on an established securities market;
+provided that more than fifty percent of any class of
+beneficial interests or shares of the real estate investment
+trust are owned directly, indirectly or constructively by the
+taxpayer during all or a part of the taxpayer's taxable year;
+E. "common ownership" means the direct or indirect
+control or ownership of more than fifty percent of the
+outstanding voting stock, ownership of which is determined
+pursuant to Section 1563 of the Internal Revenue Code, as that
+
+Section 6:
+section may be amended or renumbered, of:
+.233921.5AIC February 19, 2026 (9:18am)
+-5-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(1) a parent-subsidiary controlled group as
+defined in Section 1563 of the Internal Revenue Code, except
+that fifty percent shall be substituted for eighty percent;
+(2) a brother-sister controlled group as
+defined in Section 1563 of the Internal Revenue Code; or
+(3) three or more corporations each of which
+is a member of a group of corporations described in Paragraph
+(1) or (2) of this subsection, and one of which is:
+(a) a common parent corporation included
+in a group of corporations described in Paragraph (1) of this
+subsection; and
+(b) included in a group of corporations
+described in Paragraph (2) of this subsection;
+F. "consolidated group" means the group of entities
+properly filing a federal consolidated return under the
+Internal Revenue Code for the taxable year;
+G. "corporation" means corporations, joint stock
+companies, real estate trusts organized and operated under the
+Real Estate Trust Act, financial corporations and banks, other
+business associations and, for corporate income tax purposes,
+partnerships and limited liability companies taxed as
+corporations under the Internal Revenue Code;
+H. "department" means the taxation and revenue
+department, the secretary of taxation and revenue or any
+employee of the department exercising authority lawfully
+.233921.5AIC February 19, 2026 (9:18am)
+-6-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+delegated to that employee by the secretary;
+I. "filing group" means a group of corporations
+properly included in a return pursuant to Section 7-2A-8.3 NMSA
+1978 for a particular taxable year;
+J. "fiscal year" means any accounting period of
+twelve months ending on the last day of any month other than
+December;
+K. "grandfathered net operating loss carryover"
+means:
+(1) the amount of net loss properly reported
+to New Mexico for taxable years beginning January 1, 2013 and
+prior to January 1, 2020 as part of a timely filed original
+return, or an amended return for those taxable years filed
+prior to January 1, 2020, to the extent such loss can be
+attributed to one or more corporations that are properly
+included in the taxpayer's return for the first taxable year
+beginning on or after January 1, 2020;
+(2) reduced by:
+(a) adding back deductions that were
+taken by the corporation or corporations for royalties or
+interest paid to one or more related corporations, but only to
+the extent that such adjustment would not create a net loss for
+such related corporations; and
+(b) the amount of net operating loss
+deductions taken prior to January 1, 2020 that would be charged
+.233921.5AIC February 19, 2026 (9:18am)
+-7-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+against those losses consistent with the Internal Revenue Code
+and provisions of the Corporate Income and Franchise Tax Act
+applicable to the year of the deduction; and
+(3) apportioned to New Mexico using the
+apportionment factors that can properly be attributed to the
+corporation or corporations for the year of the net loss;
+L. "Internal Revenue Code" means the United States
+Internal Revenue Code of 1986, as amended;
+M. "net income" means:
+(1) the base income of a corporation properly
+filing a tax return as a separate entity; or
+(2) the combined base income and losses of
+corporations that are part of a filing group that is computed
+after eliminating intercompany income and expense in a manner
+consistent with the consolidated filing requirements of the
+Internal Revenue Code and the Corporate Income and Franchise
+Tax Act;
+N. "net operating loss carryover" means the
+apportioned net loss properly reported on an original or
+amended tax return for taxable years beginning on or after
+January 1, 2020 by the taxpayer:
+(1) plus:
+(a) the portion of an apportioned net
+loss properly reported to New Mexico for a taxable year
+beginning on or after January 1, 2020, on a separate year
+.233921.5AIC February 19, 2026 (9:18am)
+-8-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+return, to the extent the taxpayer would have been entitled to
+include the portion of such apportioned net loss in the
+taxpayer's consolidated net operating loss carryforward under
+the Internal Revenue Code if the taxpayer filed a consolidated
+federal return; and
+(b) the taxpayer's grandfathered net
+operating loss carryover; and
+(2) minus:
+(a) the amount of the net operating loss
+carryover attributed to an entity that has left the filing
+group, computed in a manner consistent with the consolidated
+filing requirements of the Internal Revenue Code and applicable
+regulations, as if the taxpayer were filing a consolidated
+return; and
+(b) the amount of net operating loss
+deductions properly taken by the taxpayer;
+O. "net operating loss deduction" means the portion
+of the net operating loss carryover that may be deducted from
+the taxpayer's apportioned net income under the Internal
+Revenue Code as of January 1, 2018 for the taxable year in
+which the deduction is taken, including the eighty percent
+limitation of Section 172(a) of the Internal Revenue Code as of
+January 1, 2018 calculated on the basis of the taxpayer's
+apportioned net income;
+P. "person" means any individual, estate, trust,
+.233921.5AIC February 19, 2026 (9:18am)
+-9-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+receiver, cooperative association, club, corporation, company,
+firm, partnership, limited liability company, joint venture,
+syndicate or other association; "person" also means, to the
+extent permitted by law, any federal, state or other
+governmental unit or subdivision or agency, department or
+instrumentality thereof;
+Q. "real estate investment trust" has the meaning
+ascribed to the term in Section 856 of the Internal Revenue
+Code, as that section may be amended or renumbered;
+R. "related corporation" means a corporation that
+is under common ownership with one or more corporations but
+that is not included in the same tax return;
+S. "return" means any tax or information return,
+including a water's-edge or worldwide combined return, a
+consolidated return, a declaration of estimated tax or a claim
+for refund, including any amendments or supplements to the
+return, required or permitted pursuant to a law subject to
+administration and enforcement pursuant to the Tax
+Administration Act and filed with the department by or on
+behalf of any person;
+T. "secretary" means the secretary of taxation and
+revenue or the secretary's delegate;
+U. "separate year return" means a properly filed
+original or amended return for a taxable year beginning on or
+after January 1, 2020 by a taxpayer reporting a loss, a portion
+.233921.5AIC February 19, 2026 (9:18am)
+-10-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+of which is claimed as part of the net operating loss carryover
+by another taxpayer in a subsequent return period;
+V. "state" means any state of the United States,
+the District of Columbia, the commonwealth of Puerto Rico, any
+territory or possession of the United States or political
+subdivision thereof or any political subdivision of a foreign
+country;
+W. "state or local bond" means a bond issued by a
+state other than New Mexico or by a local government other than
+one of New Mexico's political subdivisions, the interest from
+which is excluded from income for federal income tax purposes
+under Section 103 of the Internal Revenue Code, as that section
+may be amended or renumbered;
+X. "taxable income" means a taxpayer's apportioned
+net income minus the net operating loss deduction for the
+taxable year;
+Y. "taxable year" means the calendar year or fiscal
+year upon the basis of which the net income is computed under
+the Corporate Income and Franchise Tax Act and includes, in the
+case of the return made for a fractional part of a year under
+the provisions of that act, the period for which the return is
+made;
+Z. "taxpayer" means any corporation or group of
+corporations filing a return pursuant to Section 7-2A-8.3 NMSA
+1978 subject to the taxes imposed by the Corporate Income and
+.233921.5AIC February 19, 2026 (9:18am)
+-11-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+Franchise Tax Act;
+AA. "unitary group" means a group of two or more
+corporations, including a captive real estate investment trust,
+but not including an S corporation, an insurance company
+subject to the provisions of the New Mexico Insurance Code, an
+insurance company that would be subject to the New Mexico
+Insurance Code if the insurance company engaged in business in
+this state or a real estate investment trust that is not a
+captive real estate investment trust, that are:
+(1) related through common ownership; and
+(2) economically interdependent with one
+another as demonstrated by the following factors:
+(a) centralized management;
+(b) functional integration; and
+(c) economies of scale;
+BB. "water's-edge group" means all corporations
+that are part of a unitary group, except:
+(1) corporations that are exempt from
+corporate income tax pursuant to Section 7-2A-4 NMSA 1978; and
+(2) corporations organized or incorporated
+outside the United States or its possessions or territories
+that have less than twenty percent of their property, payroll
+and sales sourced to locations within the United States,
+following the sourcing rules of the Uniform Division of Income
+for Tax Purposes Act; and
+.233921.5AIC February 19, 2026 (9:18am)
+-12-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+CC. "worldwide combined group" means all members of
+a unitary group, except members that are exempt from corporate
+income tax pursuant to Section 7-2A-4 NMSA 1978, irrespective
+of the country in which the corporations are incorporated or
+conduct business activity."
+
+Section 7:
+SECTION 2. Section 7-4-10 NMSA 1978 (being Laws 1993,
+Chapter 153, Section 1, as amended) is amended to read:
+"7-4-10. APPORTIONMENT OF BUSINESS INCOME.--
+A. Except as provided in Subsections B and C of
+this section, all business income shall be apportioned to this
+state by multiplying the income by a fraction, the numerator of
+which is the property factor plus the payroll factor plus the
+sales factor and the denominator of which is three. The
+apportionment calculation shall include the factors of a
+controlled foreign corporation to the extent the income of the
+corporation is included in net income.
+B. If eighty percent or more of the New Mexico
+numerators of the property and payroll factors for a filing
+group, or for a taxpayer that is not a member of a filing
+group, are employed in manufacturing or operating a computer
+processing facility, the filing group or the taxpayer may elect
+to have business income apportioned to this state by
+multiplying the income by the sales factor for the taxable
+year.
+C. If a filing group, or a taxpayer that is not a
+.233921.5AIC February 19, 2026 (9:18am)
+-13-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+member of a filing group, has a headquarters operation in New
+Mexico, the filing group or the taxpayer may elect to have
+business income apportioned to this state by multiplying the
+income by the sales factor for the taxable year.
+D. To elect the method of apportionment provided by
+Subsection B or C of this section, the taxpayer shall notify
+the department of the election, in writing, no later than the
+date on which the taxpayer files the return for the first
+taxable year to which the election will apply. The election
+shall apply as follows:
+(1) if the election is made for taxable years
+beginning prior to January 1, 2020, to the taxable year in
+which the election is made and to each taxable year thereafter
+for three years, or until the taxable year ending prior to
+January 1, 2020, whichever is earlier;
+(2) if the election is made for a taxable year
+beginning on or after January 1, 2020, to the taxable year in
+which the election is made and to each taxable year thereafter
+until the taxpayer notifies the department, in writing, that
+the election is terminated, except that the taxpayer shall not
+terminate the election until the method of apportioning
+business income provided by Subsection B or C of this section
+has been used by the taxpayer for at least three consecutive
+taxable years, including a total of at least thirty-six
+calendar months; and
+.233921.5AIC February 19, 2026 (9:18am)
+-14-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) if the election is made by a qualifying
+filing group, the election shall apply to the members of the
+filing group properly included pursuant to Section 7-2A-8.3
+NMSA 1978.
+E. For purposes of this section:
+(1) "controlled foreign corporation" means a
+foreign corporation as defined by Section 957 of the Internal
+Revenue Code of 1986, as that section may be amended or
+renumbered;
+[(1)] (2) "filing group" means "filing group"
+as that term is defined in the Corporate Income and Franchise
+Tax Act;
+[(2)] (3) "headquarters operation" means:
+(a) the center of operations of a
+business: 1) where corporate staff employees are physically
+employed; 2) where the centralized functions are primarily
+performed, including administrative, planning, managerial,
+human resources, purchasing, information technology and
+accounting, but not including operating a call center; 3) the
+function and purpose of which is to manage and direct most
+aspects and functions of the business operations within a
+subdivided area of the United States; 4) from which final
+authority over regional or subregional offices, operating
+facilities and any other offices of the business are issued;
+and 5) including national and regional headquarters if the
+.233921.5AIC February 19, 2026 (9:18am)
+-15-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+national headquarters is subordinate only to the ownership of
+the business or its representatives and the regional
+headquarters is subordinate to the national headquarters; or
+(b) the center of operations of a
+business: 1) the function and purpose of which is to manage
+and direct most aspects of one or more centralized functions;
+and 2) from which final authority over one or more centralized
+functions is issued;
+[(3)] (4) "manufacturing" means combining or
+processing components or materials to increase their value for
+sale in the ordinary course of business, but does not include:
+(a) construction;
+(b) farming;
+(c) power generation; provided that
+"manufacturing" includes electricity generation at a facility
+that does not require location approval and a certificate of
+convenience and necessity prior to commencing construction or
+operation of the facility pursuant to the Public Utility Act;
+(d) processing natural resources,
+including hydrocarbons; or
+(e) processing or preparation of meals
+for immediate consumption; and
+[(4)] (5) "operating a computer processing
+facility" means managing the necessary and ancillary activities
+for the operation of a facility primarily used to process data
+.233921.5AIC February 19, 2026 (9:18am)
+-16-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+or information, but does not include managing the operation of
+facilities that are predominantly used to support sales of
+tangible property or the provision of banking, financial or
+professional services."
+
+Section 8:
+SECTION 3. A new section of the Income Tax Act is enacted
+to read:
+"[NEW MATERIAL] LOCAL JOURNALIST EMPLOYMENT INCOME TAX
+CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer who is not a
+dependent of another individual and is an owner of a local
+news organization that employs a journalist may claim a credit
+against the taxpayer's tax liability imposed pursuant to the
+Income Tax Act in an amount provided in Subsection B of this
+
+Section 9:
+section. The tax credit provided by this section may be
+referred to as the "local journalist employment income tax
+credit".
+B. The amount of tax credit shall be in an amount
+equal to thirty percent of wages paid to each journalist
+employed by a local news organization.
+C. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+.233921.5AIC February 19, 2026 (9:18am)
+-17-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+credit for more than seventy-five journalists whom the taxpayer
+employs as a local news organization and, except as provided in
+Subsections F and G of this section, only one tax credit shall
+be certified for each journalist employed by a local news
+organization per taxable year. The total annual aggregate
+amount of local journalist employment income tax credits and
+local journalist employment corporate income tax credits that
+may be certified in a calendar year shall not exceed four
+million dollars ($4,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+taxpayer's income tax liability in the taxable year in which
+the credit is claimed shall be refunded to the taxpayer.
+F. Married individuals filing separate returns for
+a taxable year for which they could have filed a joint return
+may each claim only one-half of the tax credit that would have
+been claimed on a joint return.
+G. A taxpayer may be allocated the right to claim
+the tax credit in proportion to the taxpayer's ownership
+.233921.5AIC February 19, 2026 (9:18am)
+-18-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+interest if the taxpayer owns an interest in a business entity
+that is taxed for federal income tax purposes as a partnership
+or limited liability company and the business entity has met
+all requirements to be eligible for the credit. The total
+credit claimed by all members of the partnership or limited
+liability company shall not exceed the allowable credit
+pursuant to this section.
+H. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+required by the department.
+I. The tax credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the tax credit.
+J. As used in this section:
+(1) "journalist" means a person who:
+(a) is paid by a local news organization
+to regularly gather, prepare, collect, photograph, record,
+direct the recording of, produce, write, edit, report or
+publish news or information that concerns state or local events
+or other matters of public interest for dissemination to the
+state or a local community through reporting activities,
+including conducting interviews, observing current events or
+analyzing documents;
+(b) resides within fifty miles of the
+.233921.5AIC February 19, 2026 (9:18am)
+-19-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+coverage area assigned by the local news organization; and
+(c) is employed as a journalist by the
+local news organization for more than twenty-eight weeks of the
+taxable year in which the credit is claimed;
+(2) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+journalist;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+previous twenty-four months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of its content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least three originally produced
+stories about the state or a local community per week
+.233921.5AIC February 19, 2026 (9:18am)
+-20-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+HTRC averaged HTRC over the previous twenty-four months and
+has at least fifty percent of its digital audience in New
+Mexico, averaged over a twelve- month period;
+(e) discloses in its print publication
+or on its website its beneficial ownership or, in the case of a
+not-for-profit entity, its board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in its filings with the federal internal revenue
+service;
+(g) has not received more than ten
+percent of its gross receipts for the previous year from
+political action committees or other entities described in
+
+Section 10:
+Section 527 of the Internal Revenue Code, or from an
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary; and
+.233921.5AIC February 19, 2026 (9:18am)
+-21-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) "wages" means not more than fifty thousand
+dollars ($50,000) in compensation paid by a local news
+organization to a journalist through the organization's payroll
+system, including those wages that the journalist elects to
+defer or redirect or the journalist's contribution to a 401(k)
+or cafeteria plan program. "Wages" does not mean benefits or
+the organization's share of payroll taxes, social security or
+medicare contributions, federal or state unemployment insurance
+contributions or workers' compensation."
+
+Section 11:
+SECTION 4. A new section of the Corporate Income and
+Franchise Tax Act is enacted to read:
+"[NEW MATERIAL] LOCAL JOURNALIST EMPLOYMENT CORPORATE
+INCOME TAX CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer that is a local
+news organization that employs a journalist may claim a credit
+against the taxpayer's tax liability imposed pursuant to the
+Corporate Income and Franchise Tax Act in an amount provided in
+Subsection B of this section. The tax credit provided by this
+
+Section 12:
+section may be referred to as the "local journalist employment
+corporate income tax credit".
+B. The amount of tax credit shall be in an amount
+equal to thirty percent of wages paid to each journalist
+employed by a local news organization.
+C. A taxpayer shall apply for certification of
+.233921.5AIC February 19, 2026 (9:18am)
+-22-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+credit for more than seventy-five journalists whom the taxpayer
+employs as a local news organization, and only one tax credit
+shall be certified for each journalist employed by a local news
+organization per taxable year. The total annual aggregate
+amount of local journalist employment corporate income tax
+credits and local journalist employment income tax credits that
+may be certified in a calendar year shall not exceed four
+million dollars ($4,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+taxpayer's corporate income tax liability in the taxable year
+in which the credit is claimed shall be refunded to the
+taxpayer.
+F. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+.233921.5AIC February 19, 2026 (9:18am)
+-23-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+required by the department.
+G. The tax credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the tax credit.
+H. As used in this section:
+(1) "journalist" means a person who:
+(a) is paid by a local news organization
+to regularly gather, prepare, collect, photograph, record,
+direct the recording of, produce, write, edit, report or
+publish news or information that concerns state or local events
+or other matters of public interest for dissemination to the
+state or a local community through reporting activities,
+including conducting interviews, observing current events or
+analyzing documents;
+(b) resides within fifty miles of the
+coverage area assigned by the local news organization; and
+(c) is employed as a journalist by the
+local news organization for more than twenty-eight weeks of the
+taxable year in which the credit is claimed;
+(2) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+.233921.5AIC February 19, 2026 (9:18am)
+-24-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+journalist;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+previous twenty-four months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of its content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least three originally produced
+stories about the state or a local community per week
+HTRC averaged HTRC over the previous twenty-four months and
+has at least fifty percent of its digital audience in New
+Mexico, averaged over a twelve- month period;
+(e) discloses in its print publication
+or on its website its beneficial ownership or, in the case of a
+not-for-profit entity, its board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+.233921.5AIC February 19, 2026 (9:18am)
+-25-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in its filings with the federal internal revenue
+service;
+(g) has not received more than ten
+percent of its gross receipts for the previous year from
+political action committees or other entities described in
+
+Section 13:
+Section 527 of the Internal Revenue Code, or from an
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary; and
+(3) "wages" means not more than fifty thousand
+dollars ($50,000) in compensation paid by a local news
+organization to a journalist through the organization's payroll
+system, including those wages that the journalist elects to
+defer or redirect or the journalist's contribution to a 401(k)
+or cafeteria plan program. "Wages" does not mean benefits or
+the organization's share of payroll taxes, social security or
+medicare contributions, federal or state unemployment insurance
+contributions or workers' compensation."
+.233921.5AIC February 19, 2026 (9:18am)
+-26-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+
+Section 14:
+SECTION 5. A new section of the Gross Receipts and
+Compensating Tax Act is enacted to read:
+"[NEW MATERIAL] DEDUCTION--GROSS RECEIPTS--SALE OF
+CONSTRUCTION MATERIALS AND LABOR USED FOR THE DEVELOPMENT OF
+AFFORDABLE HOUSING MULTIFAMILY RESIDENTIAL HOUSING PROJECTS.--
+A. Prior to July 1, HTRC 2029 HTRC
+HTRC 2030 HTRC , receipts from selling construction materials
+and labor may be deducted from gross receipts if:
+(1) the construction materials and labor are
+being used for the purpose of developing multifamily
+residential housing;
+(2) eighty percent or more of the housing
+units being developed will be affordable housing;
+Sfl1 and Sfl1
+(3) the construction materials and labor are
+sold to a qualifying grantee for a single project that is
+residential housing pursuant to the Affordable Housing Act
+Sfl1 . Sfl1 Sfl1 ; and Sfl1
+Sfl1 (4) the buyer of the construction
+materials and labor delivers a nontaxable transaction
+certificate to the seller or provides alternative evidence
+pursuant to Section 7-9-43 NMSA 1978. Sfl1
+B. A taxpayer allowed a deduction pursuant to this
+
+Section 15:
+section shall report the amount of the deduction to the
+department in a manner required by the department.
+.233921.5AIC February 19, 2026 (9:18am)
+-27-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+C. The deduction provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+deduction.
+D. As used in this section:
+(1) "affordable housing" means multifamily
+residential housing primarily for persons or households of low
+or moderate income;
+(2) "building" means a structure capable of
+being renovated or converted into affordable housing or a
+structure that is to be demolished and is located on land that
+is donated and upon which affordable housing will be
+constructed;
+(3) "low or moderate income" means a household
+in which the current annual income is at or below eighty
+percent of the area median income for the geographic area in
+which the household is located, adjusted for family size, as
+determined by the United States department of housing and urban
+development; and
+(4) "multifamily residential housing" means
+any building or portion thereof that is primarily occupied, or
+is designed or intended to be primarily occupied, as a
+residence by more than three households. "Multifamily
+residential housing" includes congregate housing and
+transitional or temporary housing for homeless persons."
+.233921.5AIC February 19, 2026 (9:18am)
+-28-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+
+Section 16:
+SECTION 6. A new section of the Income Tax Act is enacted
+to read:
+"[NEW MATERIAL] PHYSICIAN TAX CREDIT.--
+A. HTRC A HTRC HTRC For taxable years prior to
+January 1, 2032, a HTRC taxpayer who files an individual New
+Mexico tax return, is not a dependent of another individual, is
+a physician and provides health care services in New Mexico for
+at least one thousand five hundred eighty-four hours during a
+taxable year may claim a credit against the tax liability
+imposed by the Income Tax Act for that taxable year in an
+amount equal to ten thousand dollars ($10,000). The credit
+provided in this section may be referred to as the "physician
+tax credit".
+B. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department of health on
+forms and in the manner prescribed by that department.
+Completed applications shall be considered in the order
+received. For a taxpayer approved to receive the credit, the
+department of health shall issue a certificate of eligibility
+to the qualifying physician. The department of health shall
+provide the department with certificates of eligibility issued
+pursuant to this subsection in an electronic format at
+regularly agreed-upon intervals.
+C. That portion of a tax credit that exceeds a
+taxpayer's tax liability in the taxable year in which the
+.233921.5AIC February 19, 2026 (9:18am)
+-29-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+credit is being claimed may be carried forward for up to three
+consecutive taxable years.
+D. A taxpayer allowed a tax credit pursuant to this
+
+Section 17:
+section shall claim the credit on forms and in a manner
+required by the department.
+E. The tax credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+tax credit.
+F. As used in this section, "physician" means a
+health professional who is a medical physician or an
+osteopathic physician licensed to practice medicine in New
+Mexico pursuant to the Medical Practice Act."
+HTRC SECTION 7. A new section of the Gross Receipts and
+Compensating Tax Act is enacted to read:
+"[NEW MATERIAL] DEDUCTION--GROSS RECEIPTS--IN-OFFICE
+EQUIPMENT AND IN-OFFICE MEDICATION SOLD TO A HEALTH CARE
+PRACTITIONER.--
+A. Except for receipts that may be deducted
+pursuant to Section 7-9-73.3 NMSA 1978, receipts from selling
+in-office equipment may be deducted from gross receipts if the
+sale is made to a health care practitioner or an association of
+health care practitioners that delivers a nontaxable
+transaction certificate to the seller or provides alternative
+evidence pursuant to Section 7-9-43 NMSA 1978. The in-office
+.233921.5AIC February 19, 2026 (9:18am)
+-30-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+equipment must be used exclusively during a service that is
+within the scope of practice of the health care practitioner
+providing the service.
+B. Except for receipts that may be deducted
+pursuant to Section 7-9-73.2 NMSA 1978, receipts from selling
+in-office medication may be deducted from gross receipts if the
+sale is made to a health care practitioner or an association of
+health care practitioners that delivers a nontaxable
+transaction certificate to the seller or provides alternative
+evidence pursuant to Section 7-9-43 NMSA 1978. The in-office
+medication must be used exclusively for treatment of patients
+within the scope of practice of the health care practitioner
+providing the service.
+C. A taxpayer allowed a deduction pursuant to this
+
+Section 18:
+section shall report the amount of the deduction separately in
+a manner required by the department.
+D. The deduction provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+deductions.
+E. As used in this section:
+(1) "association of health care practitioners"
+means a corporation, an unincorporated business entity or other
+legal entity organized by, owned by or employing one or more
+health care practitioners; provided that the entity is not:
+.233921.5AIC February 19, 2026 (9:18am)
+-31-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(a) an organization granted exemption
+from the federal income tax by the United States commissioner
+of internal revenue as organizations described in Section
+501(c)(3) of the United States Internal Revenue Code of 1986,
+as that section may be amended or renumbered; or
+(b) a health maintenance organization or
+a hospital, a hospice, a nursing home or an entity that is
+solely an outpatient facility or intermediate care facility
+licensed by the health care authority;
+(2) "health care practitioner" means:
+(a) a chiropractic physician licensed
+pursuant to the provisions of the Chiropractic Physician
+Practice Act;
+(b) a dentist or dental hygienist
+licensed pursuant to the Dental Health Care Act;
+(c) a doctor of oriental medicine
+licensed pursuant to the provisions of the Acupuncture and
+Oriental Medicine Practice Act;
+HTRC Sfl1 (d) a lactation care provider
+licensed pursuant to the Lactation Care Provider
+Act; Sfl1 HTRC
+HTRC Sfl1 (d) Sfl1 Sfl1 (e) Sfl1 HTRC
+HTRC (d) HTRC an optometrist licensed pursuant to the
+provisions of the Optometry Act;
+HTRC Sfl1 (e) Sfl1 Sfl1 (f) Sfl1 HTRC
+.233921.5AIC February 19, 2026 (9:18am)
+-32-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+HTRC (e) HTRC an osteopathic physician licensed pursuant to
+the provisions of the Medical Practice Act;
+HTRC Sfl1 (f) Sfl1 Sfl1 (g) Sfl1 HTRC
+HTRC (f) HTRC a physical therapist licensed pursuant to the
+provisions of the Physical Therapy Act;
+HTRC Sfl1 (g) Sfl1 Sfl1 (h) Sfl1 HTRC
+HTRC (g) HTRC a physician or physician assistant licensed
+pursuant to the provisions of the Medical Practice Act;
+HTRC Sfl1 (h) Sfl1 Sfl1 (i) Sfl1 HTRC
+HTRC (h) HTRC a podiatric physician licensed pursuant to the
+provisions of the Podiatry Act;
+HTRC Sfl1 (i) Sfl1 Sfl1 (j) Sfl1 HTRC
+HTRC (i) HTRC a psychologist licensed pursuant to the
+provisions of the Professional Psychologist Act;
+HTRC Sfl1 (j) Sfl1 Sfl1 (k) Sfl1 HTRC
+HTRC (j) HTRC a registered lay midwife registered by the
+department of health;
+HTRC Sfl1 (k) Sfl1 Sfl1 (l) Sfl1 HTRC
+HTRC (k) HTRC a registered nurse or licensed practical nurse
+licensed pursuant to the provisions of the Nursing Practice
+Act;
+HTRC Sfl1 (l) Sfl1 Sfl1 (m) Sfl1 HTRC
+HTRC (l) HTRC a registered occupational therapist licensed
+pursuant to the provisions of the Occupational Therapy Act;
+HTRC Sfl1 (m) Sfl1 Sfl1 (n) Sfl1 HTRC
+.233921.5AIC February 19, 2026 (9:18am)
+-33-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+HTRC (m) HTRC a respiratory care practitioner licensed
+pursuant to the provisions of the Respiratory Care Act;
+HTRC Sfl1 (n) Sfl1 Sfl1 (o) Sfl1 HTRC
+HTRC (n) HTRC a speech-language pathologist or audiologist
+licensed pursuant to the Speech-Language Pathology, Audiology
+and Hearing Aid Dispensing Practices Act;
+HTRC Sfl1 (o) Sfl1 Sfl1 (p) Sfl1 HTRC
+HTRC (o) HTRC a professional clinical mental health
+counselor, marriage and family therapist or professional art
+therapist licensed pursuant to the provisions of the Counseling
+and Therapy Practice Act who has obtained a master's degree or
+a doctorate;
+HTRC Sfl1 (p) Sfl1 Sfl1 (q) Sfl1 HTRC
+HTRC (p) HTRC an independent social worker licensed pursuant
+to the provisions of the Social Work Practice Act;
+HTRC Sfl1 (q) Sfl1 Sfl1 (r) Sfl1 HTRC
+HTRC (q) HTRC a clinical laboratory that is accredited
+pursuant to 42 U.S.C. Section 263a but that is not a laboratory
+in a physician's office or in a hospital defined pursuant to 42
+U.S.C. Section 1395x; HTRC Sfl1 and Sfl1 HTRC HTRC and HTRC
+HTRC Sfl1 (r) Sfl1 Sfl1 (s) Sfl1 HTRC
+HTRC (r) HTRC a naturopathic doctor licensed pursuant to the
+provisions of the Naturopathic Doctors' Practice Act;
+HTRC Sfl1 and Sfl1 HTRC
+HTRC Sfl1 (t) a naprapath licensed
+.233921.5AIC February 19, 2026 (9:18am)
+-34-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+pursuant to the Naprapathic Practice Act; Sfl1 HTRC
+(3) "in-office equipment" means equipment used
+by a health care practitioner primarily to provide medical
+treatment to patients in the health care practitioner's
+practice setting. "In-office equipment" does not mean office
+furniture that is not primarily used to provide medical
+treatment, including desks, desk chairs, computers and
+software; and
+(4) "in-office medication" means saline or
+other non-prescription substance dispensed by a health care
+practitioner to a patient in the health care practitioner's
+practice setting to treat the patient's specific illness,
+injury or other medical necessity." HTRC
+
+Section 19:
+SECTION HTRC 8 HTRC HTRC 7 HTRC. A new section of the
+Income Tax Act is enacted to read:
+"[NEW MATERIAL] LOCAL NEWS PRINTER INCOME TAX CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer who is not a
+dependent of another individual and is an owner of a local
+news printer that employs a qualified employee may claim a
+credit against the taxpayer's tax liability imposed pursuant to
+the Income Tax Act in an amount provided in Subsection B of
+this section. The tax credit provided by this section may be
+referred to as the "local news printer income tax credit".
+B. The amount of tax credit shall be in an amount
+.233921.5AIC February 19, 2026 (9:18am)
+-35-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+equal to the wages paid to each qualified employee employed by
+a local news printer in the taxable year for which the tax
+credit is claimed, not to exceed:
+(1) ten thousand dollars ($10,000) for a
+qualified employee working an average of twenty hours or more
+per week in the taxable year; and
+(2) five thousand dollars ($5,000) for a
+qualified employee working an average of less than twenty hours
+per week in the taxable year.
+C. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+credit for more than one hundred qualified employees whom the
+taxpayer employs as a local news printer and, except as
+provided in Subsections F and G of this section, only one tax
+credit shall be certified for each qualified employee employed
+by a local news printer per taxable year. The total annual
+aggregate amount of local news printer income tax credits and
+local news printer corporate income tax credits that may be
+certified in a calendar year shall not exceed one million
+dollars ($1,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+.233921.5AIC February 19, 2026 (9:18am)
+-36-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+taxpayer's income tax liability in the taxable year in which
+the credit is claimed shall be refunded to the taxpayer.
+F. Married individuals filing separate returns for
+a taxable year for which they could have filed a joint return
+may each claim only one-half of the tax credit that would have
+been claimed on a joint return.
+G. A taxpayer may be allocated the right to claim
+the tax credit in proportion to the taxpayer's ownership
+interest if the taxpayer owns an interest in a business entity
+that is taxed for federal income tax purposes as a partnership
+or limited liability company and the business entity has met
+all requirements to be eligible for the credit. The total
+credit claimed by all members of the partnership or limited
+liability company shall not exceed the allowable credit
+pursuant to this section.
+H. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+required by the department.
+I. The credit provided by this section shall be
+.233921.5AIC February 19, 2026 (9:18am)
+-37-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the credit.
+J. As used in this section:
+(1) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+qualified employee;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+previous thirty-six months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of its content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least five originally produced
+stories about the state or a local community per week over the
+.233921.5AIC February 19, 2026 (9:18am)
+-38-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+previous thirty-six months and has at least fifty percent of
+its digital audience in New Mexico, averaged over a twelve-
+month period;
+(e) discloses in the entity's print
+publication or on the entity's website the entity's beneficial
+ownership or, in the case of a not-for-profit entity, the
+entity's board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in the organization's filings with the federal internal
+revenue service;
+(g) has not received more than ten
+percent of the entity's gross receipts for the previous year
+from political action committees or other entities described in
+
+Section 20:
+Section 527 of the Internal Revenue Code, or from an
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+.233921.5AIC February 19, 2026 (9:18am)
+-39-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+indirectly, by a publicly traded entity or subsidiary;
+(2) "local news printer" means an entity that:
+(a) provides manufacturing, production
+and printing services using a web press designed and optimized
+for printing newspapers for a local news organization;
+(b) has been engaging in the business of
+manufacturing, producing and printing newspapers for at least
+five years;
+(c) employs at least five qualified
+employees; and
+(d) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary;
+(3) "qualified employee" means a person who:
+(a) is paid by a local news printer to
+regularly perform duties related to pre-press, press and post-
+press newspaper production to prepare newspapers for transition
+to delivery and distribution personnel;
+(b) works at a physical location in New
+Mexico; and
+(c) works as a qualified employee for
+the local news printer for at least twenty-five percent of the
+taxable year in which the credit is claimed; and
+(4) "wages" means compensation paid by a local
+news printer to a qualified employee through the organization's
+.233921.5AIC February 19, 2026 (9:18am)
+-40-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+payroll system, including those wages that the qualified
+employee elects to defer or redirect or the qualified
+employee's contribution to a 401(k) or cafeteria plan program.
+"Wages" does not mean benefits or the organization's share of
+payroll taxes, social security or medicare contributions,
+federal or state unemployment insurance contributions or
+workers' compensation."
+
+Section 21:
+SECTION HTRC 9 HTRC HTRC 8 HTRC. A new section of the
+Corporate Income and Franchise Tax Act is enacted to read:
+"[NEW MATERIAL] LOCAL NEWS PRINTER CORPORATE INCOME TAX
+CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer that is an owner
+of a local news printer that employs a qualified employee may
+claim a credit against the taxpayer's tax liability imposed
+pursuant to the Corporate Income and Franchise Tax Act in an
+amount provided in Subsection B of this section. The tax
+credit provided by this section may be referred to as the
+"local news printer corporate income tax credit".
+B. The amount of tax credit shall be in an amount
+equal to the wages paid to each qualified employee employed by
+a local news printer in the taxable year for which the tax
+credit is claimed, not to exceed:
+(1) ten thousand dollars ($10,000) for a
+qualified employee working an average of twenty hours or more
+.233921.5AIC February 19, 2026 (9:18am)
+-41-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+per week in the taxable year; and
+(2) five thousand dollars ($5,000) for a
+qualified employee working an average of less than twenty hours
+per week in the taxable year.
+C. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+credit for more than one hundred qualified employees whom the
+taxpayer employs as a local news printer and only one tax
+credit shall be certified for each qualified employee employed
+by a local news printer per taxable year. The total annual
+aggregate amount of local news printer corporate income tax
+credits and local news printer income tax credits that may be
+certified in a calendar year shall not exceed one million
+dollars ($1,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+.233921.5AIC February 19, 2026 (9:18am)
+-42-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+taxpayer's income tax liability in the taxable year in which
+the credit is claimed shall be refunded to the taxpayer.
+F. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+required by the department.
+G. The credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the credit.
+H. As used in this section:
+(1) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+qualified employee;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+.233921.5AIC February 19, 2026 (9:18am)
+-43-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+previous thirty-six months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of the entity's content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least five originally produced
+stories about the state or a local community per week over the
+previous thirty-six months and has at least fifty percent of
+the entity's digital audience in New Mexico, averaged over a
+twelve-month period;
+(e) discloses in the entity's print
+publication or on the entity's website the entity's beneficial
+ownership or, in the case of a not-for-profit entity, the
+entity's board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in the organization's filings with the federal internal
+revenue service;
+(g) has not received more than ten
+percent of the entity's gross receipts for the previous year
+from political action committees or other entities described in
+
+Section 22:
+Section 527 of the Internal Revenue Code, or from an
+.233921.5AIC February 19, 2026 (9:18am)
+-44-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary;
+(2) "local news printer" means an entity that:
+(a) provides manufacturing, production
+and printing services using a web press designed and optimized
+for printing newspapers for a local news organization;
+(b) has been engaging in the business of
+manufacturing, producing and printing newspapers for at least
+five years;
+(c) employs at least five qualified
+employees; and
+(d) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary;
+(3) "qualified employee" means a person who:
+(a) is paid by a local news printer to
+regularly perform duties related to pre-press, press and post-
+press newspaper production to prepare newspapers for transition
+to delivery and distribution personnel;
+(b) works at a physical location in New
+.233921.5AIC February 19, 2026 (9:18am)
+-45-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+Mexico; and
+(c) works as a qualified employee for
+the local news printer for at least twenty-five percent of the
+taxable year in which the credit is claimed; and
+(4) "wages" means compensation paid by a local
+news printer to a qualified employee through the organization's
+payroll system, including those wages that the qualified
+employee elects to defer or redirect or the qualified
+employee's contribution to a 401(k) or cafeteria plan program.
+"Wages" does not mean benefits or the organization's share of
+payroll taxes, social security or medicare contributions,
+federal or state unemployment insurance contributions or
+workers' compensation."
+HTRC SECTION 9. Section 7-9G-1 NMSA 1978 (being Laws
+2004, Chapter 15, Section 1, as amended by Laws 2025, Chapter
+107, Section 1 and by Laws 2025, Chapter 130, Section 93) is
+amended to read:
+"7-9G-1. HIGH-WAGE JOBS TAX CREDIT--QUALIFYING HIGH-WAGE
+JOBS.--
+A. A taxpayer that is an eligible employer may
+apply for, and the department may allow, a tax credit for each
+new high-wage job. The credit provided in this section may be
+referred to as the "high-wage jobs tax credit".
+B. The purpose of the high-wage jobs tax credit is
+to provide an incentive for businesses to create and fill new
+.233921.5AIC February 19, 2026 (9:18am)
+-46-
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+high-wage jobs in New Mexico.
+C. The high-wage jobs tax credit may be claimed and
+allowed in an amount equal to eight and one-half percent of the
+wages distributed to an eligible employee in a new high-wage
+job but shall not exceed twelve thousand seven hundred fifty
+dollars ($12,750) per job per qualifying period. The high-wage
+jobs tax credit may be claimed by an eligible employer for each
+new high-wage job performed for the year in which the new high-
+wage job is created and for consecutive qualifying periods.
+D. To receive a high-wage jobs tax credit, a
+taxpayer shall file a completed application for approval of the
+credit with the department once per calendar year on forms and
+in the manner prescribed by the department. The annual
+application shall contain the certification required by
+Subsection K of this section and shall contain all qualifying
+periods that closed during the calendar year for which the
+application is made. Any qualifying period that did not close
+in the calendar year for which the application is made shall be
+denied by the department. The application for a calendar year
+shall be filed no later than December 31 of the following
+calendar year. If a taxpayer fails to file the annual
+application within the time limits provided in this section,
+the application shall be denied by the department.
+E. A new high-wage job shall not be eligible for a
+credit pursuant to this section for the initial qualifying
+.233921.5AIC February 19, 2026 (9:18am)
+- 47 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+period unless the eligible employer's total number of employees
+with threshold jobs on the last day of the initial qualifying
+period at the location at which the job is performed or based
+is at least one more than the number of threshold jobs on the
+day prior to the date the new high-wage job was created. A new
+high-wage job shall not be eligible for a credit pursuant to
+this section for a consecutive qualifying period unless the
+total number of threshold jobs at a location at which the job
+is performed or based on the last day of that qualifying period
+is greater than or equal to the number of threshold jobs at
+that same location on the last day of the initial qualifying
+period for the new high-wage job.
+F. If a consecutive qualifying period for a new
+high-wage job does not meet the wage, occupancy and residency
+requirements, then the qualifying period is ineligible.
+G. Except as provided in Subsection H of this
+
+Section 23:
+section, a new high-wage job shall not be eligible for a credit
+pursuant to this section if:
+(1) the new high-wage job is created due to a
+business merger or acquisition or other change in business
+organization;
+(2) the eligible employee was terminated from
+employment in New Mexico by another employer involved in the
+business merger or acquisition or other change in business
+organization with the taxpayer; and
+.233921.5AIC February 19, 2026 (9:18am)
+- 48 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) the new high-wage job is performed by:
+(a) the person who performed the job or
+its functional equivalent prior to the business merger or
+acquisition or other change in business organization; or
+(b) a person replacing the person who
+performed the job or its functional equivalent prior to a
+business merger or acquisition or other change in business
+organization.
+H. A new high-wage job that was created by another
+employer and for which an application for the high-wage jobs
+tax credit was received and is under review by the department
+prior to the time of the business merger or acquisition or
+other change in business organization shall remain eligible for
+the high-wage jobs tax credit for the balance of the
+consecutive qualifying periods. The new employer that results
+from a business merger or acquisition or other change in
+business organization may only claim the high-wage jobs tax
+credit for the balance of the consecutive qualifying periods
+for which the new high-wage job is otherwise eligible.
+I. A new high-wage job shall not be eligible for a
+credit pursuant to this section if the job is created due to an
+eligible employer entering into a contract or becoming a
+subcontractor to a contract with a governmental entity that
+replaces one or more entities performing functionally
+equivalent services for the governmental entity unless the job
+.233921.5AIC February 19, 2026 (9:18am)
+- 49 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+is a new high-wage job that was not being performed by an
+employee of the replaced entity.
+J. A new high-wage job shall not be eligible for a
+credit pursuant to this section if the eligible employer has
+more than one business location in New Mexico from which it
+conducts business and the requirements of Subsection E of this
+
+Section 24:
+section are satisfied solely by moving the job from one
+business location of the eligible employer in New Mexico to
+another business location of the eligible employer in New
+Mexico.
+K. With respect to each annual application for a
+high-wage jobs tax credit, the employer shall certify and
+include:
+(1) the amount of wages paid to each eligible
+employee in a new high-wage job during the qualifying period;
+(2) the number of weeks each position was
+occupied during the qualifying period;
+(3) whether the new high-wage job was in a
+municipality with a population of sixty thousand or more or
+with a population of less than sixty thousand according to the
+most recent federal decennial census and whether the job was in
+the unincorporated area of a county;
+(4) which qualifying period the application
+pertains to for each eligible employee;
+(5) the total number of employees employed by
+.233921.5AIC February 19, 2026 (9:18am)
+- 50 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+the employer at the job location on the day prior to the
+qualifying period and on the last day of the qualifying period;
+(6) the total number of threshold jobs
+performed or based at the eligible employer's location on the
+day prior to the qualifying period and on the last day of the
+qualifying period;
+(7) for an eligible employer that has more
+than one business location in New Mexico from which it conducts
+business, the total number of threshold jobs performed or based
+at each business location of the eligible employer in New
+Mexico on the day prior to the qualifying period and on the
+last day of the qualifying period;
+(8) whether the eligible employer is receiving
+or is eligible to receive development training program
+assistance pursuant to Section 21-19-7 NMSA 1978;
+(9) whether the eligible employer has ceased
+business operations at any of its business locations in New
+Mexico; and
+(10) whether the application is precluded by
+Subsection O of this section.
+L. Any person who willfully submits a false,
+incorrect or fraudulent certification required pursuant to
+Subsection K of this section shall be subject to all applicable
+penalties under the Tax Administration Act, except that the
+amount on which the penalty is based shall be the total amount
+.233921.5AIC February 19, 2026 (9:18am)
+- 51 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+of credit requested on the application for approval.
+M. Except as provided in Subsection N of this
+
+Section 25:
+section, an approved high-wage jobs tax credit shall be claimed
+against the taxpayer's modified combined tax liability and
+shall be filed with the return due immediately following the
+date of the credit approval. If the credit exceeds the
+taxpayer's modified combined tax liability, the excess shall be
+refunded to the taxpayer.
+N. If the taxpayer ceases business operations in
+New Mexico while an application for credit approval is pending
+or after an application for credit has been approved for any
+qualifying period for a new high-wage job, the department shall
+not grant an additional high-wage jobs tax credit to that
+taxpayer except as provided in Subsection O of this section and
+shall extinguish any amount of credit approved for that
+taxpayer that has not already been claimed against the
+taxpayer's modified combined tax liability.
+O. A taxpayer that has received a high-wage jobs
+tax credit shall not submit a new application for the credit
+for a minimum of two calendar years from the closing date of
+the last qualifying period for which the taxpayer received the
+credit if the taxpayer lost eligibility to claim the credit
+from a previous application pursuant to Subsection N of this
+
+Section 26:
+section.
+P. The economic development department and the
+.233921.5AIC February 19, 2026 (9:18am)
+- 52 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+taxation and revenue department shall report to the appropriate
+interim legislative committee each year the cost of the high-
+wage jobs tax credit to the state and its impact on company
+recruitment and job creation.
+Q. As used in this section:
+(1) "benefits" means all remuneration for work
+performed that is provided to an employee in whole or in part
+by the employer, other than wages, including the employer's
+contributions to insurance programs, health care, medical,
+dental and vision plans, life insurance, employer contributions
+to pensions, such as a 401(k), and employer-provided services,
+such as child care, offered by an employer to the employee;
+(2) "consecutive qualifying period" means each
+of the three qualifying periods successively following the
+qualifying period in which the new high-wage job was created;
+(3) "department" means the taxation and
+revenue department;
+(4) "dependent" means "dependent" as defined
+in 26 U.S.C. 152(a), as that section may be amended or
+renumbered;
+(5) "domicile" means the sole place where an
+individual has a true, fixed, permanent home. It is the place
+where the individual has a voluntary, fixed habitation of self
+and family with the intention of making a permanent home;
+.233921.5AIC February 19, 2026 (9:18am)
+- 53 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(6) "eligible employee" means an individual
+who is employed in New Mexico by an eligible employer and who
+is a resident of New Mexico; "eligible employee" does not
+include an individual who:
+(a) is a dependent of the employer;
+(b) if the employer is an estate or
+trust, is a grantor, beneficiary or fiduciary of the estate or
+trust or is a dependent of a grantor, beneficiary or fiduciary
+of the estate or trust;
+(c) if the employer is a corporation, is
+a dependent of an individual who owns, directly or indirectly,
+more than fifty percent in value of the outstanding stock of
+the corporation; or
+(d) if the employer is an entity other
+than a corporation, estate or trust, is a dependent of an
+individual who owns, directly or indirectly, more than fifty
+percent of the capital and profits interests in the entity;
+(7) "eligible employer" means an employer
+that, during the applicable qualifying period, would be
+eligible for development training program assistance under the
+fiscal year 2019 policies defining development training program
+eligibility developed by the industrial training board in
+accordance with Section 21-19-7 NMSA 1978;
+(8) "modified combined tax liability" means
+the total liability for the reporting period for the gross
+.233921.5AIC February 19, 2026 (9:18am)
+- 54 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+receipts tax imposed by Section 7-9-4 NMSA 1978 together with
+any tax collected at the same time and in the same manner as
+the gross receipts tax, such as the compensating tax, the
+withholding tax, the interstate telecommunications gross
+receipts tax, the surcharges imposed by Section 63-9D-5 NMSA
+1978 and the surcharge imposed by Section 63-9F-11 NMSA 1978,
+minus the amount of any credit other than the high-wage jobs
+tax credit applied against any or all of these taxes or
+surcharges; but "modified combined tax liability" excludes all
+amounts collected with respect to local option gross receipts
+taxes;
+(9) "new high-wage job" means a new job
+created in New Mexico by an eligible employer on or after July
+1, 2004 and prior to July 1, [2026] 2036 that is occupied for
+at least forty-four weeks of a qualifying period by an eligible
+employee who is paid wages calculated for the qualifying period
+to be at least:
+(a) sixty thousand dollars ($60,000) if
+the job is performed or based in or within ten miles of the
+external boundaries of a municipality with a population of
+sixty thousand or more according to the most recent federal
+decennial census or in a class H county; and
+(b) forty thousand dollars ($40,000) if
+the job is performed or based in a municipality with a
+population of less than sixty thousand according to the most
+.233921.5AIC February 19, 2026 (9:18am)
+- 55 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+recent federal decennial census or in the unincorporated area,
+that is not within ten miles of the external boundaries of a
+municipality with a population of sixty thousand or more, of a
+county other than a class H county;
+(10) "new job" means a job that is occupied by
+an employee who has not been employed in New Mexico by the
+eligible employer in the three years prior to the date of hire;
+(11) "qualifying period" means the period of
+twelve months beginning on the day an eligible employee begins
+working in a new high-wage job or the period of twelve months
+beginning on the anniversary of the day an eligible employee
+began working in a new high-wage job;
+(12) "resident" means a natural person whose
+domicile is in New Mexico at the time of hire or within one
+hundred eighty days of the date of hire;
+(13) "threshold job" means a job that:
+(a) is occupied for at least forty-four
+weeks of the first fifty-two weeks of employment by an eligible
+employee; provided that the fifty-two-week period begins on the
+day the eligible employee occupies the job; and
+(b) meets the wage requirements for a
+"new high-wage job"; and
+(14) "wages" means all compensation paid by an
+eligible employer to an eligible employee through the
+employer's payroll system, including those wages that the
+.233921.5AIC February 19, 2026 (9:18am)
+- 56 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+employee elects to defer or redirect or the employee's
+contribution to a 401(k) or cafeteria plan program, but "wages"
+does not include benefits or the employer's share of payroll
+taxes, social security or medicare contributions, federal or
+state unemployment insurance contributions or workers'
+compensation."
+
+Section 27:
+SECTION 10. APPROPRIATIONS.--
+A. Twenty-six million six thousand dollars
+($26,006,000) is appropriated from the general fund to the
+department of finance and administration for expenditure in
+fiscal year 2027 to pay all costs attributable to the general
+fund of providing a salary increase of one percent to employees
+in budgeted positions who have completed their probationary
+period subject to satisfactory job performance. Any unexpended
+balance remaining at the end of fiscal year 2027 shall revert
+to the general fund. The salary increases shall be effective
+the first full pay period after July 1, 2026, and distributed
+as follows:
+(1) three hundred twenty-four thousand nine
+hundred dollars ($324,900) for permanent legislative employees,
+including permanent employees of the legislative council
+service, legislative finance committee, legislative education
+study committee, legislative building services, house and
+senate, house and senate chief clerks' office and house and
+senate leadership;
+.233921.5AIC February 19, 2026 (9:18am)
+- 57 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(2) three million four hundred seventy-seven
+thousand three hundred dollars ($3,477,300) for judicial
+permanent employees, including magistrate judges, elected
+district attorneys, district attorney permanent employees,
+public defender department permanent employees, judicial
+hearing officers and judicial special commissioners, supreme
+court justices, court of appeals judges, district court judges
+and metropolitan court judges;
+(3) nine million five hundred ninety-six
+thousand seven hundred dollars ($9,596,700) for incumbents in
+positions in the classified service governed by the Personnel
+Act, for incumbents in the New Mexico state police career pay
+system and for executive exempt employees;
+(4) twelve million twenty-three thousand eight
+hundred dollars ($12,023,800) to the higher education
+department for nonstudent faculty and staff of two-year and
+four-year public post-secondary educational institutions; and
+(5) five hundred eighty-three thousand three
+hundred dollars ($583,300) to the higher education department
+for nonstudent faculty and staff of the New Mexico military
+institute, New Mexico school for the blind and visually
+impaired and New Mexico school for the deaf.
+B. Thirty-six million forty-three thousand seven
+hundred dollars ($36,043,700) is appropriated from the general
+fund to the state equalization guarantee distribution of the
+.233921.5AIC February 19, 2026 (9:18am)
+- 58 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+public school fund for expenditure in fiscal year 2027 to
+recruit and retain public school personnel, comparable to an
+average one percent salary increase. Any unexpended balance
+remaining at the end of fiscal year 2027 shall revert to the
+general fund.
+C. Six hundred sixty-two thousand dollars
+($662,000) is appropriated from the general fund to the
+transportation distribution of the public school fund for
+expenditure in fiscal year 2027 to recruit and retain public
+school transportation personnel, comparable to an average one
+percent salary increase. Any unexpended balance remaining at
+the end of fiscal year 2027 shall revert to the general fund.
+D. For those state employees whose salaries are
+referenced in or received as a result of nongeneral fund
+appropriations in the General Appropriation Act of 2026, the
+department of finance and administration shall transfer from
+the appropriate fund to the appropriate agency the amount
+required for the salary increases equivalent to those provided
+for in this section. Such amounts are appropriated for
+expenditure in fiscal year 2027. Any unexpended balances
+remaining at the end of fiscal year 2027 shall revert to the
+appropriate fund. HTRC
+HTRC SECTION 10. APPLICABILITY.--
+A. The provisions of Sections 1 and 2 of this act
+apply to taxable years beginning on or after January 1, 2027.
+.233921.5AIC February 19, 2026 (9:18am)
+- 59 -
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+B. The provisions of Sections 3, 4, 6, 8 and 9 of
+this act apply to taxable years beginning on or after January
+1, 2026.
+
+Section 28:
+SECTION 11. EFFECTIVE DATE.--The effective date of the
+provisions of Sections 5 and 7 of this act is July 1,
+
+Section 29:
+2026. HTRC
+HTRC SECTION 11. APPLICABILITY.--The provisions of
+
+Section 30:
+Sections 1 through 4 and 6 through 8 of this act apply to
+taxable years beginning on or after January 1, 2027.
+
+Section 31:
+SECTION 12. EFFECTIVE DATE.--The effective date of the
+provisions of Section 5 of this act is July 1, 2027. HTRC
+- 60 -
+.233921.5AIC February 19, 2026 (9:18am)
+[DELETED: [Abmreancdkmeted m7-SEOFNWMO-,2       NCF]
+[DELETED: [Abmreancdkmeted mCP;HC;SHCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mC21HC22HCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCadHCF]
+[DELETED: [Abmreancdkmeted mC21HCHC22H CF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCadHCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted m C29HC20H1adS1.S1S1;dS1(.SCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted m CAHCHCFaHCF]
+[DELETED: [Abmreancdkmeted mCSCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCS1(;S1HCS1()S1()S1HC()HCS1()S1()S1HCF]
+[DELETED: [Abmreancdkmeted mC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HCF]
+[DELETED: [Abmreancdkmeted mC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1adS1HCadHCS1()S1()S1HC()HCS1adS1HCS1(CF]
+[DELETED: [Abmreancdkmeted m;S1H"HC8HC7HC21HCHC22H CF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mC9HC8HC21HCHC22H CF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCSCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted m.HCSCF]
+[DELETED: [Abmreancdkmeted m.HCS.HCF]
+
+
+================================================================================
+
+Raw Text:
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SENATE FINANCE COMMITTEE SUBSTITUTE FOR
+SENATE TAX, BUSINESS AND TRANSPORTATION
+COMMITTEE SUBSTITUTE FOR
+SENATE BILL 151
+57TH LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2026
+This document may incorporate amendments proposed by a
+committee, but not yet adopted, as well as amendments
+that have been adopted during the current legislative
+session. The document is a tool to show amendments in
+context and cannot be used for the purpose of adding
+amendments to legislation.
+AN ACT
+RELATING TO TAXATION; DECOUPLING FROM CERTAIN PROVISIONS OF
+FEDERAL LAW RELATING TO CORPORATE INCOME TAX BY AMENDING THE
+DEFINITION OF "BASE INCOME" IN THE CORPORATE INCOME AND
+FRANCHISE TAX ACT TO CONFORM TO THE FEDERAL INCLUSION OF
+CERTAIN INCOME OF CONTROLLED FOREIGN CORPORATIONS AND
+SUBTRACTING AMOUNTS DEDUCTED FOR BONUS DEPRECIATION AND
+INTEREST EXPENSES; PROVIDING THAT APPORTIONMENT RULES APPLY TO
+.233921.5AIC February 19, 2026 (9:18am)
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+ATTRIBUTED INCOME FROM A CONTROLLED FOREIGN CORPORATION;
+CREATING THE LOCAL JOURNALIST EMPLOYMENT INCOME TAX CREDIT AND
+THE LOCAL JOURNALIST EMPLOYMENT CORPORATE INCOME TAX CREDIT;
+CREATING A GROSS RECEIPTS TAX DEDUCTION FOR THE SALE OF
+CONSTRUCTION MATERIALS AND LABOR USED FOR THE DEVELOPMENT OF
+AFFORDABLE HOUSING; CREATING THE PHYSICIAN TAX CREDIT PURSUANT
+TO THE INCOME TAX ACT; HTRC PROVIDING A GROSS RECEIPTS TAX
+DEDUCTION FOR THE SALE OF CERTAIN EQUIPMENT AND MEDICATION
+DISPENSED BY A HEALTH CARE PRACTITIONER IN A PRACTICE
+SETTING; HTRC CREATING THE LOCAL NEWS PRINTER INCOME TAX
+CREDIT AND THE LOCAL NEWS PRINTER CORPORATE INCOME TAX CREDIT
+HTRC ; EXTENDING THE DATE OF ELIGIBILITY FOR THE HIGH-WAGE
+JOBS TAX CREDIT; MAKING APPROPRIATIONS TO PROVIDE SALARY
+INCREASES FOR STATE AND PUBLIC SCHOOL EMPLOYEES HTRC .
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+SECTION 1. Section 7-2A-2 NMSA 1978 (being Laws 1986,
+Chapter 20, Section 33, as amended) is amended to read:
+"7-2A-2. DEFINITIONS.--For the purpose of the Corporate
+Income and Franchise Tax Act and unless the context requires
+otherwise:
+A. "bank" means any national bank, national banking
+association, state bank or bank holding company;
+B. "apportioned net income" or "apportioned net
+loss" means net income allocated and apportioned to New Mexico
+.233921.5AIC February 19, 2026 (9:18am)
+-2-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+pursuant to the provisions of the Corporate Income and
+Franchise Tax Act or the Uniform Division of Income for Tax
+Purposes Act, but excluding from the sales factor any sales
+that represent intercompany transactions between members of the
+filing group;
+C. "base income" means the federal taxable income
+or the federal net operating loss of a corporation for the
+taxable year calculated pursuant to the Internal Revenue Code,
+after special deductions provided in Sections 241 through 249
+of the Internal Revenue Code but without any deduction for net
+operating losses, as if the corporation filed a federal tax
+return as a separate domestic entity, modified as follows:
+(1) adding to that income:
+(a) interest received on a state or
+local bond exempt under the Internal Revenue Code;
+(b) the amount of any deduction claimed
+in calculating taxable income for all expenses and costs
+directly or indirectly paid, accrued or incurred to a captive
+real estate investment trust;
+(c) the amount of any deduction, other
+than for premiums, for amounts paid directly or indirectly to a
+commonly controlled entity that is exempt from corporate income
+tax pursuant to Section 7-2A-4 NMSA 1978; [and]
+(d) for taxable years beginning on or
+after January 1, 2023, an amount equal to the amount of credit
+.233921.5AIC February 19, 2026 (9:18am)
+-3-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+claimed and allowed for that year pursuant to Section 7-3A-10
+NMSA 1978 with respect to the distributed net income of a pass-
+through entity;
+(e) the amount of any deduction taken
+pursuant to Sections 168(k) and 168(n) of the Internal Revenue
+Code in excess of the deduction amount that would have been
+allowed by Sections 168(a) through 168(j) of the Internal
+Revenue Code; and
+(f) the amount of additional interest
+deducted as a result of the changes to Subparagraph (A) of
+Section 163(j)(8) of the Internal Revenue Code made by Section
+70303 of Public Law 119–21; provided that such interest shall
+be eligible for the carryforward provisions of Section
+163(j)(2) of the Internal Revenue Code;
+(2) subtracting from that income:
+(a) income from obligations of the
+United States net of expenses incurred to earn that income; and
+(b) other amounts that the state is
+prohibited from taxing because of the laws or constitution of
+this state or the United States net of any related expenses;
+[and
+(c) an amount equal to one hundred
+percent of the income of the corporation under Section 951A of
+the Internal Revenue Code, less the amount deducted pursuant to
+Section 250 of the Internal Revenue Code;]
+.233921.5AIC February 19, 2026 (9:18am)
+-4-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) making other adjustments deemed necessary
+to properly reflect income of the unitary group, including
+attribution of income or expense related to unitary assets held
+by related corporations that are not part of the filing group;
+and
+(4) for a taxpayer that conducts a lawful
+business pursuant to the laws of this state, excludes an amount
+equal to any expenditure that is eligible to be claimed as a
+federal income tax deduction but is disallowed pursuant to
+Section 280E of the Internal Revenue Code, as that section may
+be amended or renumbered;
+D. "captive real estate investment trust" means a
+corporation, trust or association taxed as a real estate
+investment trust pursuant to Section 857 of the Internal
+Revenue Code, the shares or beneficial interests of which are
+not regularly traded on an established securities market;
+provided that more than fifty percent of any class of
+beneficial interests or shares of the real estate investment
+trust are owned directly, indirectly or constructively by the
+taxpayer during all or a part of the taxpayer's taxable year;
+E. "common ownership" means the direct or indirect
+control or ownership of more than fifty percent of the
+outstanding voting stock, ownership of which is determined
+pursuant to Section 1563 of the Internal Revenue Code, as that
+section may be amended or renumbered, of:
+.233921.5AIC February 19, 2026 (9:18am)
+-5-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(1) a parent-subsidiary controlled group as
+defined in Section 1563 of the Internal Revenue Code, except
+that fifty percent shall be substituted for eighty percent;
+(2) a brother-sister controlled group as
+defined in Section 1563 of the Internal Revenue Code; or
+(3) three or more corporations each of which
+is a member of a group of corporations described in Paragraph
+(1) or (2) of this subsection, and one of which is:
+(a) a common parent corporation included
+in a group of corporations described in Paragraph (1) of this
+subsection; and
+(b) included in a group of corporations
+described in Paragraph (2) of this subsection;
+F. "consolidated group" means the group of entities
+properly filing a federal consolidated return under the
+Internal Revenue Code for the taxable year;
+G. "corporation" means corporations, joint stock
+companies, real estate trusts organized and operated under the
+Real Estate Trust Act, financial corporations and banks, other
+business associations and, for corporate income tax purposes,
+partnerships and limited liability companies taxed as
+corporations under the Internal Revenue Code;
+H. "department" means the taxation and revenue
+department, the secretary of taxation and revenue or any
+employee of the department exercising authority lawfully
+.233921.5AIC February 19, 2026 (9:18am)
+-6-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+delegated to that employee by the secretary;
+I. "filing group" means a group of corporations
+properly included in a return pursuant to Section 7-2A-8.3 NMSA
+1978 for a particular taxable year;
+J. "fiscal year" means any accounting period of
+twelve months ending on the last day of any month other than
+December;
+K. "grandfathered net operating loss carryover"
+means:
+(1) the amount of net loss properly reported
+to New Mexico for taxable years beginning January 1, 2013 and
+prior to January 1, 2020 as part of a timely filed original
+return, or an amended return for those taxable years filed
+prior to January 1, 2020, to the extent such loss can be
+attributed to one or more corporations that are properly
+included in the taxpayer's return for the first taxable year
+beginning on or after January 1, 2020;
+(2) reduced by:
+(a) adding back deductions that were
+taken by the corporation or corporations for royalties or
+interest paid to one or more related corporations, but only to
+the extent that such adjustment would not create a net loss for
+such related corporations; and
+(b) the amount of net operating loss
+deductions taken prior to January 1, 2020 that would be charged
+.233921.5AIC February 19, 2026 (9:18am)
+-7-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+against those losses consistent with the Internal Revenue Code
+and provisions of the Corporate Income and Franchise Tax Act
+applicable to the year of the deduction; and
+(3) apportioned to New Mexico using the
+apportionment factors that can properly be attributed to the
+corporation or corporations for the year of the net loss;
+L. "Internal Revenue Code" means the United States
+Internal Revenue Code of 1986, as amended;
+M. "net income" means:
+(1) the base income of a corporation properly
+filing a tax return as a separate entity; or
+(2) the combined base income and losses of
+corporations that are part of a filing group that is computed
+after eliminating intercompany income and expense in a manner
+consistent with the consolidated filing requirements of the
+Internal Revenue Code and the Corporate Income and Franchise
+Tax Act;
+N. "net operating loss carryover" means the
+apportioned net loss properly reported on an original or
+amended tax return for taxable years beginning on or after
+January 1, 2020 by the taxpayer:
+(1) plus:
+(a) the portion of an apportioned net
+loss properly reported to New Mexico for a taxable year
+beginning on or after January 1, 2020, on a separate year
+.233921.5AIC February 19, 2026 (9:18am)
+-8-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+return, to the extent the taxpayer would have been entitled to
+include the portion of such apportioned net loss in the
+taxpayer's consolidated net operating loss carryforward under
+the Internal Revenue Code if the taxpayer filed a consolidated
+federal return; and
+(b) the taxpayer's grandfathered net
+operating loss carryover; and
+(2) minus:
+(a) the amount of the net operating loss
+carryover attributed to an entity that has left the filing
+group, computed in a manner consistent with the consolidated
+filing requirements of the Internal Revenue Code and applicable
+regulations, as if the taxpayer were filing a consolidated
+return; and
+(b) the amount of net operating loss
+deductions properly taken by the taxpayer;
+O. "net operating loss deduction" means the portion
+of the net operating loss carryover that may be deducted from
+the taxpayer's apportioned net income under the Internal
+Revenue Code as of January 1, 2018 for the taxable year in
+which the deduction is taken, including the eighty percent
+limitation of Section 172(a) of the Internal Revenue Code as of
+January 1, 2018 calculated on the basis of the taxpayer's
+apportioned net income;
+P. "person" means any individual, estate, trust,
+.233921.5AIC February 19, 2026 (9:18am)
+-9-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+receiver, cooperative association, club, corporation, company,
+firm, partnership, limited liability company, joint venture,
+syndicate or other association; "person" also means, to the
+extent permitted by law, any federal, state or other
+governmental unit or subdivision or agency, department or
+instrumentality thereof;
+Q. "real estate investment trust" has the meaning
+ascribed to the term in Section 856 of the Internal Revenue
+Code, as that section may be amended or renumbered;
+R. "related corporation" means a corporation that
+is under common ownership with one or more corporations but
+that is not included in the same tax return;
+S. "return" means any tax or information return,
+including a water's-edge or worldwide combined return, a
+consolidated return, a declaration of estimated tax or a claim
+for refund, including any amendments or supplements to the
+return, required or permitted pursuant to a law subject to
+administration and enforcement pursuant to the Tax
+Administration Act and filed with the department by or on
+behalf of any person;
+T. "secretary" means the secretary of taxation and
+revenue or the secretary's delegate;
+U. "separate year return" means a properly filed
+original or amended return for a taxable year beginning on or
+after January 1, 2020 by a taxpayer reporting a loss, a portion
+.233921.5AIC February 19, 2026 (9:18am)
+-10-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+of which is claimed as part of the net operating loss carryover
+by another taxpayer in a subsequent return period;
+V. "state" means any state of the United States,
+the District of Columbia, the commonwealth of Puerto Rico, any
+territory or possession of the United States or political
+subdivision thereof or any political subdivision of a foreign
+country;
+W. "state or local bond" means a bond issued by a
+state other than New Mexico or by a local government other than
+one of New Mexico's political subdivisions, the interest from
+which is excluded from income for federal income tax purposes
+under Section 103 of the Internal Revenue Code, as that section
+may be amended or renumbered;
+X. "taxable income" means a taxpayer's apportioned
+net income minus the net operating loss deduction for the
+taxable year;
+Y. "taxable year" means the calendar year or fiscal
+year upon the basis of which the net income is computed under
+the Corporate Income and Franchise Tax Act and includes, in the
+case of the return made for a fractional part of a year under
+the provisions of that act, the period for which the return is
+made;
+Z. "taxpayer" means any corporation or group of
+corporations filing a return pursuant to Section 7-2A-8.3 NMSA
+1978 subject to the taxes imposed by the Corporate Income and
+.233921.5AIC February 19, 2026 (9:18am)
+-11-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+Franchise Tax Act;
+AA. "unitary group" means a group of two or more
+corporations, including a captive real estate investment trust,
+but not including an S corporation, an insurance company
+subject to the provisions of the New Mexico Insurance Code, an
+insurance company that would be subject to the New Mexico
+Insurance Code if the insurance company engaged in business in
+this state or a real estate investment trust that is not a
+captive real estate investment trust, that are:
+(1) related through common ownership; and
+(2) economically interdependent with one
+another as demonstrated by the following factors:
+(a) centralized management;
+(b) functional integration; and
+(c) economies of scale;
+BB. "water's-edge group" means all corporations
+that are part of a unitary group, except:
+(1) corporations that are exempt from
+corporate income tax pursuant to Section 7-2A-4 NMSA 1978; and
+(2) corporations organized or incorporated
+outside the United States or its possessions or territories
+that have less than twenty percent of their property, payroll
+and sales sourced to locations within the United States,
+following the sourcing rules of the Uniform Division of Income
+for Tax Purposes Act; and
+.233921.5AIC February 19, 2026 (9:18am)
+-12-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+CC. "worldwide combined group" means all members of
+a unitary group, except members that are exempt from corporate
+income tax pursuant to Section 7-2A-4 NMSA 1978, irrespective
+of the country in which the corporations are incorporated or
+conduct business activity."
+SECTION 2. Section 7-4-10 NMSA 1978 (being Laws 1993,
+Chapter 153, Section 1, as amended) is amended to read:
+"7-4-10. APPORTIONMENT OF BUSINESS INCOME.--
+A. Except as provided in Subsections B and C of
+this section, all business income shall be apportioned to this
+state by multiplying the income by a fraction, the numerator of
+which is the property factor plus the payroll factor plus the
+sales factor and the denominator of which is three. The
+apportionment calculation shall include the factors of a
+controlled foreign corporation to the extent the income of the
+corporation is included in net income.
+B. If eighty percent or more of the New Mexico
+numerators of the property and payroll factors for a filing
+group, or for a taxpayer that is not a member of a filing
+group, are employed in manufacturing or operating a computer
+processing facility, the filing group or the taxpayer may elect
+to have business income apportioned to this state by
+multiplying the income by the sales factor for the taxable
+year.
+C. If a filing group, or a taxpayer that is not a
+.233921.5AIC February 19, 2026 (9:18am)
+-13-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+member of a filing group, has a headquarters operation in New
+Mexico, the filing group or the taxpayer may elect to have
+business income apportioned to this state by multiplying the
+income by the sales factor for the taxable year.
+D. To elect the method of apportionment provided by
+Subsection B or C of this section, the taxpayer shall notify
+the department of the election, in writing, no later than the
+date on which the taxpayer files the return for the first
+taxable year to which the election will apply. The election
+shall apply as follows:
+(1) if the election is made for taxable years
+beginning prior to January 1, 2020, to the taxable year in
+which the election is made and to each taxable year thereafter
+for three years, or until the taxable year ending prior to
+January 1, 2020, whichever is earlier;
+(2) if the election is made for a taxable year
+beginning on or after January 1, 2020, to the taxable year in
+which the election is made and to each taxable year thereafter
+until the taxpayer notifies the department, in writing, that
+the election is terminated, except that the taxpayer shall not
+terminate the election until the method of apportioning
+business income provided by Subsection B or C of this section
+has been used by the taxpayer for at least three consecutive
+taxable years, including a total of at least thirty-six
+calendar months; and
+.233921.5AIC February 19, 2026 (9:18am)
+-14-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) if the election is made by a qualifying
+filing group, the election shall apply to the members of the
+filing group properly included pursuant to Section 7-2A-8.3
+NMSA 1978.
+E. For purposes of this section:
+(1) "controlled foreign corporation" means a
+foreign corporation as defined by Section 957 of the Internal
+Revenue Code of 1986, as that section may be amended or
+renumbered;
+[(1)] (2) "filing group" means "filing group"
+as that term is defined in the Corporate Income and Franchise
+Tax Act;
+[(2)] (3) "headquarters operation" means:
+(a) the center of operations of a
+business: 1) where corporate staff employees are physically
+employed; 2) where the centralized functions are primarily
+performed, including administrative, planning, managerial,
+human resources, purchasing, information technology and
+accounting, but not including operating a call center; 3) the
+function and purpose of which is to manage and direct most
+aspects and functions of the business operations within a
+subdivided area of the United States; 4) from which final
+authority over regional or subregional offices, operating
+facilities and any other offices of the business are issued;
+and 5) including national and regional headquarters if the
+.233921.5AIC February 19, 2026 (9:18am)
+-15-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+national headquarters is subordinate only to the ownership of
+the business or its representatives and the regional
+headquarters is subordinate to the national headquarters; or
+(b) the center of operations of a
+business: 1) the function and purpose of which is to manage
+and direct most aspects of one or more centralized functions;
+and 2) from which final authority over one or more centralized
+functions is issued;
+[(3)] (4) "manufacturing" means combining or
+processing components or materials to increase their value for
+sale in the ordinary course of business, but does not include:
+(a) construction;
+(b) farming;
+(c) power generation; provided that
+"manufacturing" includes electricity generation at a facility
+that does not require location approval and a certificate of
+convenience and necessity prior to commencing construction or
+operation of the facility pursuant to the Public Utility Act;
+(d) processing natural resources,
+including hydrocarbons; or
+(e) processing or preparation of meals
+for immediate consumption; and
+[(4)] (5) "operating a computer processing
+facility" means managing the necessary and ancillary activities
+for the operation of a facility primarily used to process data
+.233921.5AIC February 19, 2026 (9:18am)
+-16-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+or information, but does not include managing the operation of
+facilities that are predominantly used to support sales of
+tangible property or the provision of banking, financial or
+professional services."
+SECTION 3. A new section of the Income Tax Act is enacted
+to read:
+"[NEW MATERIAL] LOCAL JOURNALIST EMPLOYMENT INCOME TAX
+CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer who is not a
+dependent of another individual and is an owner of a local
+news organization that employs a journalist may claim a credit
+against the taxpayer's tax liability imposed pursuant to the
+Income Tax Act in an amount provided in Subsection B of this
+section. The tax credit provided by this section may be
+referred to as the "local journalist employment income tax
+credit".
+B. The amount of tax credit shall be in an amount
+equal to thirty percent of wages paid to each journalist
+employed by a local news organization.
+C. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+.233921.5AIC February 19, 2026 (9:18am)
+-17-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+credit for more than seventy-five journalists whom the taxpayer
+employs as a local news organization and, except as provided in
+Subsections F and G of this section, only one tax credit shall
+be certified for each journalist employed by a local news
+organization per taxable year. The total annual aggregate
+amount of local journalist employment income tax credits and
+local journalist employment corporate income tax credits that
+may be certified in a calendar year shall not exceed four
+million dollars ($4,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+taxpayer's income tax liability in the taxable year in which
+the credit is claimed shall be refunded to the taxpayer.
+F. Married individuals filing separate returns for
+a taxable year for which they could have filed a joint return
+may each claim only one-half of the tax credit that would have
+been claimed on a joint return.
+G. A taxpayer may be allocated the right to claim
+the tax credit in proportion to the taxpayer's ownership
+.233921.5AIC February 19, 2026 (9:18am)
+-18-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+interest if the taxpayer owns an interest in a business entity
+that is taxed for federal income tax purposes as a partnership
+or limited liability company and the business entity has met
+all requirements to be eligible for the credit. The total
+credit claimed by all members of the partnership or limited
+liability company shall not exceed the allowable credit
+pursuant to this section.
+H. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+required by the department.
+I. The tax credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the tax credit.
+J. As used in this section:
+(1) "journalist" means a person who:
+(a) is paid by a local news organization
+to regularly gather, prepare, collect, photograph, record,
+direct the recording of, produce, write, edit, report or
+publish news or information that concerns state or local events
+or other matters of public interest for dissemination to the
+state or a local community through reporting activities,
+including conducting interviews, observing current events or
+analyzing documents;
+(b) resides within fifty miles of the
+.233921.5AIC February 19, 2026 (9:18am)
+-19-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+coverage area assigned by the local news organization; and
+(c) is employed as a journalist by the
+local news organization for more than twenty-eight weeks of the
+taxable year in which the credit is claimed;
+(2) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+journalist;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+previous twenty-four months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of its content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least three originally produced
+stories about the state or a local community per week
+.233921.5AIC February 19, 2026 (9:18am)
+-20-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+HTRC averaged HTRC over the previous twenty-four months and
+has at least fifty percent of its digital audience in New
+Mexico, averaged over a twelve- month period;
+(e) discloses in its print publication
+or on its website its beneficial ownership or, in the case of a
+not-for-profit entity, its board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in its filings with the federal internal revenue
+service;
+(g) has not received more than ten
+percent of its gross receipts for the previous year from
+political action committees or other entities described in
+Section 527 of the Internal Revenue Code, or from an
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary; and
+.233921.5AIC February 19, 2026 (9:18am)
+-21-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) "wages" means not more than fifty thousand
+dollars ($50,000) in compensation paid by a local news
+organization to a journalist through the organization's payroll
+system, including those wages that the journalist elects to
+defer or redirect or the journalist's contribution to a 401(k)
+or cafeteria plan program. "Wages" does not mean benefits or
+the organization's share of payroll taxes, social security or
+medicare contributions, federal or state unemployment insurance
+contributions or workers' compensation."
+SECTION 4. A new section of the Corporate Income and
+Franchise Tax Act is enacted to read:
+"[NEW MATERIAL] LOCAL JOURNALIST EMPLOYMENT CORPORATE
+INCOME TAX CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer that is a local
+news organization that employs a journalist may claim a credit
+against the taxpayer's tax liability imposed pursuant to the
+Corporate Income and Franchise Tax Act in an amount provided in
+Subsection B of this section. The tax credit provided by this
+section may be referred to as the "local journalist employment
+corporate income tax credit".
+B. The amount of tax credit shall be in an amount
+equal to thirty percent of wages paid to each journalist
+employed by a local news organization.
+C. A taxpayer shall apply for certification of
+.233921.5AIC February 19, 2026 (9:18am)
+-22-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+credit for more than seventy-five journalists whom the taxpayer
+employs as a local news organization, and only one tax credit
+shall be certified for each journalist employed by a local news
+organization per taxable year. The total annual aggregate
+amount of local journalist employment corporate income tax
+credits and local journalist employment income tax credits that
+may be certified in a calendar year shall not exceed four
+million dollars ($4,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+taxpayer's corporate income tax liability in the taxable year
+in which the credit is claimed shall be refunded to the
+taxpayer.
+F. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+.233921.5AIC February 19, 2026 (9:18am)
+-23-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+required by the department.
+G. The tax credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the tax credit.
+H. As used in this section:
+(1) "journalist" means a person who:
+(a) is paid by a local news organization
+to regularly gather, prepare, collect, photograph, record,
+direct the recording of, produce, write, edit, report or
+publish news or information that concerns state or local events
+or other matters of public interest for dissemination to the
+state or a local community through reporting activities,
+including conducting interviews, observing current events or
+analyzing documents;
+(b) resides within fifty miles of the
+coverage area assigned by the local news organization; and
+(c) is employed as a journalist by the
+local news organization for more than twenty-eight weeks of the
+taxable year in which the credit is claimed;
+(2) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+.233921.5AIC February 19, 2026 (9:18am)
+-24-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+journalist;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+previous twenty-four months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of its content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least three originally produced
+stories about the state or a local community per week
+HTRC averaged HTRC over the previous twenty-four months and
+has at least fifty percent of its digital audience in New
+Mexico, averaged over a twelve- month period;
+(e) discloses in its print publication
+or on its website its beneficial ownership or, in the case of a
+not-for-profit entity, its board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+.233921.5AIC February 19, 2026 (9:18am)
+-25-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in its filings with the federal internal revenue
+service;
+(g) has not received more than ten
+percent of its gross receipts for the previous year from
+political action committees or other entities described in
+Section 527 of the Internal Revenue Code, or from an
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary; and
+(3) "wages" means not more than fifty thousand
+dollars ($50,000) in compensation paid by a local news
+organization to a journalist through the organization's payroll
+system, including those wages that the journalist elects to
+defer or redirect or the journalist's contribution to a 401(k)
+or cafeteria plan program. "Wages" does not mean benefits or
+the organization's share of payroll taxes, social security or
+medicare contributions, federal or state unemployment insurance
+contributions or workers' compensation."
+.233921.5AIC February 19, 2026 (9:18am)
+-26-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+SECTION 5. A new section of the Gross Receipts and
+Compensating Tax Act is enacted to read:
+"[NEW MATERIAL] DEDUCTION--GROSS RECEIPTS--SALE OF
+CONSTRUCTION MATERIALS AND LABOR USED FOR THE DEVELOPMENT OF
+AFFORDABLE HOUSING MULTIFAMILY RESIDENTIAL HOUSING PROJECTS.--
+A. Prior to July 1, HTRC 2029 HTRC
+HTRC 2030 HTRC , receipts from selling construction materials
+and labor may be deducted from gross receipts if:
+(1) the construction materials and labor are
+being used for the purpose of developing multifamily
+residential housing;
+(2) eighty percent or more of the housing
+units being developed will be affordable housing;
+Sfl1 and Sfl1
+(3) the construction materials and labor are
+sold to a qualifying grantee for a single project that is
+residential housing pursuant to the Affordable Housing Act
+Sfl1 . Sfl1 Sfl1 ; and Sfl1
+Sfl1 (4) the buyer of the construction
+materials and labor delivers a nontaxable transaction
+certificate to the seller or provides alternative evidence
+pursuant to Section 7-9-43 NMSA 1978. Sfl1
+B. A taxpayer allowed a deduction pursuant to this
+section shall report the amount of the deduction to the
+department in a manner required by the department.
+.233921.5AIC February 19, 2026 (9:18am)
+-27-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+C. The deduction provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+deduction.
+D. As used in this section:
+(1) "affordable housing" means multifamily
+residential housing primarily for persons or households of low
+or moderate income;
+(2) "building" means a structure capable of
+being renovated or converted into affordable housing or a
+structure that is to be demolished and is located on land that
+is donated and upon which affordable housing will be
+constructed;
+(3) "low or moderate income" means a household
+in which the current annual income is at or below eighty
+percent of the area median income for the geographic area in
+which the household is located, adjusted for family size, as
+determined by the United States department of housing and urban
+development; and
+(4) "multifamily residential housing" means
+any building or portion thereof that is primarily occupied, or
+is designed or intended to be primarily occupied, as a
+residence by more than three households. "Multifamily
+residential housing" includes congregate housing and
+transitional or temporary housing for homeless persons."
+.233921.5AIC February 19, 2026 (9:18am)
+-28-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+SECTION 6. A new section of the Income Tax Act is enacted
+to read:
+"[NEW MATERIAL] PHYSICIAN TAX CREDIT.--
+A. HTRC A HTRC HTRC For taxable years prior to
+January 1, 2032, a HTRC taxpayer who files an individual New
+Mexico tax return, is not a dependent of another individual, is
+a physician and provides health care services in New Mexico for
+at least one thousand five hundred eighty-four hours during a
+taxable year may claim a credit against the tax liability
+imposed by the Income Tax Act for that taxable year in an
+amount equal to ten thousand dollars ($10,000). The credit
+provided in this section may be referred to as the "physician
+tax credit".
+B. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department of health on
+forms and in the manner prescribed by that department.
+Completed applications shall be considered in the order
+received. For a taxpayer approved to receive the credit, the
+department of health shall issue a certificate of eligibility
+to the qualifying physician. The department of health shall
+provide the department with certificates of eligibility issued
+pursuant to this subsection in an electronic format at
+regularly agreed-upon intervals.
+C. That portion of a tax credit that exceeds a
+taxpayer's tax liability in the taxable year in which the
+.233921.5AIC February 19, 2026 (9:18am)
+-29-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+credit is being claimed may be carried forward for up to three
+consecutive taxable years.
+D. A taxpayer allowed a tax credit pursuant to this
+section shall claim the credit on forms and in a manner
+required by the department.
+E. The tax credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+tax credit.
+F. As used in this section, "physician" means a
+health professional who is a medical physician or an
+osteopathic physician licensed to practice medicine in New
+Mexico pursuant to the Medical Practice Act."
+HTRC SECTION 7. A new section of the Gross Receipts and
+Compensating Tax Act is enacted to read:
+"[NEW MATERIAL] DEDUCTION--GROSS RECEIPTS--IN-OFFICE
+EQUIPMENT AND IN-OFFICE MEDICATION SOLD TO A HEALTH CARE
+PRACTITIONER.--
+A. Except for receipts that may be deducted
+pursuant to Section 7-9-73.3 NMSA 1978, receipts from selling
+in-office equipment may be deducted from gross receipts if the
+sale is made to a health care practitioner or an association of
+health care practitioners that delivers a nontaxable
+transaction certificate to the seller or provides alternative
+evidence pursuant to Section 7-9-43 NMSA 1978. The in-office
+.233921.5AIC February 19, 2026 (9:18am)
+-30-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+equipment must be used exclusively during a service that is
+within the scope of practice of the health care practitioner
+providing the service.
+B. Except for receipts that may be deducted
+pursuant to Section 7-9-73.2 NMSA 1978, receipts from selling
+in-office medication may be deducted from gross receipts if the
+sale is made to a health care practitioner or an association of
+health care practitioners that delivers a nontaxable
+transaction certificate to the seller or provides alternative
+evidence pursuant to Section 7-9-43 NMSA 1978. The in-office
+medication must be used exclusively for treatment of patients
+within the scope of practice of the health care practitioner
+providing the service.
+C. A taxpayer allowed a deduction pursuant to this
+section shall report the amount of the deduction separately in
+a manner required by the department.
+D. The deduction provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+deductions.
+E. As used in this section:
+(1) "association of health care practitioners"
+means a corporation, an unincorporated business entity or other
+legal entity organized by, owned by or employing one or more
+health care practitioners; provided that the entity is not:
+.233921.5AIC February 19, 2026 (9:18am)
+-31-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(a) an organization granted exemption
+from the federal income tax by the United States commissioner
+of internal revenue as organizations described in Section
+501(c)(3) of the United States Internal Revenue Code of 1986,
+as that section may be amended or renumbered; or
+(b) a health maintenance organization or
+a hospital, a hospice, a nursing home or an entity that is
+solely an outpatient facility or intermediate care facility
+licensed by the health care authority;
+(2) "health care practitioner" means:
+(a) a chiropractic physician licensed
+pursuant to the provisions of the Chiropractic Physician
+Practice Act;
+(b) a dentist or dental hygienist
+licensed pursuant to the Dental Health Care Act;
+(c) a doctor of oriental medicine
+licensed pursuant to the provisions of the Acupuncture and
+Oriental Medicine Practice Act;
+HTRC Sfl1 (d) a lactation care provider
+licensed pursuant to the Lactation Care Provider
+Act; Sfl1 HTRC
+HTRC Sfl1 (d) Sfl1 Sfl1 (e) Sfl1 HTRC
+HTRC (d) HTRC an optometrist licensed pursuant to the
+provisions of the Optometry Act;
+HTRC Sfl1 (e) Sfl1 Sfl1 (f) Sfl1 HTRC
+.233921.5AIC February 19, 2026 (9:18am)
+-32-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+HTRC (e) HTRC an osteopathic physician licensed pursuant to
+the provisions of the Medical Practice Act;
+HTRC Sfl1 (f) Sfl1 Sfl1 (g) Sfl1 HTRC
+HTRC (f) HTRC a physical therapist licensed pursuant to the
+provisions of the Physical Therapy Act;
+HTRC Sfl1 (g) Sfl1 Sfl1 (h) Sfl1 HTRC
+HTRC (g) HTRC a physician or physician assistant licensed
+pursuant to the provisions of the Medical Practice Act;
+HTRC Sfl1 (h) Sfl1 Sfl1 (i) Sfl1 HTRC
+HTRC (h) HTRC a podiatric physician licensed pursuant to the
+provisions of the Podiatry Act;
+HTRC Sfl1 (i) Sfl1 Sfl1 (j) Sfl1 HTRC
+HTRC (i) HTRC a psychologist licensed pursuant to the
+provisions of the Professional Psychologist Act;
+HTRC Sfl1 (j) Sfl1 Sfl1 (k) Sfl1 HTRC
+HTRC (j) HTRC a registered lay midwife registered by the
+department of health;
+HTRC Sfl1 (k) Sfl1 Sfl1 (l) Sfl1 HTRC
+HTRC (k) HTRC a registered nurse or licensed practical nurse
+licensed pursuant to the provisions of the Nursing Practice
+Act;
+HTRC Sfl1 (l) Sfl1 Sfl1 (m) Sfl1 HTRC
+HTRC (l) HTRC a registered occupational therapist licensed
+pursuant to the provisions of the Occupational Therapy Act;
+HTRC Sfl1 (m) Sfl1 Sfl1 (n) Sfl1 HTRC
+.233921.5AIC February 19, 2026 (9:18am)
+-33-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+HTRC (m) HTRC a respiratory care practitioner licensed
+pursuant to the provisions of the Respiratory Care Act;
+HTRC Sfl1 (n) Sfl1 Sfl1 (o) Sfl1 HTRC
+HTRC (n) HTRC a speech-language pathologist or audiologist
+licensed pursuant to the Speech-Language Pathology, Audiology
+and Hearing Aid Dispensing Practices Act;
+HTRC Sfl1 (o) Sfl1 Sfl1 (p) Sfl1 HTRC
+HTRC (o) HTRC a professional clinical mental health
+counselor, marriage and family therapist or professional art
+therapist licensed pursuant to the provisions of the Counseling
+and Therapy Practice Act who has obtained a master's degree or
+a doctorate;
+HTRC Sfl1 (p) Sfl1 Sfl1 (q) Sfl1 HTRC
+HTRC (p) HTRC an independent social worker licensed pursuant
+to the provisions of the Social Work Practice Act;
+HTRC Sfl1 (q) Sfl1 Sfl1 (r) Sfl1 HTRC
+HTRC (q) HTRC a clinical laboratory that is accredited
+pursuant to 42 U.S.C. Section 263a but that is not a laboratory
+in a physician's office or in a hospital defined pursuant to 42
+U.S.C. Section 1395x; HTRC Sfl1 and Sfl1 HTRC HTRC and HTRC
+HTRC Sfl1 (r) Sfl1 Sfl1 (s) Sfl1 HTRC
+HTRC (r) HTRC a naturopathic doctor licensed pursuant to the
+provisions of the Naturopathic Doctors' Practice Act;
+HTRC Sfl1 and Sfl1 HTRC
+HTRC Sfl1 (t) a naprapath licensed
+.233921.5AIC February 19, 2026 (9:18am)
+-34-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+pursuant to the Naprapathic Practice Act; Sfl1 HTRC
+(3) "in-office equipment" means equipment used
+by a health care practitioner primarily to provide medical
+treatment to patients in the health care practitioner's
+practice setting. "In-office equipment" does not mean office
+furniture that is not primarily used to provide medical
+treatment, including desks, desk chairs, computers and
+software; and
+(4) "in-office medication" means saline or
+other non-prescription substance dispensed by a health care
+practitioner to a patient in the health care practitioner's
+practice setting to treat the patient's specific illness,
+injury or other medical necessity." HTRC
+SECTION HTRC 8 HTRC HTRC 7 HTRC. A new section of the
+Income Tax Act is enacted to read:
+"[NEW MATERIAL] LOCAL NEWS PRINTER INCOME TAX CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer who is not a
+dependent of another individual and is an owner of a local
+news printer that employs a qualified employee may claim a
+credit against the taxpayer's tax liability imposed pursuant to
+the Income Tax Act in an amount provided in Subsection B of
+this section. The tax credit provided by this section may be
+referred to as the "local news printer income tax credit".
+B. The amount of tax credit shall be in an amount
+.233921.5AIC February 19, 2026 (9:18am)
+-35-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+equal to the wages paid to each qualified employee employed by
+a local news printer in the taxable year for which the tax
+credit is claimed, not to exceed:
+(1) ten thousand dollars ($10,000) for a
+qualified employee working an average of twenty hours or more
+per week in the taxable year; and
+(2) five thousand dollars ($5,000) for a
+qualified employee working an average of less than twenty hours
+per week in the taxable year.
+C. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+credit for more than one hundred qualified employees whom the
+taxpayer employs as a local news printer and, except as
+provided in Subsections F and G of this section, only one tax
+credit shall be certified for each qualified employee employed
+by a local news printer per taxable year. The total annual
+aggregate amount of local news printer income tax credits and
+local news printer corporate income tax credits that may be
+certified in a calendar year shall not exceed one million
+dollars ($1,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+.233921.5AIC February 19, 2026 (9:18am)
+-36-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+taxpayer's income tax liability in the taxable year in which
+the credit is claimed shall be refunded to the taxpayer.
+F. Married individuals filing separate returns for
+a taxable year for which they could have filed a joint return
+may each claim only one-half of the tax credit that would have
+been claimed on a joint return.
+G. A taxpayer may be allocated the right to claim
+the tax credit in proportion to the taxpayer's ownership
+interest if the taxpayer owns an interest in a business entity
+that is taxed for federal income tax purposes as a partnership
+or limited liability company and the business entity has met
+all requirements to be eligible for the credit. The total
+credit claimed by all members of the partnership or limited
+liability company shall not exceed the allowable credit
+pursuant to this section.
+H. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+required by the department.
+I. The credit provided by this section shall be
+.233921.5AIC February 19, 2026 (9:18am)
+-37-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the credit.
+J. As used in this section:
+(1) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+qualified employee;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+previous thirty-six months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of its content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least five originally produced
+stories about the state or a local community per week over the
+.233921.5AIC February 19, 2026 (9:18am)
+-38-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+previous thirty-six months and has at least fifty percent of
+its digital audience in New Mexico, averaged over a twelve-
+month period;
+(e) discloses in the entity's print
+publication or on the entity's website the entity's beneficial
+ownership or, in the case of a not-for-profit entity, the
+entity's board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in the organization's filings with the federal internal
+revenue service;
+(g) has not received more than ten
+percent of the entity's gross receipts for the previous year
+from political action committees or other entities described in
+Section 527 of the Internal Revenue Code, or from an
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+.233921.5AIC February 19, 2026 (9:18am)
+-39-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+indirectly, by a publicly traded entity or subsidiary;
+(2) "local news printer" means an entity that:
+(a) provides manufacturing, production
+and printing services using a web press designed and optimized
+for printing newspapers for a local news organization;
+(b) has been engaging in the business of
+manufacturing, producing and printing newspapers for at least
+five years;
+(c) employs at least five qualified
+employees; and
+(d) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary;
+(3) "qualified employee" means a person who:
+(a) is paid by a local news printer to
+regularly perform duties related to pre-press, press and post-
+press newspaper production to prepare newspapers for transition
+to delivery and distribution personnel;
+(b) works at a physical location in New
+Mexico; and
+(c) works as a qualified employee for
+the local news printer for at least twenty-five percent of the
+taxable year in which the credit is claimed; and
+(4) "wages" means compensation paid by a local
+news printer to a qualified employee through the organization's
+.233921.5AIC February 19, 2026 (9:18am)
+-40-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+payroll system, including those wages that the qualified
+employee elects to defer or redirect or the qualified
+employee's contribution to a 401(k) or cafeteria plan program.
+"Wages" does not mean benefits or the organization's share of
+payroll taxes, social security or medicare contributions,
+federal or state unemployment insurance contributions or
+workers' compensation."
+SECTION HTRC 9 HTRC HTRC 8 HTRC. A new section of the
+Corporate Income and Franchise Tax Act is enacted to read:
+"[NEW MATERIAL] LOCAL NEWS PRINTER CORPORATE INCOME TAX
+CREDIT.--
+A. For taxable years prior to January 1,
+HTRC 2031 HTRC HTRC 2032 HTRC , a taxpayer that is an owner
+of a local news printer that employs a qualified employee may
+claim a credit against the taxpayer's tax liability imposed
+pursuant to the Corporate Income and Franchise Tax Act in an
+amount provided in Subsection B of this section. The tax
+credit provided by this section may be referred to as the
+"local news printer corporate income tax credit".
+B. The amount of tax credit shall be in an amount
+equal to the wages paid to each qualified employee employed by
+a local news printer in the taxable year for which the tax
+credit is claimed, not to exceed:
+(1) ten thousand dollars ($10,000) for a
+qualified employee working an average of twenty hours or more
+.233921.5AIC February 19, 2026 (9:18am)
+-41-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+per week in the taxable year; and
+(2) five thousand dollars ($5,000) for a
+qualified employee working an average of less than twenty hours
+per week in the taxable year.
+C. A taxpayer shall apply for certification of
+eligibility for the tax credit from the department on forms and
+in the manner prescribed by the department no later than one
+year following the end of the calendar year in which the wages
+were paid. A taxpayer shall not be eligible to receive a tax
+credit for more than one hundred qualified employees whom the
+taxpayer employs as a local news printer and only one tax
+credit shall be certified for each qualified employee employed
+by a local news printer per taxable year. The total annual
+aggregate amount of local news printer corporate income tax
+credits and local news printer income tax credits that may be
+certified in a calendar year shall not exceed one million
+dollars ($1,000,000). Completed applications shall be
+considered in the order received.
+D. If the department determines that the taxpayer
+meets the requirements of this section, the department shall
+issue a dated certificate of eligibility to the taxpayer
+providing the amount of tax credit for which the taxpayer is
+eligible and the taxable years in which the credit may be
+claimed.
+E. That portion of tax credit that exceeds a
+.233921.5AIC February 19, 2026 (9:18am)
+-42-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+taxpayer's income tax liability in the taxable year in which
+the credit is claimed shall be refunded to the taxpayer.
+F. A taxpayer allowed to claim a tax credit
+pursuant to this section shall claim the tax credit in a manner
+required by the department.
+G. The credit provided by this section shall be
+included in the tax expenditure budget pursuant to Section
+7-1-84 NMSA 1978, including the total annual aggregate cost of
+the credit.
+H. As used in this section:
+(1) "local news organization" means an entity
+that:
+(a) provides a print or digital
+publication that engages professionals who regularly gather,
+prepare, collect, photograph, record, direct the recording of,
+produce, write, edit, report or publish news or information
+that concerns state or local events or other matters of public
+interest for dissemination to the state or a local community
+through reporting activities, including conducting interviews,
+observing current events or analyzing documents;
+(b) pays at least one individual, either
+through employment or by contract with the entity, as a
+qualified employee;
+(c) in the case of print publications,
+has published at least one print publication per month over the
+.233921.5AIC February 19, 2026 (9:18am)
+-43-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+previous thirty-six months and holds a valid United States
+postal service periodical permit or has at least thirty percent
+of the entity's content dedicated to state or local news;
+(d) in the case of digital-only
+entities, has published at least five originally produced
+stories about the state or a local community per week over the
+previous thirty-six months and has at least fifty percent of
+the entity's digital audience in New Mexico, averaged over a
+twelve-month period;
+(e) discloses in the entity's print
+publication or on the entity's website the entity's beneficial
+ownership or, in the case of a not-for-profit entity, the
+entity's board of directors;
+(f) in the case of an organization that
+demonstrates to the department that the organization has been
+granted exemption from the federal income tax by the United
+States commissioner of internal revenue as organizations
+described in Section 501(c)(3) of the Internal Revenue Code,
+has declared the coverage of state or local news as the stated
+mission in the organization's filings with the federal internal
+revenue service;
+(g) has not received more than ten
+percent of the entity's gross receipts for the previous year
+from political action committees or other entities described in
+Section 527 of the Internal Revenue Code, or from an
+.233921.5AIC February 19, 2026 (9:18am)
+-44-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+organization that has been granted exemption from the federal
+income tax by the United States commissioner of internal
+revenue as an organization described in Section 501(c)(4) or
+501(c)(6) of the Internal Revenue Code; and
+(h) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary;
+(2) "local news printer" means an entity that:
+(a) provides manufacturing, production
+and printing services using a web press designed and optimized
+for printing newspapers for a local news organization;
+(b) has been engaging in the business of
+manufacturing, producing and printing newspapers for at least
+five years;
+(c) employs at least five qualified
+employees; and
+(d) is not a publicly traded entity or
+is no more than forty-nine percent owned, directly or
+indirectly, by a publicly traded entity or subsidiary;
+(3) "qualified employee" means a person who:
+(a) is paid by a local news printer to
+regularly perform duties related to pre-press, press and post-
+press newspaper production to prepare newspapers for transition
+to delivery and distribution personnel;
+(b) works at a physical location in New
+.233921.5AIC February 19, 2026 (9:18am)
+-45-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+Mexico; and
+(c) works as a qualified employee for
+the local news printer for at least twenty-five percent of the
+taxable year in which the credit is claimed; and
+(4) "wages" means compensation paid by a local
+news printer to a qualified employee through the organization's
+payroll system, including those wages that the qualified
+employee elects to defer or redirect or the qualified
+employee's contribution to a 401(k) or cafeteria plan program.
+"Wages" does not mean benefits or the organization's share of
+payroll taxes, social security or medicare contributions,
+federal or state unemployment insurance contributions or
+workers' compensation."
+HTRC SECTION 9. Section 7-9G-1 NMSA 1978 (being Laws
+2004, Chapter 15, Section 1, as amended by Laws 2025, Chapter
+107, Section 1 and by Laws 2025, Chapter 130, Section 93) is
+amended to read:
+"7-9G-1. HIGH-WAGE JOBS TAX CREDIT--QUALIFYING HIGH-WAGE
+JOBS.--
+A. A taxpayer that is an eligible employer may
+apply for, and the department may allow, a tax credit for each
+new high-wage job. The credit provided in this section may be
+referred to as the "high-wage jobs tax credit".
+B. The purpose of the high-wage jobs tax credit is
+to provide an incentive for businesses to create and fill new
+.233921.5AIC February 19, 2026 (9:18am)
+-46-
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+high-wage jobs in New Mexico.
+C. The high-wage jobs tax credit may be claimed and
+allowed in an amount equal to eight and one-half percent of the
+wages distributed to an eligible employee in a new high-wage
+job but shall not exceed twelve thousand seven hundred fifty
+dollars ($12,750) per job per qualifying period. The high-wage
+jobs tax credit may be claimed by an eligible employer for each
+new high-wage job performed for the year in which the new high-
+wage job is created and for consecutive qualifying periods.
+D. To receive a high-wage jobs tax credit, a
+taxpayer shall file a completed application for approval of the
+credit with the department once per calendar year on forms and
+in the manner prescribed by the department. The annual
+application shall contain the certification required by
+Subsection K of this section and shall contain all qualifying
+periods that closed during the calendar year for which the
+application is made. Any qualifying period that did not close
+in the calendar year for which the application is made shall be
+denied by the department. The application for a calendar year
+shall be filed no later than December 31 of the following
+calendar year. If a taxpayer fails to file the annual
+application within the time limits provided in this section,
+the application shall be denied by the department.
+E. A new high-wage job shall not be eligible for a
+credit pursuant to this section for the initial qualifying
+.233921.5AIC February 19, 2026 (9:18am)
+- 47 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+period unless the eligible employer's total number of employees
+with threshold jobs on the last day of the initial qualifying
+period at the location at which the job is performed or based
+is at least one more than the number of threshold jobs on the
+day prior to the date the new high-wage job was created. A new
+high-wage job shall not be eligible for a credit pursuant to
+this section for a consecutive qualifying period unless the
+total number of threshold jobs at a location at which the job
+is performed or based on the last day of that qualifying period
+is greater than or equal to the number of threshold jobs at
+that same location on the last day of the initial qualifying
+period for the new high-wage job.
+F. If a consecutive qualifying period for a new
+high-wage job does not meet the wage, occupancy and residency
+requirements, then the qualifying period is ineligible.
+G. Except as provided in Subsection H of this
+section, a new high-wage job shall not be eligible for a credit
+pursuant to this section if:
+(1) the new high-wage job is created due to a
+business merger or acquisition or other change in business
+organization;
+(2) the eligible employee was terminated from
+employment in New Mexico by another employer involved in the
+business merger or acquisition or other change in business
+organization with the taxpayer; and
+.233921.5AIC February 19, 2026 (9:18am)
+- 48 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(3) the new high-wage job is performed by:
+(a) the person who performed the job or
+its functional equivalent prior to the business merger or
+acquisition or other change in business organization; or
+(b) a person replacing the person who
+performed the job or its functional equivalent prior to a
+business merger or acquisition or other change in business
+organization.
+H. A new high-wage job that was created by another
+employer and for which an application for the high-wage jobs
+tax credit was received and is under review by the department
+prior to the time of the business merger or acquisition or
+other change in business organization shall remain eligible for
+the high-wage jobs tax credit for the balance of the
+consecutive qualifying periods. The new employer that results
+from a business merger or acquisition or other change in
+business organization may only claim the high-wage jobs tax
+credit for the balance of the consecutive qualifying periods
+for which the new high-wage job is otherwise eligible.
+I. A new high-wage job shall not be eligible for a
+credit pursuant to this section if the job is created due to an
+eligible employer entering into a contract or becoming a
+subcontractor to a contract with a governmental entity that
+replaces one or more entities performing functionally
+equivalent services for the governmental entity unless the job
+.233921.5AIC February 19, 2026 (9:18am)
+- 49 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+is a new high-wage job that was not being performed by an
+employee of the replaced entity.
+J. A new high-wage job shall not be eligible for a
+credit pursuant to this section if the eligible employer has
+more than one business location in New Mexico from which it
+conducts business and the requirements of Subsection E of this
+section are satisfied solely by moving the job from one
+business location of the eligible employer in New Mexico to
+another business location of the eligible employer in New
+Mexico.
+K. With respect to each annual application for a
+high-wage jobs tax credit, the employer shall certify and
+include:
+(1) the amount of wages paid to each eligible
+employee in a new high-wage job during the qualifying period;
+(2) the number of weeks each position was
+occupied during the qualifying period;
+(3) whether the new high-wage job was in a
+municipality with a population of sixty thousand or more or
+with a population of less than sixty thousand according to the
+most recent federal decennial census and whether the job was in
+the unincorporated area of a county;
+(4) which qualifying period the application
+pertains to for each eligible employee;
+(5) the total number of employees employed by
+.233921.5AIC February 19, 2026 (9:18am)
+- 50 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+the employer at the job location on the day prior to the
+qualifying period and on the last day of the qualifying period;
+(6) the total number of threshold jobs
+performed or based at the eligible employer's location on the
+day prior to the qualifying period and on the last day of the
+qualifying period;
+(7) for an eligible employer that has more
+than one business location in New Mexico from which it conducts
+business, the total number of threshold jobs performed or based
+at each business location of the eligible employer in New
+Mexico on the day prior to the qualifying period and on the
+last day of the qualifying period;
+(8) whether the eligible employer is receiving
+or is eligible to receive development training program
+assistance pursuant to Section 21-19-7 NMSA 1978;
+(9) whether the eligible employer has ceased
+business operations at any of its business locations in New
+Mexico; and
+(10) whether the application is precluded by
+Subsection O of this section.
+L. Any person who willfully submits a false,
+incorrect or fraudulent certification required pursuant to
+Subsection K of this section shall be subject to all applicable
+penalties under the Tax Administration Act, except that the
+amount on which the penalty is based shall be the total amount
+.233921.5AIC February 19, 2026 (9:18am)
+- 51 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+of credit requested on the application for approval.
+M. Except as provided in Subsection N of this
+section, an approved high-wage jobs tax credit shall be claimed
+against the taxpayer's modified combined tax liability and
+shall be filed with the return due immediately following the
+date of the credit approval. If the credit exceeds the
+taxpayer's modified combined tax liability, the excess shall be
+refunded to the taxpayer.
+N. If the taxpayer ceases business operations in
+New Mexico while an application for credit approval is pending
+or after an application for credit has been approved for any
+qualifying period for a new high-wage job, the department shall
+not grant an additional high-wage jobs tax credit to that
+taxpayer except as provided in Subsection O of this section and
+shall extinguish any amount of credit approved for that
+taxpayer that has not already been claimed against the
+taxpayer's modified combined tax liability.
+O. A taxpayer that has received a high-wage jobs
+tax credit shall not submit a new application for the credit
+for a minimum of two calendar years from the closing date of
+the last qualifying period for which the taxpayer received the
+credit if the taxpayer lost eligibility to claim the credit
+from a previous application pursuant to Subsection N of this
+section.
+P. The economic development department and the
+.233921.5AIC February 19, 2026 (9:18am)
+- 52 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+taxation and revenue department shall report to the appropriate
+interim legislative committee each year the cost of the high-
+wage jobs tax credit to the state and its impact on company
+recruitment and job creation.
+Q. As used in this section:
+(1) "benefits" means all remuneration for work
+performed that is provided to an employee in whole or in part
+by the employer, other than wages, including the employer's
+contributions to insurance programs, health care, medical,
+dental and vision plans, life insurance, employer contributions
+to pensions, such as a 401(k), and employer-provided services,
+such as child care, offered by an employer to the employee;
+(2) "consecutive qualifying period" means each
+of the three qualifying periods successively following the
+qualifying period in which the new high-wage job was created;
+(3) "department" means the taxation and
+revenue department;
+(4) "dependent" means "dependent" as defined
+in 26 U.S.C. 152(a), as that section may be amended or
+renumbered;
+(5) "domicile" means the sole place where an
+individual has a true, fixed, permanent home. It is the place
+where the individual has a voluntary, fixed habitation of self
+and family with the intention of making a permanent home;
+.233921.5AIC February 19, 2026 (9:18am)
+- 53 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(6) "eligible employee" means an individual
+who is employed in New Mexico by an eligible employer and who
+is a resident of New Mexico; "eligible employee" does not
+include an individual who:
+(a) is a dependent of the employer;
+(b) if the employer is an estate or
+trust, is a grantor, beneficiary or fiduciary of the estate or
+trust or is a dependent of a grantor, beneficiary or fiduciary
+of the estate or trust;
+(c) if the employer is a corporation, is
+a dependent of an individual who owns, directly or indirectly,
+more than fifty percent in value of the outstanding stock of
+the corporation; or
+(d) if the employer is an entity other
+than a corporation, estate or trust, is a dependent of an
+individual who owns, directly or indirectly, more than fifty
+percent of the capital and profits interests in the entity;
+(7) "eligible employer" means an employer
+that, during the applicable qualifying period, would be
+eligible for development training program assistance under the
+fiscal year 2019 policies defining development training program
+eligibility developed by the industrial training board in
+accordance with Section 21-19-7 NMSA 1978;
+(8) "modified combined tax liability" means
+the total liability for the reporting period for the gross
+.233921.5AIC February 19, 2026 (9:18am)
+- 54 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+receipts tax imposed by Section 7-9-4 NMSA 1978 together with
+any tax collected at the same time and in the same manner as
+the gross receipts tax, such as the compensating tax, the
+withholding tax, the interstate telecommunications gross
+receipts tax, the surcharges imposed by Section 63-9D-5 NMSA
+1978 and the surcharge imposed by Section 63-9F-11 NMSA 1978,
+minus the amount of any credit other than the high-wage jobs
+tax credit applied against any or all of these taxes or
+surcharges; but "modified combined tax liability" excludes all
+amounts collected with respect to local option gross receipts
+taxes;
+(9) "new high-wage job" means a new job
+created in New Mexico by an eligible employer on or after July
+1, 2004 and prior to July 1, [2026] 2036 that is occupied for
+at least forty-four weeks of a qualifying period by an eligible
+employee who is paid wages calculated for the qualifying period
+to be at least:
+(a) sixty thousand dollars ($60,000) if
+the job is performed or based in or within ten miles of the
+external boundaries of a municipality with a population of
+sixty thousand or more according to the most recent federal
+decennial census or in a class H county; and
+(b) forty thousand dollars ($40,000) if
+the job is performed or based in a municipality with a
+population of less than sixty thousand according to the most
+.233921.5AIC February 19, 2026 (9:18am)
+- 55 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+recent federal decennial census or in the unincorporated area,
+that is not within ten miles of the external boundaries of a
+municipality with a population of sixty thousand or more, of a
+county other than a class H county;
+(10) "new job" means a job that is occupied by
+an employee who has not been employed in New Mexico by the
+eligible employer in the three years prior to the date of hire;
+(11) "qualifying period" means the period of
+twelve months beginning on the day an eligible employee begins
+working in a new high-wage job or the period of twelve months
+beginning on the anniversary of the day an eligible employee
+began working in a new high-wage job;
+(12) "resident" means a natural person whose
+domicile is in New Mexico at the time of hire or within one
+hundred eighty days of the date of hire;
+(13) "threshold job" means a job that:
+(a) is occupied for at least forty-four
+weeks of the first fifty-two weeks of employment by an eligible
+employee; provided that the fifty-two-week period begins on the
+day the eligible employee occupies the job; and
+(b) meets the wage requirements for a
+"new high-wage job"; and
+(14) "wages" means all compensation paid by an
+eligible employer to an eligible employee through the
+employer's payroll system, including those wages that the
+.233921.5AIC February 19, 2026 (9:18am)
+- 56 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+employee elects to defer or redirect or the employee's
+contribution to a 401(k) or cafeteria plan program, but "wages"
+does not include benefits or the employer's share of payroll
+taxes, social security or medicare contributions, federal or
+state unemployment insurance contributions or workers'
+compensation."
+SECTION 10. APPROPRIATIONS.--
+A. Twenty-six million six thousand dollars
+($26,006,000) is appropriated from the general fund to the
+department of finance and administration for expenditure in
+fiscal year 2027 to pay all costs attributable to the general
+fund of providing a salary increase of one percent to employees
+in budgeted positions who have completed their probationary
+period subject to satisfactory job performance. Any unexpended
+balance remaining at the end of fiscal year 2027 shall revert
+to the general fund. The salary increases shall be effective
+the first full pay period after July 1, 2026, and distributed
+as follows:
+(1) three hundred twenty-four thousand nine
+hundred dollars ($324,900) for permanent legislative employees,
+including permanent employees of the legislative council
+service, legislative finance committee, legislative education
+study committee, legislative building services, house and
+senate, house and senate chief clerks' office and house and
+senate leadership;
+.233921.5AIC February 19, 2026 (9:18am)
+- 57 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+(2) three million four hundred seventy-seven
+thousand three hundred dollars ($3,477,300) for judicial
+permanent employees, including magistrate judges, elected
+district attorneys, district attorney permanent employees,
+public defender department permanent employees, judicial
+hearing officers and judicial special commissioners, supreme
+court justices, court of appeals judges, district court judges
+and metropolitan court judges;
+(3) nine million five hundred ninety-six
+thousand seven hundred dollars ($9,596,700) for incumbents in
+positions in the classified service governed by the Personnel
+Act, for incumbents in the New Mexico state police career pay
+system and for executive exempt employees;
+(4) twelve million twenty-three thousand eight
+hundred dollars ($12,023,800) to the higher education
+department for nonstudent faculty and staff of two-year and
+four-year public post-secondary educational institutions; and
+(5) five hundred eighty-three thousand three
+hundred dollars ($583,300) to the higher education department
+for nonstudent faculty and staff of the New Mexico military
+institute, New Mexico school for the blind and visually
+impaired and New Mexico school for the deaf.
+B. Thirty-six million forty-three thousand seven
+hundred dollars ($36,043,700) is appropriated from the general
+fund to the state equalization guarantee distribution of the
+.233921.5AIC February 19, 2026 (9:18am)
+- 58 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+public school fund for expenditure in fiscal year 2027 to
+recruit and retain public school personnel, comparable to an
+average one percent salary increase. Any unexpended balance
+remaining at the end of fiscal year 2027 shall revert to the
+general fund.
+C. Six hundred sixty-two thousand dollars
+($662,000) is appropriated from the general fund to the
+transportation distribution of the public school fund for
+expenditure in fiscal year 2027 to recruit and retain public
+school transportation personnel, comparable to an average one
+percent salary increase. Any unexpended balance remaining at
+the end of fiscal year 2027 shall revert to the general fund.
+D. For those state employees whose salaries are
+referenced in or received as a result of nongeneral fund
+appropriations in the General Appropriation Act of 2026, the
+department of finance and administration shall transfer from
+the appropriate fund to the appropriate agency the amount
+required for the salary increases equivalent to those provided
+for in this section. Such amounts are appropriated for
+expenditure in fiscal year 2027. Any unexpended balances
+remaining at the end of fiscal year 2027 shall revert to the
+appropriate fund. HTRC
+HTRC SECTION 10. APPLICABILITY.--
+A. The provisions of Sections 1 and 2 of this act
+apply to taxable years beginning on or after January 1, 2027.
+.233921.5AIC February 19, 2026 (9:18am)
+- 59 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SFC/STBTC/SB 151
+B. The provisions of Sections 3, 4, 6, 8 and 9 of
+this act apply to taxable years beginning on or after January
+1, 2026.
+SECTION 11. EFFECTIVE DATE.--The effective date of the
+provisions of Sections 5 and 7 of this act is July 1,
+2026. HTRC
+HTRC SECTION 11. APPLICABILITY.--The provisions of
+Sections 1 through 4 and 6 through 8 of this act apply to
+taxable years beginning on or after January 1, 2027.
+SECTION 12. EFFECTIVE DATE.--The effective date of the
+provisions of Section 5 of this act is July 1, 2027. HTRC
+- 60 -
+.233921.5AIC February 19, 2026 (9:18am)
+
+[DELETED: [Abmreancdkmeted m7-SEOFNWMO-,2       NCF]
+[DELETED: [Abmreancdkmeted mCP;HC;SHCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mC21HC22HCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCadHCF]
+[DELETED: [Abmreancdkmeted mC21HCHC22H CF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCadHCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted m C29HC20H1adS1.S1S1;dS1(.SCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted m CAHCHCFaHCF]
+[DELETED: [Abmreancdkmeted mCSCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCS1(;S1HCS1()S1()S1HC()HCS1()S1()S1HCF]
+[DELETED: [Abmreancdkmeted mC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HCF]
+[DELETED: [Abmreancdkmeted mC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1()S1()S1HC()HCS1adS1HCadHCS1()S1()S1HC()HCS1adS1HCS1(CF]
+[DELETED: [Abmreancdkmeted m;S1H"HC8HC7HC21HCHC22H CF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mC9HC8HC21HCHC22H CF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCSCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted mCF]
+[DELETED: [Abmreancdkmeted m.HCSCF]
+[DELETED: [Abmreancdkmeted m.HCS.HCF]
