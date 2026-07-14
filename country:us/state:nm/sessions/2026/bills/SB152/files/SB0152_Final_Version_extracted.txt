@@ -1,0 +1,1712 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+2 RELATING TO TELECOMMUNICATIONS; AMENDING THE RURAL
+3 TELECOMMUNICATIONS ACT OF NEW MEXICO TO ESTABLISH A
+4 LOW-INCOME TELECOMMUNICATIONS ASSISTANCE PROGRAM AND
+5 RESTRUCTURE THE EXISTING BROADBAND PROGRAM; MAKING CONFORMING
+6 AND CLEAN-UP AMENDMENTS; REQUIRING REPORTS; ESTABLISHING
+7 STATE RURAL UNIVERSAL SERVICE FUND BUDGET CAPS; REPEALING THE
+8 LOW INCOME TELEPHONE SERVICE ASSISTANCE ACT; AMENDING,
+9 REPEALING AND ENACTING SECTIONS OF THE NMSA 1978.
+10
+11 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+12 SECTION 1. Section 63-9A-5 NMSA 1978 (being Laws 1985,
+13 Chapter 242, Section 5, as amended) is amended to read:
+14 “63-9A-5. REGULATION BY COMMISSION.--
+15 A. Except as otherwise provided in the New Mexico
+16 Telecommunications Act, each public telecommunications
+17 service is declared to be affected with the public interest
+18 and, as such, subject to the provisions of that act,
+19 including the regulation thereof as provided in that act.
+20 B. Except in cases regarding the fixing of rates
+21 pursuant to Section 63-7-1.1 NMSA 1978, the commission has
+22 exclusive jurisdiction to regulate incumbent local exchange
+23 carriers that serve fifty thousand or more access lines
+24 within the state to the extent authorized by the New Mexico
+25 Telecommunications Act; provided that: SFC/SB 152
+Page 1
+1 (1) the commission's jurisdiction includes
+2 the regulation of wholesale rates, including access charges
+3 and interconnection agreements consistent with federal law
+4 and its enforcement and determinations of participation in
+5 low-income telephone service assistance programs pursuant to
+6 the Rural Telecommunications Act of New Mexico; and
+7 (2) incumbent local exchange carriers
+8 regulated pursuant to this section shall be regulated in the
+9 same manner as incumbent rural telecommunications carriers
+10 are regulated pursuant to the Rural Telecommunications Act of
+11 New Mexico.
+12 C. Any rules adopted by the commission for the
+13 regulation of incumbent local exchange carriers pursuant to
+14 the New Mexico Telecommunications Act shall preserve and not
+15 alter:
+16 (1) the rights and obligations of any
+17 entity, including the commission, established pursuant to
+18 federal law, including 47 U.S.C. Sections 251 and 252, or
+19 established pursuant to any state law, rule, procedure,
+20 regulation or order related to interconnection, intercarrier
+21 compensation, intercarrier complaints, wholesale rights and
+22 obligations or any wholesale rate or schedule that is filed
+23 with and maintained by the commission;
+24 (2) the rights and obligations of any
+25 competitive telecommunications service provider holding a SFC/SB 152
+Page 2
+1 certificate of public convenience and necessity, or the
+2 rights and obligations of any competitive carrier to obtain
+3 such a certificate;
+4 (3) the authority of the commission to
+5 resolve consumer complaints regarding basic local exchange
+6 service; provided, however, that the commission's authority
+7 to resolve such complaints shall be limited to resolving
+8 issues of consumer protection and shall not include the
+9 authority to determine or fix rates, provider of last resort
+10 obligations or service quality standards except as expressly
+11 set forth in the New Mexico Telecommunications Act;
+12 (4) the authority of the commission to
+13 establish reasonable quality of service standards; provided,
+14 however, that the enforcement of such standards shall be
+15 limited to the commission's fining authority set forth in
+16 Section 63-7-23 NMSA 1978 and the authority to seek an
+17 injunction set forth in Section 63-9-19 NMSA 1978;
+18 (5) the rights and obligations of any
+19 entity, including the commission, regarding the fund;
+20 (6) the rights and obligations of any
+21 entity, including the commission, regarding access to
+22 emergency service to the extent consistent with the Enhanced
+23 911 Act; or
+24 (7) the rights and obligations of any
+25 entity, including the commission, regarding the SFC/SB 152
+Page 3
+1 administration of slamming and cramming rules,
+2 telecommunications relay service and numbering resources to
+3 the extent permitted by and consistent with federal law.
+4 D. The provisions of the New Mexico
+5 Telecommunications Act do not apply to incumbent rural
+6 telecommunications carriers."
+7 SECTION 2. Section 63-9D-5 NMSA 1978 (being Laws 1989,
+8 Chapter 25, Section 5, as amended) is amended to read:
+9 "63-9D-5. IMPOSITION OF SURCHARGE.--
+10 A. A 911 emergency surcharge is imposed in the
+11 amount of one dollar ($1.00) to be billed to each subscriber
+12 access line by a communications service provider, on each
+13 active number for a commercial mobile radio service
+14 subscriber and on the number of VoIP lines for which the VoIP
+15 service provider enables the capacity for simultaneous calls,
+16 regardless of actual usage, to be connected to the public
+17 switched telephone network during the period for which the
+18 fixed charge is imposed. The surcharge is imposed on all
+19 subscribers whose place of primary use, as defined in the
+20 federal Mobile Telecommunications Sourcing Act, is in
+21 New Mexico; provided, however, that the surcharge shall not
+22 be imposed upon subscribers receiving reduced rates as a
+23 result of the low-income telecommunications assistance
+24 program pursuant to the Rural Telecommunications Act of
+25 New Mexico; and provided further that the surcharge shall not SFC/SB 152
+Page 4
+1 apply to prepaid wireless communication service; and provided
+2 further that a 911 emergency surcharge shall not be assessed
+3 on the provision of broadband internet access service.
+4 B. A communications service provider shall bill
+5 and collect the surcharge from subscribers whose places of
+6 primary use, as defined in the federal Mobile
+7 Telecommunications Sourcing Act, are in New Mexico. The
+8 surcharge required to be collected by the communications
+9 service provider shall be added to and stated clearly and
+10 separately in the billings to the subscriber. The surcharge
+11 collected by the communications service provider shall not be
+12 considered revenue of the communications service provider.
+13 C. A billed subscriber is liable for payment of
+14 the 911 emergency surcharge until it has been paid to the
+15 communications service provider.
+16 D. A communications service provider has no
+17 obligation to take legal action to enforce the collection of
+18 the surcharge; an action may be brought by or on behalf of
+19 the department. A communications service provider, upon
+20 request and not more than once a year, shall provide to the
+21 department a list of the surcharge amounts uncollected, along
+22 with the names and addresses of subscribers who carry a
+23 balance that can be determined by the communications service
+24 provider to be nonpayment of the surcharge. The
+25 communications service provider shall not be held liable for SFC/SB 152
+Page 5
+1 uncollected surcharge amounts."
+2 SECTION 3. Section 63-9F-11 NMSA 1978 (being Laws 1993,
+3 Chapter 54, Section 11, as amended) is amended to read:
+4 "63-9F-11. IMPOSITION OF SURCHARGE.--
+5 A. A telecommunications relay service surcharge of
+6 one and sixty-six hundredths percent is imposed on the gross
+7 amount paid:
+8 (1) by customers, except customers whose
+9 telephone service rates are reduced as a result of the
+10 low-income telecommunications assistance program pursuant to
+11 the Rural Telecommunications Act of New Mexico, for
+12 intrastate telecommunications services provided in this
+13 state;
+14 (2) by customers for the intrastate portion
+15 of interconnected voice over internet protocol service;
+16 (3) by customers for intrastate mobile
+17 telecommunications services that originate and terminate in
+18 the same state, regardless of where the mobile
+19 telecommunications services originate, terminate or pass
+20 through, provided by home service providers to customers
+21 whose place of primary use is in New Mexico; and
+22 (4) by a prepaid consumer in a retail
+23 transaction.
+24 B. The telecommunications relay service surcharge
+25 shall be included on the monthly bill of each customer of a SFC/SB 152
+Page 6
+1 local exchange company or other telecommunications company
+2 providing intrastate telecommunications services,
+3 interconnected voice over internet protocol services or
+4 intrastate mobile telecommunications services and paid at the
+5 time of payment of the monthly bill. Receipts from selling
+6 those services to any other telecommunications company or
+7 provider for resale are not subject to the surcharge. The
+8 customer is liable for the payment of the surcharge to the
+9 provider of intrastate mobile telecommunications services,
+10 the provider of interconnected voice over internet protocol
+11 services or the local exchange company or other
+12 telecommunications company providing intrastate
+13 telecommunications services to the customer.
+14 C. For the purposes of the surcharge imposed on a
+15 retail transaction pursuant to Paragraph (4) of Subsection A
+16 of this section:
+17 (1) the surcharge shall be collected by the
+18 seller from the prepaid consumer with respect to each retail
+19 transaction occurring in this state. The amount of the
+20 surcharge shall be either separately stated on an invoice,
+21 receipt or other similar document that is provided to the
+22 prepaid consumer by the seller or otherwise disclosed to the
+23 prepaid consumer;
+24 (2) for the purposes of Paragraph (1) of
+25 this subsection, a retail transaction that is effected in SFC/SB 152
+Page 7
+1 person by a prepaid consumer at a business location of the
+2 seller shall be treated as occurring in this state if that
+3 business location is in this state, and any other retail
+4 transaction is treated as occurring in this state if the
+5 retail transaction is treated as occurring in this state for
+6 purposes of the Gross Receipts and Compensating Tax Act;
+7 (3) the surcharge is the liability of the
+8 prepaid consumer and not of the seller or any provider;
+9 provided that the seller shall be liable to remit all
+10 surcharges collected from the prepaid consumer as provided in
+11 this subsection, including all such surcharges that the
+12 seller is deemed to collect where the amount of the surcharge
+13 has not been separately stated on an invoice, receipt or
+14 other similar document provided to the prepaid consumer by
+15 the seller;
+16 (4) the amount of the surcharge that is
+17 collected by a seller from a prepaid consumer, if such amount
+18 is separately stated on an invoice, receipt or other similar
+19 document provided to the prepaid consumer by the seller,
+20 shall not be included in the base for measuring any tax, fee,
+21 surcharge or other charge that is imposed by this state, any
+22 political subdivision of this state or any intergovernmental
+23 agency;
+24 (5) when prepaid wireless communications
+25 service is sold with one or more other products or services SFC/SB 152
+Page 8
+1 for a single, non-itemized price, the percentage specified in
+2 Subsection A of this section shall apply to the entire
+3 non-itemized price unless the seller elects to apply such
+4 percentage to:
+5 (a) if the amount of the prepaid
+6 wireless communications service is disclosed to the prepaid
+7 consumer as a dollar amount, such dollar amount; or
+8 (b) if the seller can identify the
+9 portion of the price that is attributable to the prepaid
+10 wireless communications service by reasonable and verifiable
+11 standards from its books and records that are kept in the
+12 regular course of business for other purposes, including
+13 non-tax purposes, such portion;
+14 (6) if a minimal amount of prepaid wireless
+15 communications service is sold with a prepaid wireless device
+16 for a single, non-itemized price, the seller may elect not to
+17 apply the percentage specified in Subsection A of this
+18 section to such transaction. For the purposes of this
+19 paragraph, an amount of service denominated as ten minutes or
+20 less, or five dollars ($5.00) or less, is minimal;
+21 (7) surcharges collected by sellers shall be
+22 remitted to the taxation and revenue department at the times
+23 and in the manner provided with respect to the Gross Receipts
+24 and Compensating Tax Act. The department shall establish
+25 registration and payment procedures that substantially SFC/SB 152
+Page 9
+1 coincide with the registration and payment procedures that
+2 apply to the Gross Receipts and Compensating Tax Act. A
+3 seller shall be permitted to deduct and retain three percent
+4 of surcharges that are collected by the seller from the
+5 prepaid consumer;
+6 (8) the audit and appeal procedures
+7 applicable to the Gross Receipts and Compensating Tax Act
+8 shall apply to the surcharge;
+9 (9) the taxation and revenue department
+10 shall establish procedures by which a seller of prepaid
+11 wireless communications services may document that a sale is
+12 not a retail transaction, which procedures shall
+13 substantially coincide with the procedures for documenting
+14 sale for resale transactions for the Gross Receipts and
+15 Compensating Tax Act; and
+16 (10) notwithstanding Paragraph (1) of this
+17 subsection, if a 911 surcharge is imposed on prepaid wireless
+18 communications service pursuant to the Enhanced 911 Act, the
+19 taxation and revenue department shall promulgate rules to
+20 permit sellers to combine the surcharge imposed pursuant to
+21 this section and the surcharge imposed pursuant to the
+22 Enhanced 911 Act into a single surcharge on the invoice,
+23 receipt or other similar document that is provided to the
+24 prepaid consumer. The department shall ensure that
+25 appropriate surcharge revenues are directed proportionately SFC/SB 152
+Page 10
+1 to the respective 911 and telecommunications relay service
+2 funds.
+3 D. A telecommunications company providing
+4 intrastate telecommunications services, a home service
+5 provider providing intrastate mobile telecommunications
+6 services and a seller of interconnected voice over internet
+7 protocol services shall, on sales subject to the
+8 telecommunications relay service surcharge, assess and
+9 collect the surcharge and remit the surcharge collected
+10 monthly to the taxation and revenue department on or before
+11 the twenty-fifth day of the month following collection. The
+12 department shall administer and enforce the collection of the
+13 surcharge in accordance with the Tax Administration Act.
+14 E. The taxation and revenue department shall
+15 transfer the following amounts of the net receipts of the
+16 telecommunications relay service surcharge collected, less
+17 any amount deducted in accordance with Subsection F of this
+18 section, within the month following the month in which the
+19 surcharge is collected:
+20 (1) twenty percent to the telecommunications
+21 access fund; and
+22 (2) eighty percent to the 988 lifeline fund.
+23 F. The taxation and revenue department may deduct
+24 an amount not to exceed three percent of the
+25 telecommunications relay service surcharge collected as a SFC/SB 152
+Page 11
+1 charge for the administrative costs of collection and shall
+2 remit that amount to the state treasurer for deposit in the
+3 general fund each month.
+4 G. The commission and the health care authority
+5 shall report to the revenue stabilization and tax policy
+6 committee annually by September 30 the following information
+7 with respect to the prior fiscal year:
+8 (1) the amount and source of revenue
+9 received by the telecommunications access fund and the 988
+10 lifeline fund;
+11 (2) the amount and category of expenditures
+12 from the funds; and
+13 (3) the balance of the funds on that
+14 June 30."
+15 SECTION 4. Section 63-9H-3 NMSA 1978 (being Laws 1999,
+16 Chapter 295, Section 3, as amended by Laws 2021, Chapter 118,
+17 Section 1 and by Laws 2021, Chapter 120, Section 8) is
+18 amended to read:
+19 "63-9H-3. DEFINITIONS.--As used in the Rural
+20 Telecommunications Act of New Mexico:
+21 A. "affordable rates" means rates for basic
+22 service that promote universal service, giving consideration
+23 to the economic conditions of households in the service area
+24 and costs to provide service in the area in which service is
+25 provided; SFC/SB 152
+Page 12
+1 B. "basic service" means service that is provided
+2 that is consistent with the federal act:
+3 (1) to a rural end-user customer; or
+4 (2) to a rural or non-rural end-user
+5 customer pursuant to the low-income telecommunications
+6 assistance program;
+7 C. "broadband infrastructure" means facilities and
+8 equipment used to provide internet service, excluding
+9 telecommunications equipment owned, controlled or operated by
+10 a public or private end user;
+11 D. "cable service" means the transmission to
+12 subscribers of video programming or other programming service
+13 and subscriber interaction, if any, that is required for the
+14 selection or use of the video programming or other
+15 programming service;
+16 E. "commission" means the public regulation
+17 commission;
+18 F. "comparable carrier" means an eligible
+19 telecommunications carrier established prior to enactment of
+20 the Rural Telecommunications Act of New Mexico that has a
+21 similar number of access lines as an eligible
+22 telecommunications carrier established after enactment of
+23 that act;
+24 G. "digital equity" means information technology
+25 needed for civic and cultural participation, employment, SFC/SB 152
+Page 13
+1 education, business and economic development, lifelong
+2 learning and access to essential services generally available
+3 to residents regardless of their racial grouping,
+4 socioeconomic status or cultural identity;
+5 H. "digital inclusion" means access to and the
+6 ability to use information technologies;
+7 I. "eligible telecommunications carrier" means an
+8 eligible telecommunications carrier as defined in the federal
+9 act;
+10 J. "federal act" means the federal
+11 Telecommunications Act of 1996;
+12 K. "fund" means the state rural universal service
+13 fund;
+14 L. "incumbent local exchange carrier" means a
+15 person that:
+16 (1) was designated as an eligible
+17 telecommunications carrier by the state corporation
+18 commission in Docket #97-93-TC by order dated October 23,
+19 1997, or that provided local exchange service in this state
+20 on February 8, 1996; or
+21 (2) became a successor or assignee of an
+22 incumbent local exchange carrier;
+23 M. "incumbent rural telecommunications carrier"
+24 means an incumbent local exchange carrier that serves fewer
+25 than fifty thousand access lines within the state and has SFC/SB 152
+Page 14
+1 been designated as an eligible telecommunications carrier by
+2 the state corporation commission or the public regulation
+3 commission;
+4 N. "local exchange area" means a geographic area
+5 encompassing one or more local communities, as described in
+6 maps, tariffs or rate schedules filed with the commission,
+7 where local exchange rates apply;
+8 O. "local exchange service" means the transmission
+9 of two-way interactive switched voice communications
+10 furnished by a telecommunications carrier within a local
+11 exchange area;
+12 P. "long distance service" means
+13 telecommunications service between local exchange areas that
+14 originate and terminate within the state;
+15 Q. "office" means the office of broadband access
+16 and expansion;
+17 R. "private telecommunications service" means a
+18 system, including its construction, maintenance or operation
+19 for the provision of telecommunications service, or any
+20 portion of that service, by a person for the sole and
+21 exclusive use of that person and not for resale, directly or
+22 indirectly. For purposes of this definition, the person that
+23 may use the service includes any affiliates of the person if
+24 at least eighty percent of the assets or voting stock of the
+25 affiliates is owned by the person. If any other person uses SFC/SB 152
+Page 15
+1 the telecommunications service, whether for hire or not, the
+2 private telecommunications service is a public
+3 telecommunications service;
+4 S. "public telecommunications service" means the
+5 transmission of signs, signals, writings, images, sounds,
+6 messages, data or other information of any nature by wire,
+7 radio, lightwaves or other electromagnetic means originating
+8 and terminating in this state regardless of actual call
+9 routing. "Public telecommunications service" does not
+10 include the provision of terminal equipment used to originate
+11 or terminate the service; private telecommunications service;
+12 broadcast transmissions by radio, television and satellite
+13 broadcast stations regulated by the federal communications
+14 commission; radio common carrier services, including mobile
+15 telephone service and radio paging; or cable service;
+16 T. "rural area" means an unincorporated area or a
+17 city, a town or an incorporated area with a population of
+18 twenty thousand or less as reflected in the most recent
+19 federal decennial census or applicable tribal census;
+20 U. "statewide broadband plan" means the plan
+21 developed by the office pursuant to the Broadband Access and
+22 Expansion Act;
+23 V. "telecommunications carrier" means a person
+24 that provides public telecommunications service;
+25 W. "underserved" means an area or property that SFC/SB 152
+Page 16
+1 does not have access to fixed and mobile internet service
+2 offering speeds greater than one hundred megabits per second
+3 downstream and twenty megabits per second upstream; and
+4 X. "unserved" means an area or property that
+5 either does not have access to fixed and mobile internet
+6 service at all or only has access to internet service
+7 offering speeds below twenty-five megabits per second
+8 downstream or three megabits per second upstream."
+9 SECTION 5. Section 63-9H-4 NMSA 1978 (being Laws 1999,
+10 Chapter 295, Section 4, as amended) is amended to read:
+11 "63-9H-4. REGULATION BY COMMISSION.--
+12 A. Except as otherwise provided in the Rural
+13 Telecommunications Act of New Mexico or the federal act, each
+14 public telecommunications service is declared to be affected
+15 with the public interest and, as such, subject to the
+16 provisions of those acts, including the regulation thereof as
+17 provided in those acts.
+18 B. The commission has exclusive jurisdiction to
+19 regulate incumbent rural telecommunications carriers only in
+20 the manner and to the extent authorized by the Rural
+21 Telecommunications Act of New Mexico, and Section 63-7-1.1
+22 NMSA 1978 does not apply; provided, however, that the
+23 commission's jurisdiction includes the regulation of
+24 wholesale rates, including access charges and interconnection
+25 agreements consistent with federal law and its enforcement SFC/SB 152
+Page 17
+1 and a determination of participation in low-income telephone
+2 service assistance programs pursuant to the Rural
+3 Telecommunications Act of New Mexico.
+4 C. The commission shall adopt rules consistent
+5 with the requirement for relaxed regulation for incumbent
+6 rural telecommunications carriers set forth in the Rural
+7 Telecommunications Act of New Mexico that provide for:
+8 (1) reduced filing requirements for
+9 applicants in rate increase proceedings under the Rural
+10 Telecommunications Act of New Mexico and proceedings under
+11 that act seeking payments from the fund; and
+12 (2) expedited consideration in all
+13 proceedings initiated pursuant to the Rural
+14 Telecommunications Act of New Mexico in order to reduce the
+15 cost and burden for incumbent rural telecommunications
+16 carriers and other applicants."
+17 SECTION 6. Section 63-9H-6 NMSA 1978 (being Laws 1999,
+18 Chapter 295, Section 6, as amended) is amended to read:
+19 "63-9H-6. STATE RURAL UNIVERSAL SERVICE FUND--
+20 ESTABLISHMENT.--
+21 A. The commission shall implement and maintain a
+22 "state rural universal service fund" to maintain and support
+23 universal service provided by eligible telecommunications
+24 carriers, including commercial mobile radio services
+25 carriers, as are determined by the commission. As used in SFC/SB 152
+Page 18
+1 this section, "universal service" means basic local exchange
+2 service, comparable retail alternative services at affordable
+3 rates, service pursuant to a low-income telecommunications
+4 assistance plan and broadband internet access service to
+5 unserved and underserved areas as determined by the
+6 commission.
+7 B. The fund shall be financed by a surcharge on
+8 intrastate retail public telecommunications services to be
+9 determined by the commission, excluding services provided
+10 pursuant to a low-income telecommunications assistance plan
+11 billed to end-user customers by a telecommunications carrier,
+12 and excluding all amounts from surcharges, gross receipts
+13 taxes, excise taxes, franchise fees and similar charges. For
+14 the purpose of funding the fund, the commission has the
+15 authority to apply the surcharge on intrastate retail public
+16 telecommunications services provided by telecommunications
+17 carriers, including commercial mobile radio services and
+18 voice over internet protocol services, at a competitively and
+19 technologically neutral rate or rates to be determined by the
+20 commission. The commission may establish the surcharge as a
+21 percentage of intrastate retail public telecommunications
+22 services revenue or as a fixed amount applicable to each
+23 communication connection. For purposes of this section, a
+24 "communication connection" means a voice-enabled telephone
+25 access line, wireless voice connection, unique voice over SFC/SB 152
+Page 19
+1 internet protocol service connection or other uniquely
+2 identifiable functional equivalent as determined by the
+3 commission. Such surcharges shall be competitively and
+4 technologically neutral. Money deposited in the fund is not
+5 public money, and the administration of the fund is not
+6 subject to the provisions of law regulating public funds.
+7 The commission shall not apply this surcharge to a private
+8 telecommunications network; to the state, a county, a
+9 municipality or other governmental entity; to a public school
+10 district; to a public institution of higher education; to
+11 eligible households that participate in the low-income
+12 telecommunications assistance program; to an Indian nation,
+13 tribe or pueblo; or to Native American customers who reside
+14 on tribal or pueblo land.
+15 C. The fund shall be competitively and
+16 technologically neutral, equitable and nondiscriminatory in
+17 its collection and distribution of funds, portable between
+18 eligible telecommunications carriers and additionally shall
+19 provide a specific, predictable and sufficient support
+20 mechanism as determined by the commission that ensures
+21 universal service in the state.
+22 D. The commission shall:
+23 (1) establish eligibility criteria for
+24 participation in the fund consistent with federal law that
+25 ensure the availability of universal service at affordable SFC/SB 152
+Page 20
+1 rates. The eligibility criteria shall not restrict or limit
+2 an eligible telecommunications carrier from receiving federal
+3 universal service support;
+4 (2) provide for the collection of the
+5 surcharge on a competitively neutral basis and for the
+6 administration and disbursement of money from the fund;
+7 (3) determine those services and areas
+8 requiring support from the fund;
+9 (4) provide for the separate administration
+10 and disbursement of federal universal service funds
+11 consistent with federal law; and
+12 (5) establish affordability benchmark rates
+13 for local residential and business services that shall be
+14 utilized in determining the level of support from the fund.
+15 The process for determining subsequent adjustments to the
+16 benchmark shall be established through a rulemaking.
+17 E. All incumbent telecommunications carriers and
+18 competitive carriers already designated as eligible
+19 telecommunications carriers for the fund shall be eligible
+20 for participation in the fund. All other carriers that
+21 choose to become eligible to receive support from the fund
+22 may petition the commission to be designated as an eligible
+23 telecommunications carrier for the fund. The commission may
+24 grant eligible carrier status to a competitive carrier in a
+25 rural area upon a finding that granting the application is in SFC/SB 152
+Page 21
+1 the public interest. In making a public interest finding,
+2 the commission may consider at least the following items:
+3 (1) the impact of designation of an
+4 additional eligible carrier on the size of the fund;
+5 (2) the unique advantages and disadvantages
+6 of the competitor's service offering; and
+7 (3) any commitments made regarding the
+8 quality of service.
+9 F. The commission shall adopt rules, including a
+10 provision for variances, for the implementation and
+11 administration of the fund in accordance with the provisions
+12 of this section. The rules shall enumerate the appropriate
+13 uses of fund support and any restrictions on the use of fund
+14 support by eligible telecommunications carriers. The rules
+15 shall require that through December 31, 2028, an eligible
+16 telecommunications carrier receiving support from the fund
+17 pursuant to Subsection K, L, M or N of this section shall
+18 expend no less than sixty percent of the support it receives
+19 to deploy and maintain broadband internet access services in
+20 rural areas of the state. In subsequent years, the rules
+21 shall require that an eligible telecommunications carrier
+22 receiving support from the fund pursuant to Subsection K, L,
+23 M or N of this section shall expend no less than one hundred
+24 percent of the support it receives to deploy and maintain
+25 broadband internet access services. The rules also shall SFC/SB 152
+Page 22
+1 provide for annual reporting by eligible telecommunications
+2 carriers verifying that the reporting carrier continues to
+3 meet the requirements for designation as an eligible
+4 telecommunications carrier for purposes of the fund and is in
+5 compliance with the commission's rules, including the
+6 provisions regarding use of support from the fund.
+7 G. The commission shall, upon implementation of
+8 the fund, select a neutral third-party administrator to
+9 collect, administer and disburse money from the fund under
+10 the supervision and control of the commission pursuant to
+11 established criteria and rules promulgated by the commission.
+12 The administrator may be reasonably compensated for the
+13 specified services from the surcharge proceeds to be received
+14 by the fund pursuant to Subsection B of this section. For
+15 purposes of this subsection, the commission shall not be a
+16 neutral third-party administrator.
+17 H. The fund established by the commission shall
+18 ensure the availability of universal service as determined
+19 by the commission at affordable rates in rural areas of the
+20 state; provided, however, that nothing in this section shall
+21 be construed as granting any authority to the commission to
+22 regulate broadband internet access services.
+23 I. The commission shall ensure that intrastate
+24 switched access charges are equal to interstate switched
+25 access charges established by the federal communications SFC/SB 152
+Page 23
+1 commission as of January 1, 2006. Nothing in this section
+2 shall preclude the commission from considering further
+3 adjustments to intrastate switched access charges based on
+4 changes to interstate switched access charges.
+5 J. To ensure that providers of intrastate retail
+6 communications service contribute to the fund and to further
+7 ensure that the surcharge determined pursuant to Subsection B
+8 of this section to be paid by the end-user customer will be
+9 held to a minimum, the commission shall adopt rules, or take
+10 other appropriate action, to require all such providers to
+11 participate in a plan to ensure accurate reporting.
+12 K. The commission shall authorize payments from
+13 the fund to incumbent local exchange carriers, in combination
+14 with revenue-neutral rate rebalancing up to the affordability
+15 benchmark rates. Beginning in 2018, the commission shall
+16 make access reduction support payments in the amount made
+17 from the fund in base year 2014, adjusted each year
+18 thereafter by:
+19 (1) the annual percentage change in the
+20 number of access lines served by the incumbent local exchange
+21 carriers receiving such support for the prior calendar year,
+22 as compared to base year 2014; and
+23 (2) changes in the affordability benchmark
+24 rates that have occurred since 2014.
+25 L. Notwithstanding the provisions of Subsection K SFC/SB 152
+Page 24
+1 of this section, the annual amount of access reduction
+2 support payments for an eligible incumbent local exchange
+3 carrier in each year shall be equal to the annual access
+4 reduction support payments for that eligible incumbent local
+5 exchange carrier for the year 2023.
+6 M. The commission shall determine the methodology
+7 to be used to authorize payments to all other carriers that
+8 apply for and receive eligible carrier status; provided that:
+9 (1) an eligible incumbent telecommunications
+10 carrier that is not eligible for funding pursuant to rate
+11 rebalancing in Subsection K of this section and that has been
+12 previously authorized pursuant to Subsection N of this
+13 section for need-based support may apply for ongoing fund
+14 support at the annual amount previously authorized in 2023;
+15 (2) the commission shall award an applicant
+16 ongoing fund support at no less than the average access line
+17 amount of funding support for comparable carriers;
+18 (3) the commission shall act upon a request
+19 for ongoing fund support within one hundred twenty days of
+20 the filing of the request; and
+21 (4) nothing in this subsection shall limit
+22 the commission's authority to adopt rules regarding
+23 appropriate uses of fund support and any restrictions on the
+24 use of the fund support by eligible telecommunications
+25 carriers. SFC/SB 152
+Page 25
+1 N. The commission may also authorize payments from
+2 the fund to incumbent rural telecommunications carriers or to
+3 telecommunications carriers providing comparable retail
+4 alternative services that have been designated as eligible
+5 telecommunications carriers serving in rural areas of the
+6 state upon a finding, based on factors that may include a
+7 carrier's regulated revenues, expenses or investment, by the
+8 commission that such payments are needed to ensure the
+9 widespread availability and affordability of universal
+10 service. The commission shall decide cases filed pursuant to
+11 this subsection with reasonable promptness, with or without a
+12 hearing, but no later than six months following the filing of
+13 an application seeking payments from the fund, unless the
+14 commission finds that a longer time will be required, in
+15 which case the commission may extend the period for an
+16 additional three months."
+17 SECTION 7. A new section of the Rural
+18 Telecommunications Act of New Mexico is enacted to read:
+19 "LOW-INCOME TELECOMMUNICATIONS ASSISTANCE AND BROADBAND
+20 PROGRAMS--REPORTS.--
+21 A. By January 1, 2027, the commission shall
+22 promulgate rules to implement a low-income telecommunications
+23 assistance program to ensure affordable access to
+24 telecommunications services to eligible low-income households
+25 in New Mexico. Rules adopted pursuant to this subsection SFC/SB 152
+Page 26
+1 shall:
+2 (1) complement the lifeline program
+3 administered by the federal communications commission or a
+4 successor federal broadband affordability program;
+5 (2) mirror quality of service standards for
+6 fixed broadband and mobile broadband provided to a broadband
+7 serviceable location established by the federal
+8 communications commission;
+9 (3) establish a mechanism by which a
+10 participating eligible telecommunications carrier may be
+11 reimbursed from the fund for reduced rates provided to
+12 eligible households at levels up to the retail charges for
+13 qualifying services;
+14 (4) require participating eligible
+15 telecommunications carriers to use the national verifier or
+16 national lifeline accountability database administered by the
+17 federal communications commission, a successor federal
+18 broadband affordability database or an alternative mechanism
+19 approved by the commission to verify eligible households
+20 under Paragraph (5) of this subsection; and
+21 (5) provide for an eligible
+22 telecommunications carrier to provide assistance in the form
+23 of reduced rates to households that:
+24 (a) include a student identified by the
+25 public education department who is determined to be at risk SFC/SB 152
+Page 27
+1 pursuant to the final judgment in the Yazzie/Martinez v.
+2 State of New Mexico consolidated lawsuit;
+3 (b) meet the eligibility criteria of
+4 one or more need-based assistance programs administered by
+5 the health care authority; or
+6 (c) are eligible for support under the
+7 federal lifeline program or a successor program.
+8 B. Subject to state and federal laws and
+9 regulations governing the sharing of confidential
+10 information, the public education department and health care
+11 authority shall cooperate with the commission and eligible
+12 telecommunications carriers in identifying those persons
+13 eligible for assistance from the low-income
+14 telecommunications assistance program.
+15 C. The commission shall adopt rules to establish
+16 and implement a broadband program to provide funding to
+17 assist eligible telecommunications carriers in the
+18 construction or maintenance of rural broadband infrastructure
+19 to ensure that all New Mexico residents have access to
+20 broadband internet access service that meets the quality of
+21 service standards established pursuant to the Broadband
+22 Access and Expansion Act or by the federal communications
+23 commission if state standards are not established pursuant to
+24 the Broadband Access and Expansion Act; provided that rules
+25 adopted pursuant to this subsection shall: SFC/SB 152
+Page 28
+1 (1) consider applications for funding on a
+2 technology-neutral basis;
+3 (2) require that applications for funding be
+4 submitted to the office for prioritization and alignment with
+5 the statewide broadband plan;
+6 (3) require that the awards of support be
+7 consistent with federal universal service support programs;
+8 and
+9 (4) require tribal consent for all
+10 applications that propose to provide service on the sovereign
+11 land of an Indian nation, tribe or pueblo in New Mexico.
+12 D. By October 1 of each year, the commission shall
+13 make a report to the interim committee that studies economic
+14 and rural development, the legislative finance committee, the
+15 legislative education study committee and the interim
+16 committee that studies technology and telecommunications
+17 regarding the status of the broadband program and the
+18 low-income telecommunications assistance program. The report
+19 shall be shared with the office, the public education
+20 department and the health care authority. The report shall
+21 include, at a minimum:
+22 (1) the number of households receiving
+23 assistance from the low-income telecommunications assistance
+24 program pursuant to this section;
+25 (2) the number of households in New Mexico SFC/SB 152
+Page 29
+1 eligible for low-income telecommunications assistance
+2 pursuant to this section based on eligible households
+3 identified by the public education department, the health
+4 care authority and the federal communications commission;
+5 (3) the estimated cost of providing
+6 low-income telecommunications assistance to all eligible
+7 households in New Mexico;
+8 (4) the service areas that received funding
+9 awards from the broadband program, the amounts of those
+10 awards and the nature of the awards;
+11 (5) the proposed construction time lines for
+12 all new broadband construction;
+13 (6) a comparison of the annual broadband
+14 operation and maintenance funding provided by the commission
+15 each year, broken down by individual carrier;
+16 (7) recommendations for changes to the
+17 structure, size and purposes of the fund, including:
+18 (a) whether the cap on the low-income
+19 telecommunications assistance program provided for in
+20 Subsection C of Section 8 of this 2026 act should be
+21 modified, maintained or eliminated; and
+22 (b) whether the cap on the broadband
+23 program provided for in Subsection B of Section 8 of this
+24 2026 act should be modified, maintained or eliminated;
+25 (8) details regarding collaboration with the SFC/SB 152
+Page 30
+1 office in the implementation and operation of the broadband
+2 program; and
+3 (9) details regarding collaboration with the
+4 public education department and the health care authority in
+5 the implementation and operation of the low-income
+6 telecommunications assistance program."
+7 SECTION 8. A new section of the Rural
+8 Telecommunications Act of New Mexico is enacted to read:
+9 "STATE RURAL UNIVERSAL SERVICE FUND BUDGET CAPS.--The
+10 total obligations of the fund determined by the commission,
+11 plus administrative expenses and a prudent fund balance,
+12 shall not exceed a cap of:
+13 A. eighteen million dollars ($18,000,000) pursuant
+14 to the access reduction support, need-based support and
+15 comparable carrier support in Subsections K through N of
+16 Section 63-9H-6 NMSA 1978;
+17 B. twelve million dollars ($12,000,000) pursuant
+18 to the broadband program in Subsection C of Section 7 of this
+19 2026 act; and
+20 C. pursuant to the low-income telecommunications
+21 assistance program:
+22 (1) ten million dollars ($10,000,000) in the
+23 first year of the program; and
+24 (2) forty-five million dollars ($45,000,000)
+25 per year in subsequent years of the program." SFC/SB 152
+Page 31
+1 SECTION 9. REPEAL.--Sections 63-9C-1 through 63-9C-6
+2 NMSA 1978 (being Laws 1987, Chapter 197, Sections 1 through
+3 6, as amended) are repealed.
+4 SECTION 10. EFFECTIVE DATE.--The effective date of the
+5 provisions of this act is July 1, 2026. SFC/SB 152
+Page 32
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+[DELETED:  S]
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO TELECOMMUNICATIONS; AMENDING THE RURAL
+3 TELECOMMUNICATIONS ACT OF NEW MEXICO TO ESTABLISH A
+4 LOW-INCOME TELECOMMUNICATIONS ASSISTANCE PROGRAM AND
+5 RESTRUCTURE THE EXISTING BROADBAND PROGRAM; MAKING CONFORMING
+6 AND CLEAN-UP AMENDMENTS; REQUIRING REPORTS; ESTABLISHING
+7 STATE RURAL UNIVERSAL SERVICE FUND BUDGET CAPS; REPEALING THE
+8 LOW INCOME TELEPHONE SERVICE ASSISTANCE ACT; AMENDING,
+9 REPEALING AND ENACTING SECTIONS OF THE NMSA 1978.
+10
+11 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+12 SECTION 1. Section 63-9A-5 NMSA 1978 (being Laws 1985,
+13 Chapter 242, Section 5, as amended) is amended to read:
+14 “63-9A-5. REGULATION BY COMMISSION.--
+15 A. Except as otherwise provided in the New Mexico
+16 Telecommunications Act, each public telecommunications
+17 service is declared to be affected with the public interest
+18 and, as such, subject to the provisions of that act,
+19 including the regulation thereof as provided in that act.
+20 B. Except in cases regarding the fixing of rates
+21 pursuant to Section 63-7-1.1 NMSA 1978, the commission has
+22 exclusive jurisdiction to regulate incumbent local exchange
+23 carriers that serve fifty thousand or more access lines
+24 within the state to the extent authorized by the New Mexico
+25 Telecommunications Act; provided that: SFC/SB 152
+Page 1
+
+1 (1) the commission's jurisdiction includes
+2 the regulation of wholesale rates, including access charges
+3 and interconnection agreements consistent with federal law
+4 and its enforcement and determinations of participation in
+5 low-income telephone service assistance programs pursuant to
+6 the Rural Telecommunications Act of New Mexico; and
+7 (2) incumbent local exchange carriers
+8 regulated pursuant to this section shall be regulated in the
+9 same manner as incumbent rural telecommunications carriers
+10 are regulated pursuant to the Rural Telecommunications Act of
+11 New Mexico.
+12 C. Any rules adopted by the commission for the
+13 regulation of incumbent local exchange carriers pursuant to
+14 the New Mexico Telecommunications Act shall preserve and not
+15 alter:
+16 (1) the rights and obligations of any
+17 entity, including the commission, established pursuant to
+18 federal law, including 47 U.S.C. Sections 251 and 252, or
+19 established pursuant to any state law, rule, procedure,
+20 regulation or order related to interconnection, intercarrier
+21 compensation, intercarrier complaints, wholesale rights and
+22 obligations or any wholesale rate or schedule that is filed
+23 with and maintained by the commission;
+24 (2) the rights and obligations of any
+25 competitive telecommunications service provider holding a SFC/SB 152
+Page 2
+
+1 certificate of public convenience and necessity, or the
+2 rights and obligations of any competitive carrier to obtain
+3 such a certificate;
+4 (3) the authority of the commission to
+5 resolve consumer complaints regarding basic local exchange
+6 service; provided, however, that the commission's authority
+7 to resolve such complaints shall be limited to resolving
+8 issues of consumer protection and shall not include the
+9 authority to determine or fix rates, provider of last resort
+10 obligations or service quality standards except as expressly
+11 set forth in the New Mexico Telecommunications Act;
+12 (4) the authority of the commission to
+13 establish reasonable quality of service standards; provided,
+14 however, that the enforcement of such standards shall be
+15 limited to the commission's fining authority set forth in
+16 Section 63-7-23 NMSA 1978 and the authority to seek an
+17 injunction set forth in Section 63-9-19 NMSA 1978;
+18 (5) the rights and obligations of any
+19 entity, including the commission, regarding the fund;
+20 (6) the rights and obligations of any
+21 entity, including the commission, regarding access to
+22 emergency service to the extent consistent with the Enhanced
+23 911 Act; or
+24 (7) the rights and obligations of any
+25 entity, including the commission, regarding the SFC/SB 152
+Page 3
+
+1 administration of slamming and cramming rules,
+2 telecommunications relay service and numbering resources to
+3 the extent permitted by and consistent with federal law.
+4 D. The provisions of the New Mexico
+5 Telecommunications Act do not apply to incumbent rural
+6 telecommunications carriers."
+7 SECTION 2. Section 63-9D-5 NMSA 1978 (being Laws 1989,
+8 Chapter 25, Section 5, as amended) is amended to read:
+9 "63-9D-5. IMPOSITION OF SURCHARGE.--
+10 A. A 911 emergency surcharge is imposed in the
+11 amount of one dollar ($1.00) to be billed to each subscriber
+12 access line by a communications service provider, on each
+13 active number for a commercial mobile radio service
+14 subscriber and on the number of VoIP lines for which the VoIP
+15 service provider enables the capacity for simultaneous calls,
+16 regardless of actual usage, to be connected to the public
+17 switched telephone network during the period for which the
+18 fixed charge is imposed. The surcharge is imposed on all
+19 subscribers whose place of primary use, as defined in the
+20 federal Mobile Telecommunications Sourcing Act, is in
+21 New Mexico; provided, however, that the surcharge shall not
+22 be imposed upon subscribers receiving reduced rates as a
+23 result of the low-income telecommunications assistance
+24 program pursuant to the Rural Telecommunications Act of
+25 New Mexico; and provided further that the surcharge shall not SFC/SB 152
+Page 4
+
+1 apply to prepaid wireless communication service; and provided
+2 further that a 911 emergency surcharge shall not be assessed
+3 on the provision of broadband internet access service.
+4 B. A communications service provider shall bill
+5 and collect the surcharge from subscribers whose places of
+6 primary use, as defined in the federal Mobile
+7 Telecommunications Sourcing Act, are in New Mexico. The
+8 surcharge required to be collected by the communications
+9 service provider shall be added to and stated clearly and
+10 separately in the billings to the subscriber. The surcharge
+11 collected by the communications service provider shall not be
+12 considered revenue of the communications service provider.
+13 C. A billed subscriber is liable for payment of
+14 the 911 emergency surcharge until it has been paid to the
+15 communications service provider.
+16 D. A communications service provider has no
+17 obligation to take legal action to enforce the collection of
+18 the surcharge; an action may be brought by or on behalf of
+19 the department. A communications service provider, upon
+20 request and not more than once a year, shall provide to the
+21 department a list of the surcharge amounts uncollected, along
+22 with the names and addresses of subscribers who carry a
+23 balance that can be determined by the communications service
+24 provider to be nonpayment of the surcharge. The
+25 communications service provider shall not be held liable for SFC/SB 152
+Page 5
+
+1 uncollected surcharge amounts."
+2 SECTION 3. Section 63-9F-11 NMSA 1978 (being Laws 1993,
+3 Chapter 54, Section 11, as amended) is amended to read:
+4 "63-9F-11. IMPOSITION OF SURCHARGE.--
+5 A. A telecommunications relay service surcharge of
+6 one and sixty-six hundredths percent is imposed on the gross
+7 amount paid:
+8 (1) by customers, except customers whose
+9 telephone service rates are reduced as a result of the
+10 low-income telecommunications assistance program pursuant to
+11 the Rural Telecommunications Act of New Mexico, for
+12 intrastate telecommunications services provided in this
+13 state;
+14 (2) by customers for the intrastate portion
+15 of interconnected voice over internet protocol service;
+16 (3) by customers for intrastate mobile
+17 telecommunications services that originate and terminate in
+18 the same state, regardless of where the mobile
+19 telecommunications services originate, terminate or pass
+20 through, provided by home service providers to customers
+21 whose place of primary use is in New Mexico; and
+22 (4) by a prepaid consumer in a retail
+23 transaction.
+24 B. The telecommunications relay service surcharge
+25 shall be included on the monthly bill of each customer of a SFC/SB 152
+Page 6
+
+1 local exchange company or other telecommunications company
+2 providing intrastate telecommunications services,
+3 interconnected voice over internet protocol services or
+4 intrastate mobile telecommunications services and paid at the
+5 time of payment of the monthly bill. Receipts from selling
+6 those services to any other telecommunications company or
+7 provider for resale are not subject to the surcharge. The
+8 customer is liable for the payment of the surcharge to the
+9 provider of intrastate mobile telecommunications services,
+10 the provider of interconnected voice over internet protocol
+11 services or the local exchange company or other
+12 telecommunications company providing intrastate
+13 telecommunications services to the customer.
+14 C. For the purposes of the surcharge imposed on a
+15 retail transaction pursuant to Paragraph (4) of Subsection A
+16 of this section:
+17 (1) the surcharge shall be collected by the
+18 seller from the prepaid consumer with respect to each retail
+19 transaction occurring in this state. The amount of the
+20 surcharge shall be either separately stated on an invoice,
+21 receipt or other similar document that is provided to the
+22 prepaid consumer by the seller or otherwise disclosed to the
+23 prepaid consumer;
+24 (2) for the purposes of Paragraph (1) of
+25 this subsection, a retail transaction that is effected in SFC/SB 152
+Page 7
+
+1 person by a prepaid consumer at a business location of the
+2 seller shall be treated as occurring in this state if that
+3 business location is in this state, and any other retail
+4 transaction is treated as occurring in this state if the
+5 retail transaction is treated as occurring in this state for
+6 purposes of the Gross Receipts and Compensating Tax Act;
+7 (3) the surcharge is the liability of the
+8 prepaid consumer and not of the seller or any provider;
+9 provided that the seller shall be liable to remit all
+10 surcharges collected from the prepaid consumer as provided in
+11 this subsection, including all such surcharges that the
+12 seller is deemed to collect where the amount of the surcharge
+13 has not been separately stated on an invoice, receipt or
+14 other similar document provided to the prepaid consumer by
+15 the seller;
+16 (4) the amount of the surcharge that is
+17 collected by a seller from a prepaid consumer, if such amount
+18 is separately stated on an invoice, receipt or other similar
+19 document provided to the prepaid consumer by the seller,
+20 shall not be included in the base for measuring any tax, fee,
+21 surcharge or other charge that is imposed by this state, any
+22 political subdivision of this state or any intergovernmental
+23 agency;
+24 (5) when prepaid wireless communications
+25 service is sold with one or more other products or services SFC/SB 152
+Page 8
+
+1 for a single, non-itemized price, the percentage specified in
+2 Subsection A of this section shall apply to the entire
+3 non-itemized price unless the seller elects to apply such
+4 percentage to:
+5 (a) if the amount of the prepaid
+6 wireless communications service is disclosed to the prepaid
+7 consumer as a dollar amount, such dollar amount; or
+8 (b) if the seller can identify the
+9 portion of the price that is attributable to the prepaid
+10 wireless communications service by reasonable and verifiable
+11 standards from its books and records that are kept in the
+12 regular course of business for other purposes, including
+13 non-tax purposes, such portion;
+14 (6) if a minimal amount of prepaid wireless
+15 communications service is sold with a prepaid wireless device
+16 for a single, non-itemized price, the seller may elect not to
+17 apply the percentage specified in Subsection A of this
+18 section to such transaction. For the purposes of this
+19 paragraph, an amount of service denominated as ten minutes or
+20 less, or five dollars ($5.00) or less, is minimal;
+21 (7) surcharges collected by sellers shall be
+22 remitted to the taxation and revenue department at the times
+23 and in the manner provided with respect to the Gross Receipts
+24 and Compensating Tax Act. The department shall establish
+25 registration and payment procedures that substantially SFC/SB 152
+Page 9
+
+1 coincide with the registration and payment procedures that
+2 apply to the Gross Receipts and Compensating Tax Act. A
+3 seller shall be permitted to deduct and retain three percent
+4 of surcharges that are collected by the seller from the
+5 prepaid consumer;
+6 (8) the audit and appeal procedures
+7 applicable to the Gross Receipts and Compensating Tax Act
+8 shall apply to the surcharge;
+9 (9) the taxation and revenue department
+10 shall establish procedures by which a seller of prepaid
+11 wireless communications services may document that a sale is
+12 not a retail transaction, which procedures shall
+13 substantially coincide with the procedures for documenting
+14 sale for resale transactions for the Gross Receipts and
+15 Compensating Tax Act; and
+16 (10) notwithstanding Paragraph (1) of this
+17 subsection, if a 911 surcharge is imposed on prepaid wireless
+18 communications service pursuant to the Enhanced 911 Act, the
+19 taxation and revenue department shall promulgate rules to
+20 permit sellers to combine the surcharge imposed pursuant to
+21 this section and the surcharge imposed pursuant to the
+22 Enhanced 911 Act into a single surcharge on the invoice,
+23 receipt or other similar document that is provided to the
+24 prepaid consumer. The department shall ensure that
+25 appropriate surcharge revenues are directed proportionately SFC/SB 152
+Page 10
+
+1 to the respective 911 and telecommunications relay service
+2 funds.
+3 D. A telecommunications company providing
+4 intrastate telecommunications services, a home service
+5 provider providing intrastate mobile telecommunications
+6 services and a seller of interconnected voice over internet
+7 protocol services shall, on sales subject to the
+8 telecommunications relay service surcharge, assess and
+9 collect the surcharge and remit the surcharge collected
+10 monthly to the taxation and revenue department on or before
+11 the twenty-fifth day of the month following collection. The
+12 department shall administer and enforce the collection of the
+13 surcharge in accordance with the Tax Administration Act.
+14 E. The taxation and revenue department shall
+15 transfer the following amounts of the net receipts of the
+16 telecommunications relay service surcharge collected, less
+17 any amount deducted in accordance with Subsection F of this
+18 section, within the month following the month in which the
+19 surcharge is collected:
+20 (1) twenty percent to the telecommunications
+21 access fund; and
+22 (2) eighty percent to the 988 lifeline fund.
+23 F. The taxation and revenue department may deduct
+24 an amount not to exceed three percent of the
+25 telecommunications relay service surcharge collected as a SFC/SB 152
+Page 11
+
+1 charge for the administrative costs of collection and shall
+2 remit that amount to the state treasurer for deposit in the
+3 general fund each month.
+4 G. The commission and the health care authority
+5 shall report to the revenue stabilization and tax policy
+6 committee annually by September 30 the following information
+7 with respect to the prior fiscal year:
+8 (1) the amount and source of revenue
+9 received by the telecommunications access fund and the 988
+10 lifeline fund;
+11 (2) the amount and category of expenditures
+12 from the funds; and
+13 (3) the balance of the funds on that
+14 June 30."
+15 SECTION 4. Section 63-9H-3 NMSA 1978 (being Laws 1999,
+16 Chapter 295, Section 3, as amended by Laws 2021, Chapter 118,
+17 Section 1 and by Laws 2021, Chapter 120, Section 8) is
+18 amended to read:
+19 "63-9H-3. DEFINITIONS.--As used in the Rural
+20 Telecommunications Act of New Mexico:
+21 A. "affordable rates" means rates for basic
+22 service that promote universal service, giving consideration
+23 to the economic conditions of households in the service area
+24 and costs to provide service in the area in which service is
+25 provided; SFC/SB 152
+Page 12
+
+1 B. "basic service" means service that is provided
+2 that is consistent with the federal act:
+3 (1) to a rural end-user customer; or
+4 (2) to a rural or non-rural end-user
+5 customer pursuant to the low-income telecommunications
+6 assistance program;
+7 C. "broadband infrastructure" means facilities and
+8 equipment used to provide internet service, excluding
+9 telecommunications equipment owned, controlled or operated by
+10 a public or private end user;
+11 D. "cable service" means the transmission to
+12 subscribers of video programming or other programming service
+13 and subscriber interaction, if any, that is required for the
+14 selection or use of the video programming or other
+15 programming service;
+16 E. "commission" means the public regulation
+17 commission;
+18 F. "comparable carrier" means an eligible
+19 telecommunications carrier established prior to enactment of
+20 the Rural Telecommunications Act of New Mexico that has a
+21 similar number of access lines as an eligible
+22 telecommunications carrier established after enactment of
+23 that act;
+24 G. "digital equity" means information technology
+25 needed for civic and cultural participation, employment, SFC/SB 152
+Page 13
+
+1 education, business and economic development, lifelong
+2 learning and access to essential services generally available
+3 to residents regardless of their racial grouping,
+4 socioeconomic status or cultural identity;
+5 H. "digital inclusion" means access to and the
+6 ability to use information technologies;
+7 I. "eligible telecommunications carrier" means an
+8 eligible telecommunications carrier as defined in the federal
+9 act;
+10 J. "federal act" means the federal
+11 Telecommunications Act of 1996;
+12 K. "fund" means the state rural universal service
+13 fund;
+14 L. "incumbent local exchange carrier" means a
+15 person that:
+16 (1) was designated as an eligible
+17 telecommunications carrier by the state corporation
+18 commission in Docket #97-93-TC by order dated October 23,
+19 1997, or that provided local exchange service in this state
+20 on February 8, 1996; or
+21 (2) became a successor or assignee of an
+22 incumbent local exchange carrier;
+23 M. "incumbent rural telecommunications carrier"
+24 means an incumbent local exchange carrier that serves fewer
+25 than fifty thousand access lines within the state and has SFC/SB 152
+Page 14
+
+1 been designated as an eligible telecommunications carrier by
+2 the state corporation commission or the public regulation
+3 commission;
+4 N. "local exchange area" means a geographic area
+5 encompassing one or more local communities, as described in
+6 maps, tariffs or rate schedules filed with the commission,
+7 where local exchange rates apply;
+8 O. "local exchange service" means the transmission
+9 of two-way interactive switched voice communications
+10 furnished by a telecommunications carrier within a local
+11 exchange area;
+12 P. "long distance service" means
+13 telecommunications service between local exchange areas that
+14 originate and terminate within the state;
+15 Q. "office" means the office of broadband access
+16 and expansion;
+17 R. "private telecommunications service" means a
+18 system, including its construction, maintenance or operation
+19 for the provision of telecommunications service, or any
+20 portion of that service, by a person for the sole and
+21 exclusive use of that person and not for resale, directly or
+22 indirectly. For purposes of this definition, the person that
+23 may use the service includes any affiliates of the person if
+24 at least eighty percent of the assets or voting stock of the
+25 affiliates is owned by the person. If any other person uses SFC/SB 152
+Page 15
+
+1 the telecommunications service, whether for hire or not, the
+2 private telecommunications service is a public
+3 telecommunications service;
+4 S. "public telecommunications service" means the
+5 transmission of signs, signals, writings, images, sounds,
+6 messages, data or other information of any nature by wire,
+7 radio, lightwaves or other electromagnetic means originating
+8 and terminating in this state regardless of actual call
+9 routing. "Public telecommunications service" does not
+10 include the provision of terminal equipment used to originate
+11 or terminate the service; private telecommunications service;
+12 broadcast transmissions by radio, television and satellite
+13 broadcast stations regulated by the federal communications
+14 commission; radio common carrier services, including mobile
+15 telephone service and radio paging; or cable service;
+16 T. "rural area" means an unincorporated area or a
+17 city, a town or an incorporated area with a population of
+18 twenty thousand or less as reflected in the most recent
+19 federal decennial census or applicable tribal census;
+20 U. "statewide broadband plan" means the plan
+21 developed by the office pursuant to the Broadband Access and
+22 Expansion Act;
+23 V. "telecommunications carrier" means a person
+24 that provides public telecommunications service;
+25 W. "underserved" means an area or property that SFC/SB 152
+Page 16
+
+1 does not have access to fixed and mobile internet service
+2 offering speeds greater than one hundred megabits per second
+3 downstream and twenty megabits per second upstream; and
+4 X. "unserved" means an area or property that
+5 either does not have access to fixed and mobile internet
+6 service at all or only has access to internet service
+7 offering speeds below twenty-five megabits per second
+8 downstream or three megabits per second upstream."
+9 SECTION 5. Section 63-9H-4 NMSA 1978 (being Laws 1999,
+10 Chapter 295, Section 4, as amended) is amended to read:
+11 "63-9H-4. REGULATION BY COMMISSION.--
+12 A. Except as otherwise provided in the Rural
+13 Telecommunications Act of New Mexico or the federal act, each
+14 public telecommunications service is declared to be affected
+15 with the public interest and, as such, subject to the
+16 provisions of those acts, including the regulation thereof as
+17 provided in those acts.
+18 B. The commission has exclusive jurisdiction to
+19 regulate incumbent rural telecommunications carriers only in
+20 the manner and to the extent authorized by the Rural
+21 Telecommunications Act of New Mexico, and Section 63-7-1.1
+22 NMSA 1978 does not apply; provided, however, that the
+23 commission's jurisdiction includes the regulation of
+24 wholesale rates, including access charges and interconnection
+25 agreements consistent with federal law and its enforcement SFC/SB 152
+Page 17
+
+1 and a determination of participation in low-income telephone
+2 service assistance programs pursuant to the Rural
+3 Telecommunications Act of New Mexico.
+4 C. The commission shall adopt rules consistent
+5 with the requirement for relaxed regulation for incumbent
+6 rural telecommunications carriers set forth in the Rural
+7 Telecommunications Act of New Mexico that provide for:
+8 (1) reduced filing requirements for
+9 applicants in rate increase proceedings under the Rural
+10 Telecommunications Act of New Mexico and proceedings under
+11 that act seeking payments from the fund; and
+12 (2) expedited consideration in all
+13 proceedings initiated pursuant to the Rural
+14 Telecommunications Act of New Mexico in order to reduce the
+15 cost and burden for incumbent rural telecommunications
+16 carriers and other applicants."
+17 SECTION 6. Section 63-9H-6 NMSA 1978 (being Laws 1999,
+18 Chapter 295, Section 6, as amended) is amended to read:
+19 "63-9H-6. STATE RURAL UNIVERSAL SERVICE FUND--
+20 ESTABLISHMENT.--
+21 A. The commission shall implement and maintain a
+22 "state rural universal service fund" to maintain and support
+23 universal service provided by eligible telecommunications
+24 carriers, including commercial mobile radio services
+25 carriers, as are determined by the commission. As used in SFC/SB 152
+Page 18
+
+1 this section, "universal service" means basic local exchange
+2 service, comparable retail alternative services at affordable
+3 rates, service pursuant to a low-income telecommunications
+4 assistance plan and broadband internet access service to
+5 unserved and underserved areas as determined by the
+6 commission.
+7 B. The fund shall be financed by a surcharge on
+8 intrastate retail public telecommunications services to be
+9 determined by the commission, excluding services provided
+10 pursuant to a low-income telecommunications assistance plan
+11 billed to end-user customers by a telecommunications carrier,
+12 and excluding all amounts from surcharges, gross receipts
+13 taxes, excise taxes, franchise fees and similar charges. For
+14 the purpose of funding the fund, the commission has the
+15 authority to apply the surcharge on intrastate retail public
+16 telecommunications services provided by telecommunications
+17 carriers, including commercial mobile radio services and
+18 voice over internet protocol services, at a competitively and
+19 technologically neutral rate or rates to be determined by the
+20 commission. The commission may establish the surcharge as a
+21 percentage of intrastate retail public telecommunications
+22 services revenue or as a fixed amount applicable to each
+23 communication connection. For purposes of this section, a
+24 "communication connection" means a voice-enabled telephone
+25 access line, wireless voice connection, unique voice over SFC/SB 152
+Page 19
+
+1 internet protocol service connection or other uniquely
+2 identifiable functional equivalent as determined by the
+3 commission. Such surcharges shall be competitively and
+4 technologically neutral. Money deposited in the fund is not
+5 public money, and the administration of the fund is not
+6 subject to the provisions of law regulating public funds.
+7 The commission shall not apply this surcharge to a private
+8 telecommunications network; to the state, a county, a
+9 municipality or other governmental entity; to a public school
+10 district; to a public institution of higher education; to
+11 eligible households that participate in the low-income
+12 telecommunications assistance program; to an Indian nation,
+13 tribe or pueblo; or to Native American customers who reside
+14 on tribal or pueblo land.
+15 C. The fund shall be competitively and
+16 technologically neutral, equitable and nondiscriminatory in
+17 its collection and distribution of funds, portable between
+18 eligible telecommunications carriers and additionally shall
+19 provide a specific, predictable and sufficient support
+20 mechanism as determined by the commission that ensures
+21 universal service in the state.
+22 D. The commission shall:
+23 (1) establish eligibility criteria for
+24 participation in the fund consistent with federal law that
+25 ensure the availability of universal service at affordable SFC/SB 152
+Page 20
+
+1 rates. The eligibility criteria shall not restrict or limit
+2 an eligible telecommunications carrier from receiving federal
+3 universal service support;
+4 (2) provide for the collection of the
+5 surcharge on a competitively neutral basis and for the
+6 administration and disbursement of money from the fund;
+7 (3) determine those services and areas
+8 requiring support from the fund;
+9 (4) provide for the separate administration
+10 and disbursement of federal universal service funds
+11 consistent with federal law; and
+12 (5) establish affordability benchmark rates
+13 for local residential and business services that shall be
+14 utilized in determining the level of support from the fund.
+15 The process for determining subsequent adjustments to the
+16 benchmark shall be established through a rulemaking.
+17 E. All incumbent telecommunications carriers and
+18 competitive carriers already designated as eligible
+19 telecommunications carriers for the fund shall be eligible
+20 for participation in the fund. All other carriers that
+21 choose to become eligible to receive support from the fund
+22 may petition the commission to be designated as an eligible
+23 telecommunications carrier for the fund. The commission may
+24 grant eligible carrier status to a competitive carrier in a
+25 rural area upon a finding that granting the application is in SFC/SB 152
+Page 21
+
+1 the public interest. In making a public interest finding,
+2 the commission may consider at least the following items:
+3 (1) the impact of designation of an
+4 additional eligible carrier on the size of the fund;
+5 (2) the unique advantages and disadvantages
+6 of the competitor's service offering; and
+7 (3) any commitments made regarding the
+8 quality of service.
+9 F. The commission shall adopt rules, including a
+10 provision for variances, for the implementation and
+11 administration of the fund in accordance with the provisions
+12 of this section. The rules shall enumerate the appropriate
+13 uses of fund support and any restrictions on the use of fund
+14 support by eligible telecommunications carriers. The rules
+15 shall require that through December 31, 2028, an eligible
+16 telecommunications carrier receiving support from the fund
+17 pursuant to Subsection K, L, M or N of this section shall
+18 expend no less than sixty percent of the support it receives
+19 to deploy and maintain broadband internet access services in
+20 rural areas of the state. In subsequent years, the rules
+21 shall require that an eligible telecommunications carrier
+22 receiving support from the fund pursuant to Subsection K, L,
+23 M or N of this section shall expend no less than one hundred
+24 percent of the support it receives to deploy and maintain
+25 broadband internet access services. The rules also shall SFC/SB 152
+Page 22
+
+1 provide for annual reporting by eligible telecommunications
+2 carriers verifying that the reporting carrier continues to
+3 meet the requirements for designation as an eligible
+4 telecommunications carrier for purposes of the fund and is in
+5 compliance with the commission's rules, including the
+6 provisions regarding use of support from the fund.
+7 G. The commission shall, upon implementation of
+8 the fund, select a neutral third-party administrator to
+9 collect, administer and disburse money from the fund under
+10 the supervision and control of the commission pursuant to
+11 established criteria and rules promulgated by the commission.
+12 The administrator may be reasonably compensated for the
+13 specified services from the surcharge proceeds to be received
+14 by the fund pursuant to Subsection B of this section. For
+15 purposes of this subsection, the commission shall not be a
+16 neutral third-party administrator.
+17 H. The fund established by the commission shall
+18 ensure the availability of universal service as determined
+19 by the commission at affordable rates in rural areas of the
+20 state; provided, however, that nothing in this section shall
+21 be construed as granting any authority to the commission to
+22 regulate broadband internet access services.
+23 I. The commission shall ensure that intrastate
+24 switched access charges are equal to interstate switched
+25 access charges established by the federal communications SFC/SB 152
+Page 23
+
+1 commission as of January 1, 2006. Nothing in this section
+2 shall preclude the commission from considering further
+3 adjustments to intrastate switched access charges based on
+4 changes to interstate switched access charges.
+5 J. To ensure that providers of intrastate retail
+6 communications service contribute to the fund and to further
+7 ensure that the surcharge determined pursuant to Subsection B
+8 of this section to be paid by the end-user customer will be
+9 held to a minimum, the commission shall adopt rules, or take
+10 other appropriate action, to require all such providers to
+11 participate in a plan to ensure accurate reporting.
+12 K. The commission shall authorize payments from
+13 the fund to incumbent local exchange carriers, in combination
+14 with revenue-neutral rate rebalancing up to the affordability
+15 benchmark rates. Beginning in 2018, the commission shall
+16 make access reduction support payments in the amount made
+17 from the fund in base year 2014, adjusted each year
+18 thereafter by:
+19 (1) the annual percentage change in the
+20 number of access lines served by the incumbent local exchange
+21 carriers receiving such support for the prior calendar year,
+22 as compared to base year 2014; and
+23 (2) changes in the affordability benchmark
+24 rates that have occurred since 2014.
+25 L. Notwithstanding the provisions of Subsection K SFC/SB 152
+Page 24
+
+1 of this section, the annual amount of access reduction
+2 support payments for an eligible incumbent local exchange
+3 carrier in each year shall be equal to the annual access
+4 reduction support payments for that eligible incumbent local
+5 exchange carrier for the year 2023.
+6 M. The commission shall determine the methodology
+7 to be used to authorize payments to all other carriers that
+8 apply for and receive eligible carrier status; provided that:
+9 (1) an eligible incumbent telecommunications
+10 carrier that is not eligible for funding pursuant to rate
+11 rebalancing in Subsection K of this section and that has been
+12 previously authorized pursuant to Subsection N of this
+13 section for need-based support may apply for ongoing fund
+14 support at the annual amount previously authorized in 2023;
+15 (2) the commission shall award an applicant
+16 ongoing fund support at no less than the average access line
+17 amount of funding support for comparable carriers;
+18 (3) the commission shall act upon a request
+19 for ongoing fund support within one hundred twenty days of
+20 the filing of the request; and
+21 (4) nothing in this subsection shall limit
+22 the commission's authority to adopt rules regarding
+23 appropriate uses of fund support and any restrictions on the
+24 use of the fund support by eligible telecommunications
+25 carriers. SFC/SB 152
+Page 25
+
+1 N. The commission may also authorize payments from
+2 the fund to incumbent rural telecommunications carriers or to
+3 telecommunications carriers providing comparable retail
+4 alternative services that have been designated as eligible
+5 telecommunications carriers serving in rural areas of the
+6 state upon a finding, based on factors that may include a
+7 carrier's regulated revenues, expenses or investment, by the
+8 commission that such payments are needed to ensure the
+9 widespread availability and affordability of universal
+10 service. The commission shall decide cases filed pursuant to
+11 this subsection with reasonable promptness, with or without a
+12 hearing, but no later than six months following the filing of
+13 an application seeking payments from the fund, unless the
+14 commission finds that a longer time will be required, in
+15 which case the commission may extend the period for an
+16 additional three months."
+17 SECTION 7. A new section of the Rural
+18 Telecommunications Act of New Mexico is enacted to read:
+19 "LOW-INCOME TELECOMMUNICATIONS ASSISTANCE AND BROADBAND
+20 PROGRAMS--REPORTS.--
+21 A. By January 1, 2027, the commission shall
+22 promulgate rules to implement a low-income telecommunications
+23 assistance program to ensure affordable access to
+24 telecommunications services to eligible low-income households
+25 in New Mexico. Rules adopted pursuant to this subsection SFC/SB 152
+Page 26
+
+1 shall:
+2 (1) complement the lifeline program
+3 administered by the federal communications commission or a
+4 successor federal broadband affordability program;
+5 (2) mirror quality of service standards for
+6 fixed broadband and mobile broadband provided to a broadband
+7 serviceable location established by the federal
+8 communications commission;
+9 (3) establish a mechanism by which a
+10 participating eligible telecommunications carrier may be
+11 reimbursed from the fund for reduced rates provided to
+12 eligible households at levels up to the retail charges for
+13 qualifying services;
+14 (4) require participating eligible
+15 telecommunications carriers to use the national verifier or
+16 national lifeline accountability database administered by the
+17 federal communications commission, a successor federal
+18 broadband affordability database or an alternative mechanism
+19 approved by the commission to verify eligible households
+20 under Paragraph (5) of this subsection; and
+21 (5) provide for an eligible
+22 telecommunications carrier to provide assistance in the form
+23 of reduced rates to households that:
+24 (a) include a student identified by the
+25 public education department who is determined to be at risk SFC/SB 152
+Page 27
+
+1 pursuant to the final judgment in the Yazzie/Martinez v.
+2 State of New Mexico consolidated lawsuit;
+3 (b) meet the eligibility criteria of
+4 one or more need-based assistance programs administered by
+5 the health care authority; or
+6 (c) are eligible for support under the
+7 federal lifeline program or a successor program.
+8 B. Subject to state and federal laws and
+9 regulations governing the sharing of confidential
+10 information, the public education department and health care
+11 authority shall cooperate with the commission and eligible
+12 telecommunications carriers in identifying those persons
+13 eligible for assistance from the low-income
+14 telecommunications assistance program.
+15 C. The commission shall adopt rules to establish
+16 and implement a broadband program to provide funding to
+17 assist eligible telecommunications carriers in the
+18 construction or maintenance of rural broadband infrastructure
+19 to ensure that all New Mexico residents have access to
+20 broadband internet access service that meets the quality of
+21 service standards established pursuant to the Broadband
+22 Access and Expansion Act or by the federal communications
+23 commission if state standards are not established pursuant to
+24 the Broadband Access and Expansion Act; provided that rules
+25 adopted pursuant to this subsection shall: SFC/SB 152
+Page 28
+
+1 (1) consider applications for funding on a
+2 technology-neutral basis;
+3 (2) require that applications for funding be
+4 submitted to the office for prioritization and alignment with
+5 the statewide broadband plan;
+6 (3) require that the awards of support be
+7 consistent with federal universal service support programs;
+8 and
+9 (4) require tribal consent for all
+10 applications that propose to provide service on the sovereign
+11 land of an Indian nation, tribe or pueblo in New Mexico.
+12 D. By October 1 of each year, the commission shall
+13 make a report to the interim committee that studies economic
+14 and rural development, the legislative finance committee, the
+15 legislative education study committee and the interim
+16 committee that studies technology and telecommunications
+17 regarding the status of the broadband program and the
+18 low-income telecommunications assistance program. The report
+19 shall be shared with the office, the public education
+20 department and the health care authority. The report shall
+21 include, at a minimum:
+22 (1) the number of households receiving
+23 assistance from the low-income telecommunications assistance
+24 program pursuant to this section;
+25 (2) the number of households in New Mexico SFC/SB 152
+Page 29
+
+1 eligible for low-income telecommunications assistance
+2 pursuant to this section based on eligible households
+3 identified by the public education department, the health
+4 care authority and the federal communications commission;
+5 (3) the estimated cost of providing
+6 low-income telecommunications assistance to all eligible
+7 households in New Mexico;
+8 (4) the service areas that received funding
+9 awards from the broadband program, the amounts of those
+10 awards and the nature of the awards;
+11 (5) the proposed construction time lines for
+12 all new broadband construction;
+13 (6) a comparison of the annual broadband
+14 operation and maintenance funding provided by the commission
+15 each year, broken down by individual carrier;
+16 (7) recommendations for changes to the
+17 structure, size and purposes of the fund, including:
+18 (a) whether the cap on the low-income
+19 telecommunications assistance program provided for in
+20 Subsection C of Section 8 of this 2026 act should be
+21 modified, maintained or eliminated; and
+22 (b) whether the cap on the broadband
+23 program provided for in Subsection B of Section 8 of this
+24 2026 act should be modified, maintained or eliminated;
+25 (8) details regarding collaboration with the SFC/SB 152
+Page 30
+
+1 office in the implementation and operation of the broadband
+2 program; and
+3 (9) details regarding collaboration with the
+4 public education department and the health care authority in
+5 the implementation and operation of the low-income
+6 telecommunications assistance program."
+7 SECTION 8. A new section of the Rural
+8 Telecommunications Act of New Mexico is enacted to read:
+9 "STATE RURAL UNIVERSAL SERVICE FUND BUDGET CAPS.--The
+10 total obligations of the fund determined by the commission,
+11 plus administrative expenses and a prudent fund balance,
+12 shall not exceed a cap of:
+13 A. eighteen million dollars ($18,000,000) pursuant
+14 to the access reduction support, need-based support and
+15 comparable carrier support in Subsections K through N of
+16 Section 63-9H-6 NMSA 1978;
+17 B. twelve million dollars ($12,000,000) pursuant
+18 to the broadband program in Subsection C of Section 7 of this
+19 2026 act; and
+20 C. pursuant to the low-income telecommunications
+21 assistance program:
+22 (1) ten million dollars ($10,000,000) in the
+23 first year of the program; and
+24 (2) forty-five million dollars ($45,000,000)
+25 per year in subsequent years of the program." SFC/SB 152
+Page 31
+
+1 SECTION 9. REPEAL.--Sections 63-9C-1 through 63-9C-6
+2 NMSA 1978 (being Laws 1987, Chapter 197, Sections 1 through
+3 6, as amended) are repealed.
+4 SECTION 10. EFFECTIVE DATE.--The effective date of the
+5 provisions of this act is July 1, 2026. SFC/SB 152
+Page 32
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+[DELETED:  S]

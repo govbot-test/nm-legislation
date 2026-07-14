@@ -1,0 +1,1135 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2 RELATING TO PUBLIC SCHOOLS; AMENDING THE PUBLIC SCHOOL
+3 FINANCE ACT; REQUIRING SCHOOL DISTRICTS AND CHARTER SCHOOLS
+4 TO REPORT MEMBERSHIP ESTIMATES OF STUDENTS TO BE ENROLLED AS
+5 DISTANCE LEARNING STUDENTS; REQUIRING SCHOOL DISTRICTS AND
+6 CHARTER SCHOOLS TO MAINTAIN CERTAIN RECORDS REGARDING
+7 STUDENTS ENROLLED IN A DISTANCE LEARNING PROGRAM; EXCLUDING A
+8 SCHOOL DISTRICT'S MEMBERSHIP OF STUDENTS ENROLLED IN DISTANCE
+9 LEARNING PROGRAMS FROM THE CALCULATION FOR SIZE ADJUSTMENT
+10 PROGRAM UNITS; AMENDING THE STATEWIDE CYBER ACADEMY ACT AND
+11 RENAMING THAT ACT THE "DISTANCE LEARNING ACT"; REMOVING
+12 EXISTING DEFINITIONS AND DEFINING NEW TERMS IN THE PUBLIC
+13 SCHOOL FINANCE ACT AND THE DISTANCE LEARNING ACT; REMOVING
+14 THE REQUIREMENT THAT THE STATEWIDE CYBER ACADEMY BE A
+15 COLLABORATIVE PROGRAM; PROVIDING ALL-NEW REQUIREMENTS FOR
+16 SCHOOL DISTRICTS AND CHARTER SCHOOLS THAT OPERATE DISTANCE
+17 LEARNING PROGRAMS; PLACING RESTRICTIONS ON STUDENT ENROLLMENT
+18 IN DISTANCE LEARNING PROGRAMS AND PROVIDING EXCEPTIONS;
+19 CLARIFYING THE REQUIREMENTS OF SCHOOL DISTRICTS AND CHARTER
+20 SCHOOLS REGARDING DISTANCE LEARNING AND STUDENTS WITH
+21 DISABILITIES; REQUIRING PUBLIC EDUCATION DEPARTMENT
+22 EVALUATION OF DISTANCE LEARNING PROGRAMS; MAKING CONFORMING
+23 AMENDMENTS; ENACTING TEMPORARY PROVISIONS RELATING TO THE
+24 PUBLIC SCHOOL FINANCE ACT; ENACTING TEMPORARY PROVISIONS
+25 RELATING TO THE DISTANCE LEARNING ACT; REPEALING SECTION HEC/HB 253/a/ec
+Page 1
+1 22-30-8 NMSA 1978 (BEING LAWS 2007, CHAPTER 292, SECTION 7
+2 AND LAWS 2007, CHAPTER 293, SECTION 7); DECLARING AN
+3 EMERGENCY.
+4
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+6 SECTION 1. Section 22-8-2 NMSA 1978 (being Laws 1978,
+7 Chapter 128, Section 3, as amended) is amended to read:
+8 "22-8-2. DEFINITIONS.--As used in the Public School
+9 Finance Act:
+10 A. "ADM" or "MEM" means membership;
+11 B. "membership" means the total enrollment of
+12 qualified students on the current roll of a class or school
+13 on a specified day. The current roll is established by the
+14 addition of original entries and reentries minus withdrawals.
+15 Withdrawals of students, in addition to students formally
+16 withdrawn from the public school, include students absent
+17 from the public school for as many as ten consecutive school
+18 days; provided that withdrawals do not include students who
+19 are in need of intervention or who are chronically or
+20 excessively absent;
+21 C. "basic program ADM" or "basic program MEM"
+22 means the MEM of qualified students but excludes the full-
+23 time-equivalent MEM in early childhood education and three-
+24 and four-year-old students receiving special education
+25 services; HEC/HB 253/a/ec
+Page 2
+1 D. "cost differential factor" is the numerical
+2 expression of the ratio of the cost of a particular segment
+3 of the school program to the cost of the basic program in
+4 grades four through six;
+5 E. "department" or "division" means the public
+6 education department;
+7 F. "distance learning student" means a qualified
+8 student who receives full-time virtual instruction and is not
+9 required to attend school at a school building;
+10 G. "early childhood education ADM" or "early
+11 childhood education MEM" means the full-time-equivalent MEM
+12 of students attending approved early childhood education
+13 programs;
+14 H. "family income index rate" means the percentage
+15 of students in a school district or charter school that is
+16 identified as either extremely low income or very low income
+17 by the family income index;
+18 I. "full-time-equivalent ADM" or "full-time-
+19 equivalent MEM" is that membership calculated by applying to
+20 the MEM in an approved public school program the ratio of the
+21 number of hours per school day devoted to the program to six
+22 hours or the number of hours per school week devoted to the
+23 program to thirty hours;
+24 J. "operating budget" means the annual financial
+25 plan and educational plan required to be submitted by a local HEC/HB 253/a/ec
+Page 3
+1 school board or governing body of a state-chartered charter
+2 school;
+3 K. "performance measure" means a quantitative
+4 indicator used to assess the output or outcome of an approved
+5 program;
+6 L. "performance target" means the expected level
+7 of performance of a program's performance measure;
+8 M. "program cost" is the product of the total
+9 number of program units to which a school district is
+10 entitled multiplied by the dollar value per program unit
+11 established by the legislature;
+12 N. "program element" is that component of a public
+13 school system to which a cost differential factor is applied
+14 to determine the number of program units to which a school
+15 district is entitled, including MEM, full-time-equivalent
+16 MEM, teacher, classroom or public school;
+17 O. "program unit" is the product of the program
+18 element multiplied by the applicable cost differential
+19 factor;
+20 P. "public money" or "public funds" means all
+21 money from public or private sources received by a school
+22 district or state-chartered charter school or officer or
+23 employee of a school district or state-chartered charter
+24 school for public use;
+25 Q. "qualified student" means a public school HEC/HB 253/a/ec
+Page 4
+1 student who:
+2 (1) has not graduated from high school;
+3 (2) is regularly enrolled in one-half or
+4 more of the minimum course requirements approved by the
+5 department for public school students; and
+6 (3) in terms of age and other criteria:
+7 (a) is at least five years of age prior
+8 to 12:01 a.m. on September 1 of the school year;
+9 (b) is at least three years of age at
+10 any time during the school year and is receiving special
+11 education services pursuant to rules of the department;
+12 (c) except as provided in Subparagraph
+13 (d) of this paragraph, has not reached the student's twenty-
+14 second birthday on the first day of the school year; or
+15 (d) has reached the student's twenty-
+16 second birthday on the first day of the 2019-2020 school
+17 year, is counted in a school district's or charter school's
+18 MEM on the third reporting date of the 2018-2019 school year,
+19 has been continuously enrolled in the same public school
+20 since that reporting date and is still enrolled in that
+21 school;
+22 R. "rural population rate" means that proportion
+23 of the total population within a school district's geographic
+24 boundaries that lives in a rural area and not in an urban
+25 area as defined by the United States census bureau; HEC/HB 253/a/ec
+Page 5
+1 S. "staffing cost multiplier" means the teacher
+2 cost index; and
+3 T. "state superintendent" or "secretary" means the
+4 secretary of public education or the secretary's designee."
+5 SECTION 2. Section 22-8-12.1 NMSA 1978 (being Laws
+6 1978, Chapter 128, Section 5, as amended) is amended to read:
+7 "22-8-12.1. MEMBERSHIP PROJECTIONS AND BUDGET
+8 REQUESTS.--
+9 A. On or before October 15 of each year, each
+10 local school board or governing body of a state-chartered
+11 charter school shall submit to the department:
+12 (1) an estimate for the succeeding fiscal
+13 year of:
+14 (a) the membership of qualified
+15 students to be enrolled in the basic program;
+16 (b) the membership of students to be
+17 enrolled as distance learning students;
+18 (c) the full-time-equivalent membership
+19 of students to be enrolled in approved early childhood
+20 education programs; and
+21 (d) the membership of students to be
+22 enrolled in approved special education programs;
+23 (2) all other information necessary to
+24 calculate program costs; and
+25 (3) any other information related to the HEC/HB 253/a/ec
+Page 6
+1 financial needs of the school district or state-chartered
+2 charter school as may be requested by the department.
+3 B. The information submitted pursuant to
+4 Subsection A of this section shall be submitted on forms
+5 prescribed and furnished by the department and in accordance
+6 with the department's rules and procedures.
+7 C. The department shall:
+8 (1) review the financial needs of each
+9 school district or state-chartered charter school for the
+10 succeeding fiscal year;
+11 (2) on or before September 1 of each year,
+12 submit to the department of finance and administration, the
+13 legislative finance committee and the legislative education
+14 study committee the department's recommendations for:
+15 (a) amendments to the public school
+16 finance formula;
+17 (b) appropriations for the succeeding
+18 fiscal year to the public school fund; and
+19 (c) appropriations for the succeeding
+20 fiscal year for pupil transportation and instructional
+21 materials; and
+22 (3) on or before November 30 of each year,
+23 submit to the department of finance and administration, the
+24 legislative finance committee and the legislative education
+25 study committee any adjustments to the department's HEC/HB 253/a/ec
+Page 7
+1 recommendations for appropriations related to additional
+2 enrollment growth program units pursuant to Section 22-8-23.1
+3 NMSA 1978."
+4 SECTION 3. Section 22-8-13 NMSA 1978 (being Laws 1974,
+5 Chapter 8, Section 3, as amended) is amended to read:
+6 "22-8-13. REPORTS.--
+7 A. Each public school shall keep accurate records
+8 concerning membership in the public school.
+9 B. The dates for which MEM is reported are as
+10 follows:
+11 (1) the first reporting date is the second
+12 Wednesday in October of each year;
+13 (2) the second reporting date is December 1
+14 or the first working day in December of each year; and
+15 (3) the third reporting date is the second
+16 Wednesday in February of each year.
+17 C. The superintendent of each school district or
+18 head administrator of each state-chartered charter school
+19 shall maintain the following reports for each reporting
+20 period:
+21 (1) the basic program MEM by grade in each
+22 public school;
+23 (2) the early childhood education MEM;
+24 (3) the special education MEM in each public
+25 school in class C and class D programs as defined in Section HEC/HB 253/a/ec
+Page 8
+1 22-8-21 NMSA 1978;
+2 (4) the number of class A and class B
+3 programs as defined in Section 22-8-21 NMSA 1978;
+4 (5) the full-time-equivalent MEM for
+5 bilingual multicultural education programs; and
+6 (6) the distance-learning-student MEM by
+7 grade in each public school.
+8 D. The superintendent of each school district and
+9 the head administrator of each state-chartered charter school
+10 shall furnish all reports required by law or the department
+11 to the department on or before the close of each reporting
+12 period or as otherwise requested by the department. Failure
+13 of the department to approve timely submissions shall not
+14 cause a school district or charter school to be found
+15 noncompliant with the requirements of this section.
+16 E. For purposes of this section, "working day"
+17 means every calendar day excluding Saturdays, Sundays and
+18 legal holidays.
+19 F. The information required pursuant to this
+20 section shall be submitted in a manner prescribed by the
+21 department. A copy of any report made pursuant to this
+22 section shall be kept as a permanent record of the school
+23 district or charter school and shall be subject to inspection
+24 and audit at any reasonable time.
+25 G. The department may withhold up to one hundred HEC/HB 253/a/ec
+Page 9
+1 percent of allotments of funds to any school district or
+2 state-chartered charter school where the superintendent or
+3 head administrator has failed to comply with the requirements
+4 of this section. The withholding may continue until the
+5 superintendent or head administrator complies with and agrees
+6 to continue complying with the requirements of this section.
+7 H. The provisions of this section may be modified
+8 or suspended by the department for any school district,
+9 school or state-chartered charter school operating under the
+10 Variable School Calendar Act. The department shall require
+11 MEM reports consistent with the calendar of operations of
+12 such school district, school or state-chartered charter
+13 school and shall calculate an equivalent MEM for use in
+14 projecting school district or charter school revenue."
+15 SECTION 4. Section 22-8-23 NMSA 1978 (being Laws 1975,
+16 Chapter 119, Section 1, as amended by Laws 2019, Chapter 206,
+17 Section 14 and by Laws 2019, Chapter 207, Section 14) is
+18 amended to read:
+19 "22-8-23. SIZE ADJUSTMENT PROGRAM UNITS.--
+20 A. An approved public school with a MEM of fewer
+21 than four hundred, including early childhood education full-
+22 time-equivalent MEM but excluding membership in class C and
+23 class D programs and excluding full-time-equivalent
+24 membership in three- and four-year-old developmentally
+25 disabled programs, that is geographically located in a school HEC/HB 253/a/ec
+Page 10
+1 district with fewer than two thousand MEM, is eligible for
+2 additional program units. Separate schools established to
+3 provide special programs, including vocational and
+4 alternative education, shall not be classified as public
+5 schools for purposes of generating size adjustment program
+6 units. The number of additional program units to which a
+7 school district or charter school is entitled under this
+8 subsection is the sum of elementary-junior high units and
+9 senior high units computed in the following manner:
+10 Elementary-Junior High Units
+11 200 - MEM
+12 _________ x 1.0 x MEM = Units
+13 200
+14 where MEM is equal to the membership of an approved
+15 elementary or junior high school, including early childhood
+16 education full-time-equivalent membership but excluding
+17 membership in class C and class D programs and excluding
+18 full-time-equivalent membership in three- and four-year-old
+19 developmentally disabled programs;
+20 Senior High Units
+21 200 - MEM
+22 _________ x 2.0 x MEM = Units
+23 200
+24 or,
+25 Senior High Units HEC/HB 253/a/ec
+Page 11
+1 400 - MEM
+2 _________ x 1.6 x MEM = Units
+3 400
+4 whichever calculation for senior high units is higher, where
+5 MEM is equal to the membership of an approved senior high
+6 school, excluding membership in class C and class D programs.
+7 B. An approved public school with a MEM of fewer
+8 than four hundred, including early childhood education full-
+9 time-equivalent MEM but excluding MEM in class C and class D
+10 programs and excluding full-time-equivalent MEM in three- and
+11 four-year-old developmentally disabled programs,
+12 geographically located in a school district with two thousand
+13 MEM or more is eligible for additional program units computed
+14 in the following manner:
+15 (1) for fiscal year 2020, eighty percent of
+16 the sum of elementary-junior high units and senior high units
+17 as prescribed in Subsection A of this section;
+18 (2) for fiscal year 2021, sixty percent of
+19 the sum of elementary-junior high units and senior high units
+20 as prescribed in Subsection A of this section;
+21 (3) for fiscal year 2022, forty percent of
+22 the sum of elementary-junior high units and senior high units
+23 as prescribed in Subsection A of this section;
+24 (4) for fiscal year 2023, twenty percent of
+25 the sum of elementary-junior high units and senior high units HEC/HB 253/a/ec
+Page 12
+1 as prescribed in Subsection A of this section; and
+2 (5) for fiscal year 2024 and subsequent
+3 fiscal years, no elementary-junior high units and senior high
+4 units as prescribed in Subsection A of this section.
+5 C. A school district with total MEM of fewer than
+6 four thousand, including early childhood education full-time-
+7 equivalent MEM, is eligible for additional program units.
+8 The number of additional program units to which a school
+9 district is entitled under this subsection is the number of
+10 district units computed in the following manner:
+11 District Units
+12 4,000 - MEM
+13 ___________ x 0.15 x MEM = Units
+14 4,000
+15 where MEM is equal to the total district membership,
+16 including early childhood education full-time-equivalent
+17 membership.
+18 D. A school district with a MEM of fewer than two
+19 hundred, including early childhood education full-time-
+20 equivalent MEM, is eligible for additional program units if
+21 the department certifies that the school district has
+22 implemented practices to reduce scale inefficiencies,
+23 including shared service agreements with regional education
+24 cooperatives or other school districts for noninstructional
+25 functions and distance education. The numbers of additional HEC/HB 253/a/ec
+Page 13
+1 program units to which a school district is entitled under
+2 this subsection is the number of units computed in the
+3 following manner:
+4 200 - MEM = Units
+5 where MEM is equal to the total district MEM, including early
+6 childhood education full-time-equivalent MEM.
+7 E. A school district with a rural population rate
+8 greater than forty percent or a charter school initially
+9 chartered before July 1, 2018 and geographically located in a
+10 school district with a rural population rate greater than
+11 forty percent is eligible for additional program units. The
+12 number of additional program units to which a school district
+13 or charter school is entitled pursuant to this subsection is
+14 determined by multiplying the full-time-equivalent MEM by the
+15 rural population rate and the cost differential factor of
+16 0.15; provided that the full-time-equivalent MEM used for
+17 this determination does not include membership derived from
+18 distance learning students."
+19 SECTION 5. Section 22-30-1 NMSA 1978 (being Laws 2007,
+20 Chapter 292, Section 1 and Laws 2007, Chapter 293, Section 1)
+21 is amended to read:
+22 "22-30-1. SHORT TITLE.--Chapter 22, Article 30 NMSA
+23 1978 may be cited as the "Distance Learning Act"."
+24 SECTION 6. Section 22-30-2 NMSA 1978 (being Laws 2007,
+25 Chapter 292, Section 2 and Laws 2007, Chapter 293, Section 2) HEC/HB 253/a/ec
+Page 14
+1 is amended to read:
+2 "22-30-2. DEFINITIONS.--As used in the Distance
+3 Learning Act:
+4 A. "distance learning course" means an educational
+5 course provided through virtual instruction;
+6 B. "distance learning student" means a qualified
+7 student in accordance with the provisions of the Public
+8 School Finance Act who is enrolled in a full-time distance
+9 learning program; and
+10 C. "full-time distance learning program" means a
+11 public school instructional program in which students receive
+12 virtual instruction and are not required to attend school at
+13 a school building."
+14 SECTION 7. Section 22-30-3 NMSA 1978 (being Laws 2007,
+15 Chapter 292, Section 3 and Laws 2007, Chapter 293, Section 3)
+16 is amended to read:
+17 "22-30-3. STATEWIDE CYBER ACADEMY CREATED.--The
+18 "statewide cyber academy" is created as a program in the
+19 department. The statewide cyber academy may provide distance
+20 learning courses for sixth grade through twelfth grade and
+21 professional development for teachers, instructional support
+22 providers and school administrators."
+23 SECTION 8. Section 22-30-4 NMSA 1978 (being Laws 2007,
+24 Chapter 292, Section 4 and Laws 2007, Chapter 293, Section 4)
+25 is amended to read: HEC/HB 253/a/ec
+Page 15
+1 "22-30-4. DEPARTMENT RULES.--The department shall
+2 promulgate rules to carry out the provisions of the Distance
+3 Learning Act."
+4 SECTION 9. Section 22-30-5 NMSA 1978 (being Laws 2007,
+5 Chapter 292, Section 5 and Laws 2007, Chapter 293, Section 5)
+6 is amended to read:
+7 "22-30-5. FULL-TIME DISTANCE LEARNING PROGRAM--
+8 DUTIES.--
+9 A. A school district or charter school that offers
+10 a full-time distance learning program shall:
+11 (1) administer the program in compliance
+12 with the Public School Code, including Section 22-2-8.1 NMSA
+13 1978 regarding required instructional hours and Section
+14 22-10A-20 NMSA 1978 regarding class load and teaching load
+15 limits;
+16 (2) administer the program in compliance
+17 with state and federal law regarding student privacy, student
+18 record confidentiality and secure student record storage;
+19 (3) only provide distance learning courses
+20 that are taught by licensed teachers or faculty members of
+21 accredited post-secondary educational institutions and that
+22 meet the department's academic content and performance
+23 standards;
+24 (4) on or before October 15 of each year,
+25 notify the department as to the number of students enrolled HEC/HB 253/a/ec
+Page 16
+1 in the program and the grade level of the enrolled students;
+2 and
+3 (5) maintain records of the district's or
+4 charter school's expenditures related to the program and
+5 furnish the records to the department at the department's
+6 request and in the manner prescribed by the department.
+7 B. A school district or charter school that
+8 operates a full-time distance learning program shall not
+9 expand the program to an additional grade level unless the
+10 school district or charter school certifies to the department
+11 that the program has sufficient courses for a full
+12 instructional program for the additional grade level."
+13 SECTION 10. Section 22-30-6 NMSA 1978 (being Laws 2007,
+14 Chapter 292, Section 6 and Laws 2007, Chapter 293, Section 6)
+15 is amended to read:
+16 "22-30-6. DISTANCE LEARNING STUDENTS--ENROLLMENT.--
+17 A. A school district shall not require a student
+18 to enroll in a full-time distance learning program.
+19 B. A charter school shall not require a student to
+20 enroll in a full-time distance learning program.
+21 C. The provisions of Subsections A and B of this
+22 section do not apply to a school district or charter school
+23 if temporary enrollment of the district's or charter school's
+24 students in a full-time distance learning program is
+25 necessary or appropriate during a public health emergency HEC/HB 253/a/ec
+Page 17
+1 declared pursuant to the Public Health Emergency Response
+2 Act."
+3 SECTION 11. Section 22-30-7 NMSA 1978 (being Laws 2003,
+4 Chapter 162, Section 2) is amended to read:
+5 "22-30-7. DISTANCE LEARNING AND COMPUTER-BASED
+6 COURSES.--A school district or charter school that has a
+7 full-time distance learning program or offers distance
+8 learning courses or other computer-based courses of study
+9 shall provide accompanying instructional materials or other
+10 materials in an electronic format usable by a person with a
+11 disability or compatible with the person's assistive
+12 technology."
+13 SECTION 12. A new section of the Distance Learning Act
+14 is enacted to read:
+15 "DEPARTMENT EVALUATION OF PROGRAMS.--By the end of the
+16 2028-2029 school year and at least every five years
+17 thereafter, the department shall evaluate all full-time
+18 distance learning programs to certify that the programs are
+19 in compliance with the Public School Code and related rules,
+20 including provisions related to instructional hours, class
+21 load and teaching load limits. If the department determines
+22 that a full-time distance learning program was not in
+23 compliance during the period preceding the evaluation, the
+24 department may withhold up to one hundred percent of
+25 allotments of funding for distance learning students from the HEC/HB 253/a/ec
+Page 18
+1 school district or state-chartered charter school that
+2 operates the full-time distance learning program until the
+3 local superintendent or head administrator submits, and the
+4 department approves, a plan by which the school district or
+5 state-chartered charter school will come into compliance with
+6 the Public School Code and related rules."
+7 SECTION 13. TEMPORARY PROVISIONS.--
+8 A. For the purposes of the Public School Finance
+9 Act in fiscal year 2026, a school district with MEM over
+10 eight thousand whose MEM on the first reporting date of
+11 fiscal year 2026 is at least ten percent lower than the
+12 school district's MEM on the first reporting date of fiscal
+13 year 2025 shall calculate the total number of program units
+14 to which the school district is entitled by averaging the
+15 school district's MEM on the first reporting date of fiscal
+16 year 2025 and the school district's MEM on the first
+17 reporting date of fiscal year 2026.
+18 B. For the purposes of the Public School Finance
+19 Act in fiscal years 2026 and 2027, a school district is not
+20 eligible for enrollment growth program units pursuant to
+21 Section 22-8-23.1 NMSA 1978 for students enrolled in a full-
+22 time distance learning program.
+23 C. For fiscal year 2027, a school district or
+24 charter school shall not reorganize to create a school
+25 district, school or school program that has a majority of HEC/HB 253/a/ec
+Page 19
+1 students enrolled in a full-time distance learning program.
+2 D. The legislative education study committee, in
+3 collaboration with the legislative finance committee and the
+4 public education department, shall conduct a comprehensive
+5 study on virtual instruction in the state. The study shall
+6 evaluate the status of full-time distance learning programs
+7 or similar programs and assess the outcomes of students
+8 enrolled in the programs, with particular focus on those
+9 students who are in kindergarten through fifth grade, the
+10 cost of operating the programs and potential legislative
+11 action regarding full-time distance learning programs. On or
+12 before November 1, 2026, the legislative education study
+13 committee shall submit a final report on the comprehensive
+14 study to the governor, the public education department and
+15 the legislative finance committee.
+16 E. As used in this section, "full-time distance
+17 learning program" means a public school instructional program
+18 in which students receive virtual instruction and are not
+19 required to attend school at a school building.
+20 SECTION 14. REPEAL.--Section 22-30-8 NMSA 1978 (being
+21 Laws 2007, Chapter 292, Section 7 and Laws 2007, Chapter 293,
+22 Section 7) is repealed.
+23 SECTION 15. EFFECTIVE DATE.--The effective date of the
+24 provisions of Sections 1 through 12 and 14 of this act is
+25 July 1, 2026. HEC/HB 253/a/ec
+Page 20
+1 SECTION 16. EMERGENCY.--It is necessary for the public
+2 peace, health and safety that this act take effect
+3 immediately. HEC/HB 253/a/ec
+Page 21
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+[DELETED: _x_x]
+[DELETED: _x]
+[DELETED: _x]
+[DELETED:  S]
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO PUBLIC SCHOOLS; AMENDING THE PUBLIC SCHOOL
+3 FINANCE ACT; REQUIRING SCHOOL DISTRICTS AND CHARTER SCHOOLS
+4 TO REPORT MEMBERSHIP ESTIMATES OF STUDENTS TO BE ENROLLED AS
+5 DISTANCE LEARNING STUDENTS; REQUIRING SCHOOL DISTRICTS AND
+6 CHARTER SCHOOLS TO MAINTAIN CERTAIN RECORDS REGARDING
+7 STUDENTS ENROLLED IN A DISTANCE LEARNING PROGRAM; EXCLUDING A
+8 SCHOOL DISTRICT'S MEMBERSHIP OF STUDENTS ENROLLED IN DISTANCE
+9 LEARNING PROGRAMS FROM THE CALCULATION FOR SIZE ADJUSTMENT
+10 PROGRAM UNITS; AMENDING THE STATEWIDE CYBER ACADEMY ACT AND
+11 RENAMING THAT ACT THE "DISTANCE LEARNING ACT"; REMOVING
+12 EXISTING DEFINITIONS AND DEFINING NEW TERMS IN THE PUBLIC
+13 SCHOOL FINANCE ACT AND THE DISTANCE LEARNING ACT; REMOVING
+14 THE REQUIREMENT THAT THE STATEWIDE CYBER ACADEMY BE A
+15 COLLABORATIVE PROGRAM; PROVIDING ALL-NEW REQUIREMENTS FOR
+16 SCHOOL DISTRICTS AND CHARTER SCHOOLS THAT OPERATE DISTANCE
+17 LEARNING PROGRAMS; PLACING RESTRICTIONS ON STUDENT ENROLLMENT
+18 IN DISTANCE LEARNING PROGRAMS AND PROVIDING EXCEPTIONS;
+19 CLARIFYING THE REQUIREMENTS OF SCHOOL DISTRICTS AND CHARTER
+20 SCHOOLS REGARDING DISTANCE LEARNING AND STUDENTS WITH
+21 DISABILITIES; REQUIRING PUBLIC EDUCATION DEPARTMENT
+22 EVALUATION OF DISTANCE LEARNING PROGRAMS; MAKING CONFORMING
+23 AMENDMENTS; ENACTING TEMPORARY PROVISIONS RELATING TO THE
+24 PUBLIC SCHOOL FINANCE ACT; ENACTING TEMPORARY PROVISIONS
+25 RELATING TO THE DISTANCE LEARNING ACT; REPEALING SECTION HEC/HB 253/a/ec
+Page 1
+
+1 22-30-8 NMSA 1978 (BEING LAWS 2007, CHAPTER 292, SECTION 7
+2 AND LAWS 2007, CHAPTER 293, SECTION 7); DECLARING AN
+3 EMERGENCY.
+4
+5 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+6 SECTION 1. Section 22-8-2 NMSA 1978 (being Laws 1978,
+7 Chapter 128, Section 3, as amended) is amended to read:
+8 "22-8-2. DEFINITIONS.--As used in the Public School
+9 Finance Act:
+10 A. "ADM" or "MEM" means membership;
+11 B. "membership" means the total enrollment of
+12 qualified students on the current roll of a class or school
+13 on a specified day. The current roll is established by the
+14 addition of original entries and reentries minus withdrawals.
+15 Withdrawals of students, in addition to students formally
+16 withdrawn from the public school, include students absent
+17 from the public school for as many as ten consecutive school
+18 days; provided that withdrawals do not include students who
+19 are in need of intervention or who are chronically or
+20 excessively absent;
+21 C. "basic program ADM" or "basic program MEM"
+22 means the MEM of qualified students but excludes the full-
+23 time-equivalent MEM in early childhood education and three-
+24 and four-year-old students receiving special education
+25 services; HEC/HB 253/a/ec
+Page 2
+
+1 D. "cost differential factor" is the numerical
+2 expression of the ratio of the cost of a particular segment
+3 of the school program to the cost of the basic program in
+4 grades four through six;
+5 E. "department" or "division" means the public
+6 education department;
+7 F. "distance learning student" means a qualified
+8 student who receives full-time virtual instruction and is not
+9 required to attend school at a school building;
+10 G. "early childhood education ADM" or "early
+11 childhood education MEM" means the full-time-equivalent MEM
+12 of students attending approved early childhood education
+13 programs;
+14 H. "family income index rate" means the percentage
+15 of students in a school district or charter school that is
+16 identified as either extremely low income or very low income
+17 by the family income index;
+18 I. "full-time-equivalent ADM" or "full-time-
+19 equivalent MEM" is that membership calculated by applying to
+20 the MEM in an approved public school program the ratio of the
+21 number of hours per school day devoted to the program to six
+22 hours or the number of hours per school week devoted to the
+23 program to thirty hours;
+24 J. "operating budget" means the annual financial
+25 plan and educational plan required to be submitted by a local HEC/HB 253/a/ec
+Page 3
+
+1 school board or governing body of a state-chartered charter
+2 school;
+3 K. "performance measure" means a quantitative
+4 indicator used to assess the output or outcome of an approved
+5 program;
+6 L. "performance target" means the expected level
+7 of performance of a program's performance measure;
+8 M. "program cost" is the product of the total
+9 number of program units to which a school district is
+10 entitled multiplied by the dollar value per program unit
+11 established by the legislature;
+12 N. "program element" is that component of a public
+13 school system to which a cost differential factor is applied
+14 to determine the number of program units to which a school
+15 district is entitled, including MEM, full-time-equivalent
+16 MEM, teacher, classroom or public school;
+17 O. "program unit" is the product of the program
+18 element multiplied by the applicable cost differential
+19 factor;
+20 P. "public money" or "public funds" means all
+21 money from public or private sources received by a school
+22 district or state-chartered charter school or officer or
+23 employee of a school district or state-chartered charter
+24 school for public use;
+25 Q. "qualified student" means a public school HEC/HB 253/a/ec
+Page 4
+
+1 student who:
+2 (1) has not graduated from high school;
+3 (2) is regularly enrolled in one-half or
+4 more of the minimum course requirements approved by the
+5 department for public school students; and
+6 (3) in terms of age and other criteria:
+7 (a) is at least five years of age prior
+8 to 12:01 a.m. on September 1 of the school year;
+9 (b) is at least three years of age at
+10 any time during the school year and is receiving special
+11 education services pursuant to rules of the department;
+12 (c) except as provided in Subparagraph
+13 (d) of this paragraph, has not reached the student's twenty-
+14 second birthday on the first day of the school year; or
+15 (d) has reached the student's twenty-
+16 second birthday on the first day of the 2019-2020 school
+17 year, is counted in a school district's or charter school's
+18 MEM on the third reporting date of the 2018-2019 school year,
+19 has been continuously enrolled in the same public school
+20 since that reporting date and is still enrolled in that
+21 school;
+22 R. "rural population rate" means that proportion
+23 of the total population within a school district's geographic
+24 boundaries that lives in a rural area and not in an urban
+25 area as defined by the United States census bureau; HEC/HB 253/a/ec
+Page 5
+
+1 S. "staffing cost multiplier" means the teacher
+2 cost index; and
+3 T. "state superintendent" or "secretary" means the
+4 secretary of public education or the secretary's designee."
+5 SECTION 2. Section 22-8-12.1 NMSA 1978 (being Laws
+6 1978, Chapter 128, Section 5, as amended) is amended to read:
+7 "22-8-12.1. MEMBERSHIP PROJECTIONS AND BUDGET
+8 REQUESTS.--
+9 A. On or before October 15 of each year, each
+10 local school board or governing body of a state-chartered
+11 charter school shall submit to the department:
+12 (1) an estimate for the succeeding fiscal
+13 year of:
+14 (a) the membership of qualified
+15 students to be enrolled in the basic program;
+16 (b) the membership of students to be
+17 enrolled as distance learning students;
+18 (c) the full-time-equivalent membership
+19 of students to be enrolled in approved early childhood
+20 education programs; and
+21 (d) the membership of students to be
+22 enrolled in approved special education programs;
+23 (2) all other information necessary to
+24 calculate program costs; and
+25 (3) any other information related to the HEC/HB 253/a/ec
+Page 6
+
+1 financial needs of the school district or state-chartered
+2 charter school as may be requested by the department.
+3 B. The information submitted pursuant to
+4 Subsection A of this section shall be submitted on forms
+5 prescribed and furnished by the department and in accordance
+6 with the department's rules and procedures.
+7 C. The department shall:
+8 (1) review the financial needs of each
+9 school district or state-chartered charter school for the
+10 succeeding fiscal year;
+11 (2) on or before September 1 of each year,
+12 submit to the department of finance and administration, the
+13 legislative finance committee and the legislative education
+14 study committee the department's recommendations for:
+15 (a) amendments to the public school
+16 finance formula;
+17 (b) appropriations for the succeeding
+18 fiscal year to the public school fund; and
+19 (c) appropriations for the succeeding
+20 fiscal year for pupil transportation and instructional
+21 materials; and
+22 (3) on or before November 30 of each year,
+23 submit to the department of finance and administration, the
+24 legislative finance committee and the legislative education
+25 study committee any adjustments to the department's HEC/HB 253/a/ec
+Page 7
+
+1 recommendations for appropriations related to additional
+2 enrollment growth program units pursuant to Section 22-8-23.1
+3 NMSA 1978."
+4 SECTION 3. Section 22-8-13 NMSA 1978 (being Laws 1974,
+5 Chapter 8, Section 3, as amended) is amended to read:
+6 "22-8-13. REPORTS.--
+7 A. Each public school shall keep accurate records
+8 concerning membership in the public school.
+9 B. The dates for which MEM is reported are as
+10 follows:
+11 (1) the first reporting date is the second
+12 Wednesday in October of each year;
+13 (2) the second reporting date is December 1
+14 or the first working day in December of each year; and
+15 (3) the third reporting date is the second
+16 Wednesday in February of each year.
+17 C. The superintendent of each school district or
+18 head administrator of each state-chartered charter school
+19 shall maintain the following reports for each reporting
+20 period:
+21 (1) the basic program MEM by grade in each
+22 public school;
+23 (2) the early childhood education MEM;
+24 (3) the special education MEM in each public
+25 school in class C and class D programs as defined in Section HEC/HB 253/a/ec
+Page 8
+
+1 22-8-21 NMSA 1978;
+2 (4) the number of class A and class B
+3 programs as defined in Section 22-8-21 NMSA 1978;
+4 (5) the full-time-equivalent MEM for
+5 bilingual multicultural education programs; and
+6 (6) the distance-learning-student MEM by
+7 grade in each public school.
+8 D. The superintendent of each school district and
+9 the head administrator of each state-chartered charter school
+10 shall furnish all reports required by law or the department
+11 to the department on or before the close of each reporting
+12 period or as otherwise requested by the department. Failure
+13 of the department to approve timely submissions shall not
+14 cause a school district or charter school to be found
+15 noncompliant with the requirements of this section.
+16 E. For purposes of this section, "working day"
+17 means every calendar day excluding Saturdays, Sundays and
+18 legal holidays.
+19 F. The information required pursuant to this
+20 section shall be submitted in a manner prescribed by the
+21 department. A copy of any report made pursuant to this
+22 section shall be kept as a permanent record of the school
+23 district or charter school and shall be subject to inspection
+24 and audit at any reasonable time.
+25 G. The department may withhold up to one hundred HEC/HB 253/a/ec
+Page 9
+
+1 percent of allotments of funds to any school district or
+2 state-chartered charter school where the superintendent or
+3 head administrator has failed to comply with the requirements
+4 of this section. The withholding may continue until the
+5 superintendent or head administrator complies with and agrees
+6 to continue complying with the requirements of this section.
+7 H. The provisions of this section may be modified
+8 or suspended by the department for any school district,
+9 school or state-chartered charter school operating under the
+10 Variable School Calendar Act. The department shall require
+11 MEM reports consistent with the calendar of operations of
+12 such school district, school or state-chartered charter
+13 school and shall calculate an equivalent MEM for use in
+14 projecting school district or charter school revenue."
+15 SECTION 4. Section 22-8-23 NMSA 1978 (being Laws 1975,
+16 Chapter 119, Section 1, as amended by Laws 2019, Chapter 206,
+17 Section 14 and by Laws 2019, Chapter 207, Section 14) is
+18 amended to read:
+19 "22-8-23. SIZE ADJUSTMENT PROGRAM UNITS.--
+20 A. An approved public school with a MEM of fewer
+21 than four hundred, including early childhood education full-
+22 time-equivalent MEM but excluding membership in class C and
+23 class D programs and excluding full-time-equivalent
+24 membership in three- and four-year-old developmentally
+25 disabled programs, that is geographically located in a school HEC/HB 253/a/ec
+Page 10
+
+1 district with fewer than two thousand MEM, is eligible for
+2 additional program units. Separate schools established to
+3 provide special programs, including vocational and
+4 alternative education, shall not be classified as public
+5 schools for purposes of generating size adjustment program
+6 units. The number of additional program units to which a
+7 school district or charter school is entitled under this
+8 subsection is the sum of elementary-junior high units and
+9 senior high units computed in the following manner:
+10 Elementary-Junior High Units
+11 200 - MEM
+12 _________ x 1.0 x MEM = Units
+13 200
+14 where MEM is equal to the membership of an approved
+15 elementary or junior high school, including early childhood
+16 education full-time-equivalent membership but excluding
+17 membership in class C and class D programs and excluding
+18 full-time-equivalent membership in three- and four-year-old
+19 developmentally disabled programs;
+20 Senior High Units
+21 200 - MEM
+22 _________ x 2.0 x MEM = Units
+23 200
+24 or,
+25 Senior High Units HEC/HB 253/a/ec
+Page 11
+
+1 400 - MEM
+2 _________ x 1.6 x MEM = Units
+3 400
+4 whichever calculation for senior high units is higher, where
+5 MEM is equal to the membership of an approved senior high
+6 school, excluding membership in class C and class D programs.
+7 B. An approved public school with a MEM of fewer
+8 than four hundred, including early childhood education full-
+9 time-equivalent MEM but excluding MEM in class C and class D
+10 programs and excluding full-time-equivalent MEM in three- and
+11 four-year-old developmentally disabled programs,
+12 geographically located in a school district with two thousand
+13 MEM or more is eligible for additional program units computed
+14 in the following manner:
+15 (1) for fiscal year 2020, eighty percent of
+16 the sum of elementary-junior high units and senior high units
+17 as prescribed in Subsection A of this section;
+18 (2) for fiscal year 2021, sixty percent of
+19 the sum of elementary-junior high units and senior high units
+20 as prescribed in Subsection A of this section;
+21 (3) for fiscal year 2022, forty percent of
+22 the sum of elementary-junior high units and senior high units
+23 as prescribed in Subsection A of this section;
+24 (4) for fiscal year 2023, twenty percent of
+25 the sum of elementary-junior high units and senior high units HEC/HB 253/a/ec
+Page 12
+
+1 as prescribed in Subsection A of this section; and
+2 (5) for fiscal year 2024 and subsequent
+3 fiscal years, no elementary-junior high units and senior high
+4 units as prescribed in Subsection A of this section.
+5 C. A school district with total MEM of fewer than
+6 four thousand, including early childhood education full-time-
+7 equivalent MEM, is eligible for additional program units.
+8 The number of additional program units to which a school
+9 district is entitled under this subsection is the number of
+10 district units computed in the following manner:
+11 District Units
+12 4,000 - MEM
+13 ___________ x 0.15 x MEM = Units
+14 4,000
+15 where MEM is equal to the total district membership,
+16 including early childhood education full-time-equivalent
+17 membership.
+18 D. A school district with a MEM of fewer than two
+19 hundred, including early childhood education full-time-
+20 equivalent MEM, is eligible for additional program units if
+21 the department certifies that the school district has
+22 implemented practices to reduce scale inefficiencies,
+23 including shared service agreements with regional education
+24 cooperatives or other school districts for noninstructional
+25 functions and distance education. The numbers of additional HEC/HB 253/a/ec
+Page 13
+
+1 program units to which a school district is entitled under
+2 this subsection is the number of units computed in the
+3 following manner:
+4 200 - MEM = Units
+5 where MEM is equal to the total district MEM, including early
+6 childhood education full-time-equivalent MEM.
+7 E. A school district with a rural population rate
+8 greater than forty percent or a charter school initially
+9 chartered before July 1, 2018 and geographically located in a
+10 school district with a rural population rate greater than
+11 forty percent is eligible for additional program units. The
+12 number of additional program units to which a school district
+13 or charter school is entitled pursuant to this subsection is
+14 determined by multiplying the full-time-equivalent MEM by the
+15 rural population rate and the cost differential factor of
+16 0.15; provided that the full-time-equivalent MEM used for
+17 this determination does not include membership derived from
+18 distance learning students."
+19 SECTION 5. Section 22-30-1 NMSA 1978 (being Laws 2007,
+20 Chapter 292, Section 1 and Laws 2007, Chapter 293, Section 1)
+21 is amended to read:
+22 "22-30-1. SHORT TITLE.--Chapter 22, Article 30 NMSA
+23 1978 may be cited as the "Distance Learning Act"."
+24 SECTION 6. Section 22-30-2 NMSA 1978 (being Laws 2007,
+25 Chapter 292, Section 2 and Laws 2007, Chapter 293, Section 2) HEC/HB 253/a/ec
+Page 14
+
+1 is amended to read:
+2 "22-30-2. DEFINITIONS.--As used in the Distance
+3 Learning Act:
+4 A. "distance learning course" means an educational
+5 course provided through virtual instruction;
+6 B. "distance learning student" means a qualified
+7 student in accordance with the provisions of the Public
+8 School Finance Act who is enrolled in a full-time distance
+9 learning program; and
+10 C. "full-time distance learning program" means a
+11 public school instructional program in which students receive
+12 virtual instruction and are not required to attend school at
+13 a school building."
+14 SECTION 7. Section 22-30-3 NMSA 1978 (being Laws 2007,
+15 Chapter 292, Section 3 and Laws 2007, Chapter 293, Section 3)
+16 is amended to read:
+17 "22-30-3. STATEWIDE CYBER ACADEMY CREATED.--The
+18 "statewide cyber academy" is created as a program in the
+19 department. The statewide cyber academy may provide distance
+20 learning courses for sixth grade through twelfth grade and
+21 professional development for teachers, instructional support
+22 providers and school administrators."
+23 SECTION 8. Section 22-30-4 NMSA 1978 (being Laws 2007,
+24 Chapter 292, Section 4 and Laws 2007, Chapter 293, Section 4)
+25 is amended to read: HEC/HB 253/a/ec
+Page 15
+
+1 "22-30-4. DEPARTMENT RULES.--The department shall
+2 promulgate rules to carry out the provisions of the Distance
+3 Learning Act."
+4 SECTION 9. Section 22-30-5 NMSA 1978 (being Laws 2007,
+5 Chapter 292, Section 5 and Laws 2007, Chapter 293, Section 5)
+6 is amended to read:
+7 "22-30-5. FULL-TIME DISTANCE LEARNING PROGRAM--
+8 DUTIES.--
+9 A. A school district or charter school that offers
+10 a full-time distance learning program shall:
+11 (1) administer the program in compliance
+12 with the Public School Code, including Section 22-2-8.1 NMSA
+13 1978 regarding required instructional hours and Section
+14 22-10A-20 NMSA 1978 regarding class load and teaching load
+15 limits;
+16 (2) administer the program in compliance
+17 with state and federal law regarding student privacy, student
+18 record confidentiality and secure student record storage;
+19 (3) only provide distance learning courses
+20 that are taught by licensed teachers or faculty members of
+21 accredited post-secondary educational institutions and that
+22 meet the department's academic content and performance
+23 standards;
+24 (4) on or before October 15 of each year,
+25 notify the department as to the number of students enrolled HEC/HB 253/a/ec
+Page 16
+
+1 in the program and the grade level of the enrolled students;
+2 and
+3 (5) maintain records of the district's or
+4 charter school's expenditures related to the program and
+5 furnish the records to the department at the department's
+6 request and in the manner prescribed by the department.
+7 B. A school district or charter school that
+8 operates a full-time distance learning program shall not
+9 expand the program to an additional grade level unless the
+10 school district or charter school certifies to the department
+11 that the program has sufficient courses for a full
+12 instructional program for the additional grade level."
+13 SECTION 10. Section 22-30-6 NMSA 1978 (being Laws 2007,
+14 Chapter 292, Section 6 and Laws 2007, Chapter 293, Section 6)
+15 is amended to read:
+16 "22-30-6. DISTANCE LEARNING STUDENTS--ENROLLMENT.--
+17 A. A school district shall not require a student
+18 to enroll in a full-time distance learning program.
+19 B. A charter school shall not require a student to
+20 enroll in a full-time distance learning program.
+21 C. The provisions of Subsections A and B of this
+22 section do not apply to a school district or charter school
+23 if temporary enrollment of the district's or charter school's
+24 students in a full-time distance learning program is
+25 necessary or appropriate during a public health emergency HEC/HB 253/a/ec
+Page 17
+
+1 declared pursuant to the Public Health Emergency Response
+2 Act."
+3 SECTION 11. Section 22-30-7 NMSA 1978 (being Laws 2003,
+4 Chapter 162, Section 2) is amended to read:
+5 "22-30-7. DISTANCE LEARNING AND COMPUTER-BASED
+6 COURSES.--A school district or charter school that has a
+7 full-time distance learning program or offers distance
+8 learning courses or other computer-based courses of study
+9 shall provide accompanying instructional materials or other
+10 materials in an electronic format usable by a person with a
+11 disability or compatible with the person's assistive
+12 technology."
+13 SECTION 12. A new section of the Distance Learning Act
+14 is enacted to read:
+15 "DEPARTMENT EVALUATION OF PROGRAMS.--By the end of the
+16 2028-2029 school year and at least every five years
+17 thereafter, the department shall evaluate all full-time
+18 distance learning programs to certify that the programs are
+19 in compliance with the Public School Code and related rules,
+20 including provisions related to instructional hours, class
+21 load and teaching load limits. If the department determines
+22 that a full-time distance learning program was not in
+23 compliance during the period preceding the evaluation, the
+24 department may withhold up to one hundred percent of
+25 allotments of funding for distance learning students from the HEC/HB 253/a/ec
+Page 18
+
+1 school district or state-chartered charter school that
+2 operates the full-time distance learning program until the
+3 local superintendent or head administrator submits, and the
+4 department approves, a plan by which the school district or
+5 state-chartered charter school will come into compliance with
+6 the Public School Code and related rules."
+7 SECTION 13. TEMPORARY PROVISIONS.--
+8 A. For the purposes of the Public School Finance
+9 Act in fiscal year 2026, a school district with MEM over
+10 eight thousand whose MEM on the first reporting date of
+11 fiscal year 2026 is at least ten percent lower than the
+12 school district's MEM on the first reporting date of fiscal
+13 year 2025 shall calculate the total number of program units
+14 to which the school district is entitled by averaging the
+15 school district's MEM on the first reporting date of fiscal
+16 year 2025 and the school district's MEM on the first
+17 reporting date of fiscal year 2026.
+18 B. For the purposes of the Public School Finance
+19 Act in fiscal years 2026 and 2027, a school district is not
+20 eligible for enrollment growth program units pursuant to
+21 Section 22-8-23.1 NMSA 1978 for students enrolled in a full-
+22 time distance learning program.
+23 C. For fiscal year 2027, a school district or
+24 charter school shall not reorganize to create a school
+25 district, school or school program that has a majority of HEC/HB 253/a/ec
+Page 19
+
+1 students enrolled in a full-time distance learning program.
+2 D. The legislative education study committee, in
+3 collaboration with the legislative finance committee and the
+4 public education department, shall conduct a comprehensive
+5 study on virtual instruction in the state. The study shall
+6 evaluate the status of full-time distance learning programs
+7 or similar programs and assess the outcomes of students
+8 enrolled in the programs, with particular focus on those
+9 students who are in kindergarten through fifth grade, the
+10 cost of operating the programs and potential legislative
+11 action regarding full-time distance learning programs. On or
+12 before November 1, 2026, the legislative education study
+13 committee shall submit a final report on the comprehensive
+14 study to the governor, the public education department and
+15 the legislative finance committee.
+16 E. As used in this section, "full-time distance
+17 learning program" means a public school instructional program
+18 in which students receive virtual instruction and are not
+19 required to attend school at a school building.
+20 SECTION 14. REPEAL.--Section 22-30-8 NMSA 1978 (being
+21 Laws 2007, Chapter 292, Section 7 and Laws 2007, Chapter 293,
+22 Section 7) is repealed.
+23 SECTION 15. EFFECTIVE DATE.--The effective date of the
+24 provisions of Sections 1 through 12 and 14 of this act is
+25 July 1, 2026. HEC/HB 253/a/ec
+Page 20
+
+1 SECTION 16. EMERGENCY.--It is necessary for the public
+2 peace, health and safety that this act take effect
+3 immediately. HEC/HB 253/a/ec
+Page 21
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+[DELETED: _x_x]
+[DELETED: _x]
+[DELETED: _x]
+[DELETED:  S]

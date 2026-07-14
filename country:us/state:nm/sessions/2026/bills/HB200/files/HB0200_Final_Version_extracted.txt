@@ -1,0 +1,281 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+2 RELATING TO HOUSING; CREATING THE NEW HOMES FOR NEW MEXICO
+3 PROGRAM; PROVIDING FOR PROGRAM ADMINISTRATION BY THE NEW
+4 MEXICO MORTGAGE FINANCE AUTHORITY; PROVIDING LOANS TO
+5 ELIGIBLE HOME BUYERS; PROVIDING FOR REPAYMENT.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. A new section of the Affordable Housing Act
+9 is enacted to read:
+10 "NEW HOMES FOR NEW MEXICO PROGRAM CREATED--PROGRAM
+11 REQUIREMENTS--REPAYMENT.--
+12 A. As used in this section:
+13 (1) "eligible builder" means a residential
+14 home builder that meets eligibility criteria for
+15 participation in the program;
+16 (2) "eligible buyer" means a person seeking
+17 to purchase residential property that meets eligibility
+18 criteria for participation in the program;
+19 (3) "high-cost county" means Los Alamos,
+20 Santa Fe or Taos county;
+21 (4) "program" means the new homes for New
+22 Mexico program; and
+23 (5) "starter home" means a home built by an
+24 eligible builder to be purchased by an eligible buyer that
+25 meets eligibility criteria established by rules promulgated HB 200/a
+Page 1
+1 pursuant to this section.
+2 B. The "new homes for New Mexico program" is
+3 created in the authority to provide loans for eligible buyers
+4 to purchase starter homes from eligible builders. The
+5 authority shall promulgate rules to carry out the provisions
+6 of this section.
+7 C. The authority shall create an account for any
+8 money designated for the program. Loans for the program
+9 shall be provided from the account, and the account may
+10 consist of subaccounts as the authority deems necessary.
+11 Money from repayment of a loan granted pursuant to this
+12 section shall be deposited into the account and provided to
+13 future eligible buyers.
+14 D. The authority may grant a loan to an eligible
+15 buyer to purchase a starter home from an eligible builder;
+16 provided that the eligible buyer:
+17 (1) has not owned a home prior to acceptance
+18 into the program;
+19 (2) earns a current annual income that is
+20 below one hundred twenty percent of the area median income in
+21 the county in which the starter home being purchased will be
+22 located, for a family of four, as determined by the United
+23 States department of housing and urban development; and
+24 (3) resides in the starter home as the
+25 eligible buyer's primary residence. HB 200/a
+Page 2
+1 E. The authority shall solicit competitive
+2 proposals to participate in the program. A competitive
+3 proposal submitted pursuant to this subsection shall include:
+4 (1) the number of homes the builder proposes
+5 to build;
+6 (2) the projected price of each home;
+7 (3) marketing and sales strategies; and
+8 (4) a time line for completing the homes.
+9 F. The authority shall promulgate rules to provide
+10 for:
+11 (1) administration of the program;
+12 (2) criteria for applications;
+13 (3) eligibility criteria for eligible
+14 builders and eligible buyers;
+15 (4) criteria for starter homes built by
+16 eligible builders;
+17 (5) criteria for loan disbursement and
+18 repayment;
+19 (6) procedures to connect eligible buyers
+20 and eligible builders; and
+21 (7) periodic verification that the starter
+22 home purchased pursuant to this section remains the eligible
+23 buyer's primary residence.
+24 G. Applications for loans to purchase starter
+25 homes pursuant to this section shall be submitted to the HB 200/a
+Page 3
+1 authority on forms provided by the authority and shall
+2 include:
+3 (1) documentation that the applicant earns a
+4 current annual income that is below one hundred twenty
+5 percent of the area median income in the county in which the
+6 starter home being purchased will be located, for a family of
+7 four, as determined by the United States department of
+8 housing and urban development; and
+9 (2) other documentation required by the
+10 authority in rules promulgated pursuant to this section.
+11 H. Loans granted pursuant to this section shall:
+12 (1) not exceed fifty thousand dollars
+13 ($50,000) per household for a starter home located outside
+14 the jurisdictional boundaries of a high-cost county or
+15 seventy-five thousand dollars ($75,000) per household for a
+16 starter home within the jurisdictional boundaries of a high-
+17 cost county;
+18 (2) bear an annual interest rate of zero
+19 percent; and
+20 (3) be repaid upon:
+21 (a) the sale of the property purchased
+22 with a loan granted pursuant to this section; or
+23 (b) the failure of the eligible buyer
+24 to occupy the property purchased with a loan granted pursuant
+25 to this section as the eligible buyer's principal residence. HB 200/a
+Page 4
+1 I. An eligible builder shall:
+2 (1) not build a starter home that exceeds
+3 one thousand eight hundred square feet;
+4 (2) not build a starter home on a lot that
+5 exceeds five thousand square feet;
+6 (3) complete construction on a starter home
+7 within three years of program selection; and
+8 (4) build starter homes that are affordable
+9 to an eligible buyer." HB 200/a
+Page 5
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+[DELETED:  H]
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO HOUSING; CREATING THE NEW HOMES FOR NEW MEXICO
+3 PROGRAM; PROVIDING FOR PROGRAM ADMINISTRATION BY THE NEW
+4 MEXICO MORTGAGE FINANCE AUTHORITY; PROVIDING LOANS TO
+5 ELIGIBLE HOME BUYERS; PROVIDING FOR REPAYMENT.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. A new section of the Affordable Housing Act
+9 is enacted to read:
+10 "NEW HOMES FOR NEW MEXICO PROGRAM CREATED--PROGRAM
+11 REQUIREMENTS--REPAYMENT.--
+12 A. As used in this section:
+13 (1) "eligible builder" means a residential
+14 home builder that meets eligibility criteria for
+15 participation in the program;
+16 (2) "eligible buyer" means a person seeking
+17 to purchase residential property that meets eligibility
+18 criteria for participation in the program;
+19 (3) "high-cost county" means Los Alamos,
+20 Santa Fe or Taos county;
+21 (4) "program" means the new homes for New
+22 Mexico program; and
+23 (5) "starter home" means a home built by an
+24 eligible builder to be purchased by an eligible buyer that
+25 meets eligibility criteria established by rules promulgated HB 200/a
+Page 1
+
+1 pursuant to this section.
+2 B. The "new homes for New Mexico program" is
+3 created in the authority to provide loans for eligible buyers
+4 to purchase starter homes from eligible builders. The
+5 authority shall promulgate rules to carry out the provisions
+6 of this section.
+7 C. The authority shall create an account for any
+8 money designated for the program. Loans for the program
+9 shall be provided from the account, and the account may
+10 consist of subaccounts as the authority deems necessary.
+11 Money from repayment of a loan granted pursuant to this
+12 section shall be deposited into the account and provided to
+13 future eligible buyers.
+14 D. The authority may grant a loan to an eligible
+15 buyer to purchase a starter home from an eligible builder;
+16 provided that the eligible buyer:
+17 (1) has not owned a home prior to acceptance
+18 into the program;
+19 (2) earns a current annual income that is
+20 below one hundred twenty percent of the area median income in
+21 the county in which the starter home being purchased will be
+22 located, for a family of four, as determined by the United
+23 States department of housing and urban development; and
+24 (3) resides in the starter home as the
+25 eligible buyer's primary residence. HB 200/a
+Page 2
+
+1 E. The authority shall solicit competitive
+2 proposals to participate in the program. A competitive
+3 proposal submitted pursuant to this subsection shall include:
+4 (1) the number of homes the builder proposes
+5 to build;
+6 (2) the projected price of each home;
+7 (3) marketing and sales strategies; and
+8 (4) a time line for completing the homes.
+9 F. The authority shall promulgate rules to provide
+10 for:
+11 (1) administration of the program;
+12 (2) criteria for applications;
+13 (3) eligibility criteria for eligible
+14 builders and eligible buyers;
+15 (4) criteria for starter homes built by
+16 eligible builders;
+17 (5) criteria for loan disbursement and
+18 repayment;
+19 (6) procedures to connect eligible buyers
+20 and eligible builders; and
+21 (7) periodic verification that the starter
+22 home purchased pursuant to this section remains the eligible
+23 buyer's primary residence.
+24 G. Applications for loans to purchase starter
+25 homes pursuant to this section shall be submitted to the HB 200/a
+Page 3
+
+1 authority on forms provided by the authority and shall
+2 include:
+3 (1) documentation that the applicant earns a
+4 current annual income that is below one hundred twenty
+5 percent of the area median income in the county in which the
+6 starter home being purchased will be located, for a family of
+7 four, as determined by the United States department of
+8 housing and urban development; and
+9 (2) other documentation required by the
+10 authority in rules promulgated pursuant to this section.
+11 H. Loans granted pursuant to this section shall:
+12 (1) not exceed fifty thousand dollars
+13 ($50,000) per household for a starter home located outside
+14 the jurisdictional boundaries of a high-cost county or
+15 seventy-five thousand dollars ($75,000) per household for a
+16 starter home within the jurisdictional boundaries of a high-
+17 cost county;
+18 (2) bear an annual interest rate of zero
+19 percent; and
+20 (3) be repaid upon:
+21 (a) the sale of the property purchased
+22 with a loan granted pursuant to this section; or
+23 (b) the failure of the eligible buyer
+24 to occupy the property purchased with a loan granted pursuant
+25 to this section as the eligible buyer's principal residence. HB 200/a
+Page 4
+
+1 I. An eligible builder shall:
+2 (1) not build a starter home that exceeds
+3 one thousand eight hundred square feet;
+4 (2) not build a starter home on a lot that
+5 exceeds five thousand square feet;
+6 (3) complete construction on a starter home
+7 within three years of program selection; and
+8 (4) build starter homes that are affordable
+9 to an eligible buyer." HB 200/a
+Page 5
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+[DELETED:  H]

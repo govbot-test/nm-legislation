@@ -1,0 +1,958 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+2 RELATING TO TAXATION; AMENDING THE DEFINITION OF "ADVANCED
+3 ENERGY PRODUCT" IN THE ADVANCED ENERGY EQUIPMENT INCOME TAX
+4 CREDIT AND THE ADVANCED ENERGY EQUIPMENT CORPORATE INCOME TAX
+5 CREDIT.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. Section 7-2-18.39 NMSA 1978 (being Laws
+9 2024, Chapter 67, Section 35) is amended to read:
+10 "7-2-18.39. ADVANCED ENERGY EQUIPMENT INCOME TAX
+11 CREDIT.--
+12 A. The tax credit provided by this section may be
+13 referred to as the "advanced energy equipment income tax
+14 credit". A taxpayer who is not a dependent of another
+15 individual, who makes qualified expenditures for a qualified
+16 manufacturing facility located in New Mexico and who files an
+17 individual New Mexico income tax return for a taxable year
+18 beginning on or after January 1, 2025, and prior to January
+19 1, 2033, may claim the tax credit in the amount provided in
+Subsection B of this section.
+20
+B. The amount of the tax credit shall be in an
+21
+amount equal to the lesser of twenty percent of the amount of
+22
+the qualified expenditures made by the taxpayer for a
+23
+qualified manufacturing facility or twenty-five million
+24
+dollars ($25,000,000).
+25 HB 154
+Page 1
+1 C. Prior to incurring a qualified expenditure, a
+2 taxpayer shall apply for preliminary certification of
+3 eligibility for the tax credit from the energy, minerals and
+4 natural resources department on forms and in the manner
+5 prescribed by that department. Such preliminary
+6 certification shall be made in consultation with the economic
+7 development department and shall be limited to confirming
+8 that the qualified expenditures proposed to be made by the
+9 taxpayer will in whole or in part be used to produce advanced
+10 energy products and providing an estimate of the amount of
+11 tax credit for which the taxpayer may be eligible. Only one
+12 certificate of eligibility shall be issued for all activities
+13 performed at a qualified manufacturing facility, regardless
+14 of ownership of the facility.
+15 D. Within twelve months of commencement of
+16 production of any advanced energy product, the taxpayer shall
+17 seek final certification from the energy, minerals and
+natural resources department. The total annual aggregate
+18
+amount of advanced energy equipment income tax credits and
+19
+advanced energy equipment corporate income tax credits that
+20
+may be certified in a calendar year shall not exceed twenty-
+21
+five million dollars ($25,000,000). An application for final
+22
+certification shall include information required by the
+23
+energy, minerals and natural resources department to
+24
+determine eligibility for the tax credit, including
+25 HB 154
+Page 2
+1 information substantiating qualified expenditures. If, after
+2 consultation with the economic development department, the
+3 energy, minerals and natural resources department determines
+4 that the taxpayer meets the requirements of this section, the
+5 energy, minerals and natural resources department shall issue
+6 a dated certificate of eligibility to the taxpayer providing
+7 the amount of tax credit for which the taxpayer is eligible
+8 and the taxable years in which the credit may be claimed.
+9 The energy, minerals and natural resources department shall
+10 provide the department with the certificates of eligibility
+11 issued pursuant to this subsection in an electronic format at
+12 regularly agreed-upon intervals. A certificate of
+13 eligibility for the tax credit may be sold, exchanged or
+14 otherwise transferred to another taxpayer in increments of
+15 not less than one million dollars ($1,000,000); provided that
+16 if the total amount certified is less than one million
+17 dollars ($1,000,000), the certificate of the entire amount of
+the credit may be transferred. The parties to such a
+18
+transaction shall notify the department of the sale, exchange
+19
+or transfer within ten days of the sale, exchange or transfer
+20
+in an electronic format prescribed by the department.
+21
+E. A taxpayer allowed to claim the tax credit
+22
+shall claim the credit in a manner required by the
+23
+department. The tax credit shall be claimed within one year
+24
+of receiving final certification from the energy, minerals
+25 HB 154
+Page 3
+1 and natural resources department. The taxpayer shall claim
+2 the amount certified and approved against the taxpayer's
+3 income tax liabilities. Any amount of credit that exceeds
+4 the taxpayer's income tax liabilities may be carried forward
+5 for five consecutive taxable years. A taxpayer who claims
+6 the tax credit shall report to the department and the energy,
+7 minerals and natural resources department on the continued
+8 operations of the qualified manufacturing facility.
+9 F. Married individuals filing separate returns for
+10 a taxable year for which they could have filed a joint return
+11 may each claim only one-half of the tax credit that would
+12 have been claimed on a joint return.
+13 G. A taxpayer may be allocated the right to claim
+14 the tax credit in a proportion to the taxpayer's ownership
+15 interest if the taxpayer owns an interest in a business
+16 entity that is taxed for federal income tax purposes as a
+17 partnership or limited liability company and that business
+entity has met all of the requirements to be eligible for the
+18
+credit. The total credit claimed by all members of the
+19
+partnership or limited liability company shall not exceed the
+20
+allowable credit pursuant to this section.
+21
+H. If the taxpayer or a successor in the business
+22
+of the taxpayer ceases operations at the qualifying
+23
+manufacturing facility or ceases to produce advanced energy
+24
+products for at least one hundred eighty days within a two-
+25 HB 154
+Page 4
+1 year period after the taxpayer has claimed the tax credit,
+2 any amount of credit that received final certification with
+3 respect to that facility that is not claimed against a
+4 taxpayer's tax liability shall be extinguished, and within
+5 thirty days after the one hundred eightieth day of cessation
+6 of operations, the taxpayer who received final certification
+7 pursuant to Subsection D of this section shall pay to the
+8 department the tax liability against which the certified
+9 credit was claimed. For the purposes of this section, a
+10 taxpayer shall not be deemed to have ceased operations during
+11 reasonable periods for maintenance or retooling, for the
+12 repair or replacement of facilities damaged or destroyed or
+13 during labor disputes.
+14 I. The tax credit provided by this section shall
+15 be included in the tax expenditure budget pursuant to Section
+16 7-1-84 NMSA 1978, including the annual aggregate cost of the
+17 tax credit.
+J. As used in this section:
+18
+(1) "advanced energy product" means:
+19
+(a) a solar energy component, including
+20
+a solar module, photovoltaic cell, photovoltaic wafer, solar-
+21
+grade polysilicon, torque tube, structural fastener or
+22
+polymeric backsheet;
+23
+(b) a wind energy component, including
+24
+a wind turbine blade, nacelle and tower;
+25 HB 154
+Page 5
+1 (c) a battery component, including an
+2 electrode-active material, a battery cell and a battery
+3 module;
+4 (d) a fusion machine and the components
+5 of a fusion machine that can transform atomic nuclei through
+6 fusion processes into different elements, isotopes or other
+7 particles, including associated systems essential to
+8 facilitate fusion processes;
+9 (e) a critical mineral, if converted or
+10 purified to specified purities or forms, including aluminum,
+11 antimony, arsenic, barite, bismuth, cerium, cesium, chromium,
+12 cobalt, dysprosium, erbium, europium, fluorspar, gadolinium,
+13 gallium, germanium, graphite, hafnium, holmium, indium,
+14 iridium, lanthanum, lithium, lutetium, magnesium, manganese,
+15 neodymium, nickel, niobium, palladium, platinum,
+16 praseodymium, rhodium, rubidium, ruthenium, samarium,
+17 tantalum, tellurium, terbium, thulium, tin, titanium,
+tungsten, vanadium, ytterbium, yttrium, zinc and zirconium;
+18
+and
+19
+(f) an inverter that is an end product,
+20
+which is suitable to convert direct current energy from one
+21
+or more solar module or certified distributed wind energy
+22
+systems into alternating current electricity, including a
+23
+central inverter, commercial inverter, distributed wind
+24
+inverter, microinverter, residential inverter or utility
+25 HB 154
+Page 6
+1 inverter;
+2 (2) "essential" means directly necessary to
+3 the production of an advanced energy product;
+4 (3) "manufacturing equipment" means an
+5 essential machine, mechanism or tool or a component of an
+6 essential machine, mechanism or tool used directly and
+7 exclusively in a taxpayer's qualified manufacturing facility
+8 and that is subject to depreciation pursuant to the Internal
+9 Revenue Code by the taxpayer carrying on the manufacturing.
+10 "Manufacturing equipment" does not include a vehicle that
+11 leaves the site of a manufacturing operation for the purpose
+12 of transporting persons or property, including property for
+13 which the taxpayer claims a credit pursuant to Section 7-9-79
+14 NMSA 1978;
+15 (4) "qualified expenditure" means an
+16 expenditure made on or after January 1, 2025 and prior to
+17 January 1, 2033 for the purchase of that portion of the costs
+of manufacturing equipment dedicated to manufacturing
+18
+advanced energy products; and
+19
+(5) "qualified manufacturing facility" means
+20
+a facility located in New Mexico, including any connected,
+21
+associated or subsidiary facilities, that employs personnel
+22
+to perform production tasks with manufacturing equipment not
+23
+previously existing at the facility to produce advanced
+24
+energy products."
+25 HB 154
+Page 7
+1 SECTION 2. Section 7-2A-19.3 NMSA 1978 (being Laws
+2 2024, Chapter 67, Section 36) is amended to read:
+3 "7-2A-19.3. ADVANCED ENERGY EQUIPMENT CORPORATE INCOME
+4 TAX CREDIT.--
+5 A. The tax credit provided by this section may be
+6 referred to as the "advanced energy equipment corporate
+7 income tax credit". A taxpayer that makes qualified
+8 expenditures for a qualified manufacturing facility located
+9 in New Mexico and that files a corporate income tax return
+10 for a taxable year beginning on or after January 1, 2025, and
+11 prior to January 1, 2033, may claim the tax credit in the
+12 amount provided in Subsection B of this section.
+13 B. The amount of the tax credit shall be in an
+14 amount equal to the lesser of twenty percent of the amount of
+15 the qualified expenditures made by the taxpayer for a
+16 qualified manufacturing facility or twenty-five million
+17 dollars ($25,000,000).
+18 C. Prior to incurring a qualified expenditure, a
+19 taxpayer shall apply for preliminary certification of
+eligibility for the tax credit from the energy, minerals and
+20
+natural resources department on forms and in the manner
+21
+prescribed by that department. Such preliminary
+22
+certification shall be made in consultation with the economic
+23
+development department and shall be limited to confirming
+24
+that the qualified expenditures proposed to be made by the
+25 HB 154
+Page 8
+1 taxpayer will in whole or in part be used to produce advanced
+2 energy products and providing an estimate of the amount of
+3 tax credit for which the taxpayer may be eligible. Only one
+4 certificate of eligibility shall be issued for all activities
+5 performed at a qualified manufacturing facility, regardless
+6 of ownership of the facility.
+7 D. Within twelve months of commencement of
+8 production of any advanced energy product, the taxpayer shall
+9 seek final certification from the energy, minerals and
+10 natural resources department. The total annual aggregate
+11 amount of advanced energy equipment corporate income tax
+12 credits and advanced energy equipment income tax credits that
+13 may be certified in a calendar year shall not exceed twenty-
+14 five million dollars ($25,000,000). An application for final
+15 certification shall include information required by the
+16 energy, minerals and natural resources department to
+17 determine eligibility for the tax credit, including
+information substantiating qualified expenditures. If, after
+18
+consultation with the economic development department, the
+19
+energy, minerals and natural resources department determines
+20
+that the taxpayer meets the requirements of this section, the
+21
+energy, minerals and natural resources department shall issue
+22
+a dated certificate of eligibility to the taxpayer providing
+23
+the amount of tax credit for which the taxpayer is eligible
+24
+and the taxable years in which the credit may be claimed.
+25 HB 154
+Page 9
+1 The energy, minerals and natural resources department shall
+2 provide the department with the certificates of eligibility
+3 issued pursuant to this subsection in an electronic format at
+4 regularly agreed-upon intervals. A certificate of
+5 eligibility for the tax credit may be sold, exchanged or
+6 otherwise transferred to another taxpayer in increments of
+7 not less than one million dollars ($1,000,000); provided that
+8 if the total amount certified is less than one million
+9 dollars ($1,000,000), a certificate of the entire amount of
+10 the credit may be transferred. The parties to such a
+11 transaction shall notify the department of the sale, exchange
+12 or transfer within ten days of the sale, exchange or transfer
+13 in an electronic format prescribed by the department.
+14 E. A taxpayer allowed to claim the tax credit
+15 shall claim the credit in a manner required by the
+16 department. The tax credit shall be claimed within one year
+17 of receiving final certification from the energy, minerals
+and natural resources department. The taxpayer shall claim
+18
+the amount certified and approved against the taxpayer's
+19
+corporate income tax liabilities. Any amount of credit that
+20
+exceeds the taxpayer's corporate income tax liabilities may
+21
+be carried forward for five consecutive taxable years. A
+22
+taxpayer that claims the tax credit shall report to the
+23
+department and the energy, minerals and natural resources
+24
+department on the continued operations of the qualified
+25 HB 154
+Page 10
+1 manufacturing facility.
+2 F. If the taxpayer or a successor in the business
+3 of the taxpayer ceases operations at the qualifying
+4 manufacturing facility or ceases to produce advanced energy
+5 products for at least one hundred eighty days within a two-
+6 year period after the taxpayer has claimed the tax credit,
+7 any amount of credit that received final certification with
+8 respect to that facility that is not claimed against a
+9 taxpayer's tax liability shall be extinguished, and within
+10 thirty days after the one hundred eightieth day of cessation
+11 of operations, the taxpayer that received final certification
+12 pursuant to Subsection D of this section shall pay to the
+13 department the tax liability against which the certified
+14 credit was claimed. For the purposes of this section, a
+15 taxpayer shall not be deemed to have ceased operations during
+16 reasonable periods for maintenance or retooling, for the
+17 repair or replacement of facilities damaged or destroyed or
+during labor disputes.
+18
+G. The tax credit provided by this section shall
+19
+be included in the tax expenditure budget pursuant to Section
+20
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+21
+tax credit.
+22
+H. As used in this section:
+23
+(1) "advanced energy product" means:
+24
+(a) a solar energy component, including
+25 HB 154
+Page 11
+1 a solar module, photovoltaic cell, photovoltaic wafer, solar-
+2 grade polysilicon, torque tube, structural fastener or
+3 polymeric backsheet;
+4 (b) a wind energy component, including
+5 a wind turbine blade, nacelle and tower;
+6 (c) a battery component, including an
+7 electrode-active material, a battery cell and a battery
+8 module;
+9 (d) a fusion machine and the components
+10 of a fusion machine that can transform atomic nuclei through
+11 fusion processes into different elements, isotopes or other
+12 particles, including associated systems essential to
+13 facilitate fusion processes;
+14 (e) a critical mineral, if converted or
+15 purified to specified purities or forms, including aluminum,
+16 antimony, arsenic, barite, bismuth, cerium, cesium, chromium,
+17 cobalt, dysprosium, erbium, europium, fluorspar, gadolinium,
+gallium, germanium, graphite, hafnium, holmium, indium,
+18
+iridium, lanthanum, lithium, lutetium, magnesium, manganese,
+19
+neodymium, nickel, niobium, palladium, platinum,
+20
+praseodymium, rhodium, rubidium, ruthenium, samarium,
+21
+tantalum, tellurium, terbium, thulium, tin, titanium,
+22
+tungsten, vanadium, ytterbium, yttrium, zinc and zirconium;
+23
+and
+24
+(f) an inverter that is an end product,
+25 HB 154
+Page 12
+1 which is suitable to convert direct current energy from one
+2 or more solar module or certified distributed wind energy
+3 systems into alternating current electricity, including a
+4 central inverter, commercial inverter, distributed wind
+5 inverter, microinverter, residential inverter or utility
+6 inverter;
+7 (2) "essential" means directly necessary to
+8 the production of an advanced energy product;
+9 (3) "manufacturing equipment" means an
+10 essential machine, mechanism or tool or a component of an
+11 essential machine, mechanism or tool used directly and
+12 exclusively in a taxpayer's qualified manufacturing facility
+13 and that is subject to depreciation pursuant to the Internal
+14 Revenue Code by the taxpayer carrying on the manufacturing.
+15 "Manufacturing equipment" does not include a vehicle that
+16 leaves the site of a manufacturing operation for the purpose
+17 of transporting persons or property, including property for
+which the taxpayer claims a credit pursuant to Section 7-9-79
+18
+NMSA 1978;
+19
+(4) "qualified expenditure" means an
+20
+expenditure made on or after January 1, 2025 and prior to
+21
+January 1, 2033 for the purchase of that portion of the costs
+22
+of manufacturing equipment dedicated to manufacturing
+23
+advanced energy products; and
+24
+(5) "qualified manufacturing facility" means
+25 HB 154
+Page 13
+1 a facility located in New Mexico, including any connected,
+2 associated or subsidiary facilities, that employs personnel
+3 to perform production tasks with manufacturing equipment not
+4 previously existing at the facility to produce advanced
+5 energy products."
+6 SECTION 3. APPLICABILITY.--The provisions of this act
+7 apply to taxable years beginning on or after January 1, 2026. HB 154
+Page 14
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+[DELETED:  S]
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO TAXATION; AMENDING THE DEFINITION OF "ADVANCED
+3 ENERGY PRODUCT" IN THE ADVANCED ENERGY EQUIPMENT INCOME TAX
+4 CREDIT AND THE ADVANCED ENERGY EQUIPMENT CORPORATE INCOME TAX
+5 CREDIT.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. Section 7-2-18.39 NMSA 1978 (being Laws
+9 2024, Chapter 67, Section 35) is amended to read:
+10 "7-2-18.39. ADVANCED ENERGY EQUIPMENT INCOME TAX
+11 CREDIT.--
+12 A. The tax credit provided by this section may be
+13 referred to as the "advanced energy equipment income tax
+14 credit". A taxpayer who is not a dependent of another
+15 individual, who makes qualified expenditures for a qualified
+16 manufacturing facility located in New Mexico and who files an
+17 individual New Mexico income tax return for a taxable year
+18 beginning on or after January 1, 2025, and prior to January
+19 1, 2033, may claim the tax credit in the amount provided in
+Subsection B of this section.
+20
+B. The amount of the tax credit shall be in an
+21
+amount equal to the lesser of twenty percent of the amount of
+22
+the qualified expenditures made by the taxpayer for a
+23
+qualified manufacturing facility or twenty-five million
+24
+dollars ($25,000,000).
+25 HB 154
+Page 1
+
+1 C. Prior to incurring a qualified expenditure, a
+2 taxpayer shall apply for preliminary certification of
+3 eligibility for the tax credit from the energy, minerals and
+4 natural resources department on forms and in the manner
+5 prescribed by that department. Such preliminary
+6 certification shall be made in consultation with the economic
+7 development department and shall be limited to confirming
+8 that the qualified expenditures proposed to be made by the
+9 taxpayer will in whole or in part be used to produce advanced
+10 energy products and providing an estimate of the amount of
+11 tax credit for which the taxpayer may be eligible. Only one
+12 certificate of eligibility shall be issued for all activities
+13 performed at a qualified manufacturing facility, regardless
+14 of ownership of the facility.
+15 D. Within twelve months of commencement of
+16 production of any advanced energy product, the taxpayer shall
+17 seek final certification from the energy, minerals and
+natural resources department. The total annual aggregate
+18
+amount of advanced energy equipment income tax credits and
+19
+advanced energy equipment corporate income tax credits that
+20
+may be certified in a calendar year shall not exceed twenty-
+21
+five million dollars ($25,000,000). An application for final
+22
+certification shall include information required by the
+23
+energy, minerals and natural resources department to
+24
+determine eligibility for the tax credit, including
+25 HB 154
+Page 2
+
+1 information substantiating qualified expenditures. If, after
+2 consultation with the economic development department, the
+3 energy, minerals and natural resources department determines
+4 that the taxpayer meets the requirements of this section, the
+5 energy, minerals and natural resources department shall issue
+6 a dated certificate of eligibility to the taxpayer providing
+7 the amount of tax credit for which the taxpayer is eligible
+8 and the taxable years in which the credit may be claimed.
+9 The energy, minerals and natural resources department shall
+10 provide the department with the certificates of eligibility
+11 issued pursuant to this subsection in an electronic format at
+12 regularly agreed-upon intervals. A certificate of
+13 eligibility for the tax credit may be sold, exchanged or
+14 otherwise transferred to another taxpayer in increments of
+15 not less than one million dollars ($1,000,000); provided that
+16 if the total amount certified is less than one million
+17 dollars ($1,000,000), the certificate of the entire amount of
+the credit may be transferred. The parties to such a
+18
+transaction shall notify the department of the sale, exchange
+19
+or transfer within ten days of the sale, exchange or transfer
+20
+in an electronic format prescribed by the department.
+21
+E. A taxpayer allowed to claim the tax credit
+22
+shall claim the credit in a manner required by the
+23
+department. The tax credit shall be claimed within one year
+24
+of receiving final certification from the energy, minerals
+25 HB 154
+Page 3
+
+1 and natural resources department. The taxpayer shall claim
+2 the amount certified and approved against the taxpayer's
+3 income tax liabilities. Any amount of credit that exceeds
+4 the taxpayer's income tax liabilities may be carried forward
+5 for five consecutive taxable years. A taxpayer who claims
+6 the tax credit shall report to the department and the energy,
+7 minerals and natural resources department on the continued
+8 operations of the qualified manufacturing facility.
+9 F. Married individuals filing separate returns for
+10 a taxable year for which they could have filed a joint return
+11 may each claim only one-half of the tax credit that would
+12 have been claimed on a joint return.
+13 G. A taxpayer may be allocated the right to claim
+14 the tax credit in a proportion to the taxpayer's ownership
+15 interest if the taxpayer owns an interest in a business
+16 entity that is taxed for federal income tax purposes as a
+17 partnership or limited liability company and that business
+entity has met all of the requirements to be eligible for the
+18
+credit. The total credit claimed by all members of the
+19
+partnership or limited liability company shall not exceed the
+20
+allowable credit pursuant to this section.
+21
+H. If the taxpayer or a successor in the business
+22
+of the taxpayer ceases operations at the qualifying
+23
+manufacturing facility or ceases to produce advanced energy
+24
+products for at least one hundred eighty days within a two-
+25 HB 154
+Page 4
+
+1 year period after the taxpayer has claimed the tax credit,
+2 any amount of credit that received final certification with
+3 respect to that facility that is not claimed against a
+4 taxpayer's tax liability shall be extinguished, and within
+5 thirty days after the one hundred eightieth day of cessation
+6 of operations, the taxpayer who received final certification
+7 pursuant to Subsection D of this section shall pay to the
+8 department the tax liability against which the certified
+9 credit was claimed. For the purposes of this section, a
+10 taxpayer shall not be deemed to have ceased operations during
+11 reasonable periods for maintenance or retooling, for the
+12 repair or replacement of facilities damaged or destroyed or
+13 during labor disputes.
+14 I. The tax credit provided by this section shall
+15 be included in the tax expenditure budget pursuant to Section
+16 7-1-84 NMSA 1978, including the annual aggregate cost of the
+17 tax credit.
+J. As used in this section:
+18
+(1) "advanced energy product" means:
+19
+(a) a solar energy component, including
+20
+a solar module, photovoltaic cell, photovoltaic wafer, solar-
+21
+grade polysilicon, torque tube, structural fastener or
+22
+polymeric backsheet;
+23
+(b) a wind energy component, including
+24
+a wind turbine blade, nacelle and tower;
+25 HB 154
+Page 5
+
+1 (c) a battery component, including an
+2 electrode-active material, a battery cell and a battery
+3 module;
+4 (d) a fusion machine and the components
+5 of a fusion machine that can transform atomic nuclei through
+6 fusion processes into different elements, isotopes or other
+7 particles, including associated systems essential to
+8 facilitate fusion processes;
+9 (e) a critical mineral, if converted or
+10 purified to specified purities or forms, including aluminum,
+11 antimony, arsenic, barite, bismuth, cerium, cesium, chromium,
+12 cobalt, dysprosium, erbium, europium, fluorspar, gadolinium,
+13 gallium, germanium, graphite, hafnium, holmium, indium,
+14 iridium, lanthanum, lithium, lutetium, magnesium, manganese,
+15 neodymium, nickel, niobium, palladium, platinum,
+16 praseodymium, rhodium, rubidium, ruthenium, samarium,
+17 tantalum, tellurium, terbium, thulium, tin, titanium,
+tungsten, vanadium, ytterbium, yttrium, zinc and zirconium;
+18
+and
+19
+(f) an inverter that is an end product,
+20
+which is suitable to convert direct current energy from one
+21
+or more solar module or certified distributed wind energy
+22
+systems into alternating current electricity, including a
+23
+central inverter, commercial inverter, distributed wind
+24
+inverter, microinverter, residential inverter or utility
+25 HB 154
+Page 6
+
+1 inverter;
+2 (2) "essential" means directly necessary to
+3 the production of an advanced energy product;
+4 (3) "manufacturing equipment" means an
+5 essential machine, mechanism or tool or a component of an
+6 essential machine, mechanism or tool used directly and
+7 exclusively in a taxpayer's qualified manufacturing facility
+8 and that is subject to depreciation pursuant to the Internal
+9 Revenue Code by the taxpayer carrying on the manufacturing.
+10 "Manufacturing equipment" does not include a vehicle that
+11 leaves the site of a manufacturing operation for the purpose
+12 of transporting persons or property, including property for
+13 which the taxpayer claims a credit pursuant to Section 7-9-79
+14 NMSA 1978;
+15 (4) "qualified expenditure" means an
+16 expenditure made on or after January 1, 2025 and prior to
+17 January 1, 2033 for the purchase of that portion of the costs
+of manufacturing equipment dedicated to manufacturing
+18
+advanced energy products; and
+19
+(5) "qualified manufacturing facility" means
+20
+a facility located in New Mexico, including any connected,
+21
+associated or subsidiary facilities, that employs personnel
+22
+to perform production tasks with manufacturing equipment not
+23
+previously existing at the facility to produce advanced
+24
+energy products."
+25 HB 154
+Page 7
+
+1 SECTION 2. Section 7-2A-19.3 NMSA 1978 (being Laws
+2 2024, Chapter 67, Section 36) is amended to read:
+3 "7-2A-19.3. ADVANCED ENERGY EQUIPMENT CORPORATE INCOME
+4 TAX CREDIT.--
+5 A. The tax credit provided by this section may be
+6 referred to as the "advanced energy equipment corporate
+7 income tax credit". A taxpayer that makes qualified
+8 expenditures for a qualified manufacturing facility located
+9 in New Mexico and that files a corporate income tax return
+10 for a taxable year beginning on or after January 1, 2025, and
+11 prior to January 1, 2033, may claim the tax credit in the
+12 amount provided in Subsection B of this section.
+13 B. The amount of the tax credit shall be in an
+14 amount equal to the lesser of twenty percent of the amount of
+15 the qualified expenditures made by the taxpayer for a
+16 qualified manufacturing facility or twenty-five million
+17 dollars ($25,000,000).
+18 C. Prior to incurring a qualified expenditure, a
+19 taxpayer shall apply for preliminary certification of
+eligibility for the tax credit from the energy, minerals and
+20
+natural resources department on forms and in the manner
+21
+prescribed by that department. Such preliminary
+22
+certification shall be made in consultation with the economic
+23
+development department and shall be limited to confirming
+24
+that the qualified expenditures proposed to be made by the
+25 HB 154
+Page 8
+
+1 taxpayer will in whole or in part be used to produce advanced
+2 energy products and providing an estimate of the amount of
+3 tax credit for which the taxpayer may be eligible. Only one
+4 certificate of eligibility shall be issued for all activities
+5 performed at a qualified manufacturing facility, regardless
+6 of ownership of the facility.
+7 D. Within twelve months of commencement of
+8 production of any advanced energy product, the taxpayer shall
+9 seek final certification from the energy, minerals and
+10 natural resources department. The total annual aggregate
+11 amount of advanced energy equipment corporate income tax
+12 credits and advanced energy equipment income tax credits that
+13 may be certified in a calendar year shall not exceed twenty-
+14 five million dollars ($25,000,000). An application for final
+15 certification shall include information required by the
+16 energy, minerals and natural resources department to
+17 determine eligibility for the tax credit, including
+information substantiating qualified expenditures. If, after
+18
+consultation with the economic development department, the
+19
+energy, minerals and natural resources department determines
+20
+that the taxpayer meets the requirements of this section, the
+21
+energy, minerals and natural resources department shall issue
+22
+a dated certificate of eligibility to the taxpayer providing
+23
+the amount of tax credit for which the taxpayer is eligible
+24
+and the taxable years in which the credit may be claimed.
+25 HB 154
+Page 9
+
+1 The energy, minerals and natural resources department shall
+2 provide the department with the certificates of eligibility
+3 issued pursuant to this subsection in an electronic format at
+4 regularly agreed-upon intervals. A certificate of
+5 eligibility for the tax credit may be sold, exchanged or
+6 otherwise transferred to another taxpayer in increments of
+7 not less than one million dollars ($1,000,000); provided that
+8 if the total amount certified is less than one million
+9 dollars ($1,000,000), a certificate of the entire amount of
+10 the credit may be transferred. The parties to such a
+11 transaction shall notify the department of the sale, exchange
+12 or transfer within ten days of the sale, exchange or transfer
+13 in an electronic format prescribed by the department.
+14 E. A taxpayer allowed to claim the tax credit
+15 shall claim the credit in a manner required by the
+16 department. The tax credit shall be claimed within one year
+17 of receiving final certification from the energy, minerals
+and natural resources department. The taxpayer shall claim
+18
+the amount certified and approved against the taxpayer's
+19
+corporate income tax liabilities. Any amount of credit that
+20
+exceeds the taxpayer's corporate income tax liabilities may
+21
+be carried forward for five consecutive taxable years. A
+22
+taxpayer that claims the tax credit shall report to the
+23
+department and the energy, minerals and natural resources
+24
+department on the continued operations of the qualified
+25 HB 154
+Page 10
+
+1 manufacturing facility.
+2 F. If the taxpayer or a successor in the business
+3 of the taxpayer ceases operations at the qualifying
+4 manufacturing facility or ceases to produce advanced energy
+5 products for at least one hundred eighty days within a two-
+6 year period after the taxpayer has claimed the tax credit,
+7 any amount of credit that received final certification with
+8 respect to that facility that is not claimed against a
+9 taxpayer's tax liability shall be extinguished, and within
+10 thirty days after the one hundred eightieth day of cessation
+11 of operations, the taxpayer that received final certification
+12 pursuant to Subsection D of this section shall pay to the
+13 department the tax liability against which the certified
+14 credit was claimed. For the purposes of this section, a
+15 taxpayer shall not be deemed to have ceased operations during
+16 reasonable periods for maintenance or retooling, for the
+17 repair or replacement of facilities damaged or destroyed or
+during labor disputes.
+18
+G. The tax credit provided by this section shall
+19
+be included in the tax expenditure budget pursuant to Section
+20
+7-1-84 NMSA 1978, including the annual aggregate cost of the
+21
+tax credit.
+22
+H. As used in this section:
+23
+(1) "advanced energy product" means:
+24
+(a) a solar energy component, including
+25 HB 154
+Page 11
+
+1 a solar module, photovoltaic cell, photovoltaic wafer, solar-
+2 grade polysilicon, torque tube, structural fastener or
+3 polymeric backsheet;
+4 (b) a wind energy component, including
+5 a wind turbine blade, nacelle and tower;
+6 (c) a battery component, including an
+7 electrode-active material, a battery cell and a battery
+8 module;
+9 (d) a fusion machine and the components
+10 of a fusion machine that can transform atomic nuclei through
+11 fusion processes into different elements, isotopes or other
+12 particles, including associated systems essential to
+13 facilitate fusion processes;
+14 (e) a critical mineral, if converted or
+15 purified to specified purities or forms, including aluminum,
+16 antimony, arsenic, barite, bismuth, cerium, cesium, chromium,
+17 cobalt, dysprosium, erbium, europium, fluorspar, gadolinium,
+gallium, germanium, graphite, hafnium, holmium, indium,
+18
+iridium, lanthanum, lithium, lutetium, magnesium, manganese,
+19
+neodymium, nickel, niobium, palladium, platinum,
+20
+praseodymium, rhodium, rubidium, ruthenium, samarium,
+21
+tantalum, tellurium, terbium, thulium, tin, titanium,
+22
+tungsten, vanadium, ytterbium, yttrium, zinc and zirconium;
+23
+and
+24
+(f) an inverter that is an end product,
+25 HB 154
+Page 12
+
+1 which is suitable to convert direct current energy from one
+2 or more solar module or certified distributed wind energy
+3 systems into alternating current electricity, including a
+4 central inverter, commercial inverter, distributed wind
+5 inverter, microinverter, residential inverter or utility
+6 inverter;
+7 (2) "essential" means directly necessary to
+8 the production of an advanced energy product;
+9 (3) "manufacturing equipment" means an
+10 essential machine, mechanism or tool or a component of an
+11 essential machine, mechanism or tool used directly and
+12 exclusively in a taxpayer's qualified manufacturing facility
+13 and that is subject to depreciation pursuant to the Internal
+14 Revenue Code by the taxpayer carrying on the manufacturing.
+15 "Manufacturing equipment" does not include a vehicle that
+16 leaves the site of a manufacturing operation for the purpose
+17 of transporting persons or property, including property for
+which the taxpayer claims a credit pursuant to Section 7-9-79
+18
+NMSA 1978;
+19
+(4) "qualified expenditure" means an
+20
+expenditure made on or after January 1, 2025 and prior to
+21
+January 1, 2033 for the purchase of that portion of the costs
+22
+of manufacturing equipment dedicated to manufacturing
+23
+advanced energy products; and
+24
+(5) "qualified manufacturing facility" means
+25 HB 154
+Page 13
+
+1 a facility located in New Mexico, including any connected,
+2 associated or subsidiary facilities, that employs personnel
+3 to perform production tasks with manufacturing equipment not
+4 previously existing at the facility to produce advanced
+5 energy products."
+6 SECTION 3. APPLICABILITY.--The provisions of this act
+7 apply to taxable years beginning on or after January 1, 2026. HB 154
+Page 14
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+[DELETED:  S]

@@ -1,0 +1,171 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 1
+Source: versions - Final Version
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2 RELATING TO HEALTH CARE AFFORDABILITY; ADJUSTING THE
+3 DISTRIBUTIONS TO THE HEALTH CARE AFFORDABILITY FUND AND THE
+4 BEHAVIORAL HEALTH PROGRAM FUND; REQUIRING UNEXPENDED MONEY IN
+5 THE BEHAVIORAL HEALTH PROGRAM FUND TO REVERT TO THE HEALTH
+6 CARE AFFORDABILITY FUND AT THE END OF A FISCAL YEAR.
+7
+8 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+9 SECTION 1. Section 7-1-6.69 NMSA 1978 (being Laws 2021,
+10 Chapter 136, Section 1, as amended) is amended to read:
+11 "7-1-6.69. DISTRIBUTION--HEALTH INSURANCE PREMIUM
+12 SURTAX--HEALTH CARE AFFORDABILITY FUND--BEHAVIORAL HEALTH
+13 PROGRAM FUND.--
+14 A. A distribution pursuant to Section 7-1-6.1 NMSA
+15 1978 shall be made to the health care affordability fund in
+16 an amount equal to the following amounts of the net receipts
+17 attributable to the health insurance premium surtax; provided
+18 that if the rate of the health insurance premium surtax is
+19 reduced pursuant to Subsection F of Section 7-40-3 NMSA 1978,
+20 no distribution pursuant to this section shall be made:
+21 (1) beginning September 1, 2025 and prior to
+22 September 1, 2027, fifty-five percent;
+23 (2) beginning September 1, 2027 and prior to
+24 September 1, 2028, eighty percent; and
+25 (3) beginning September 1, 2028, ninety-five HAFC/HB 4/a
+Page 1
+1 percent.
+2 B. Beginning September 1, 2028, a distribution
+3 pursuant to Section 7-1-6.1 NMSA 1978 shall be made to the
+4 behavioral health program fund in an amount equal to five
+5 percent of the net receipts attributable to the health
+6 insurance premium surtax; provided that if the rate of the
+7 health insurance premium surtax is reduced pursuant to
+8 Subsection F of Section 7-40-3 NMSA 1978, no distribution
+9 pursuant to this section shall be made."
+10 SECTION 2. Section 24A-3-6 NMSA 1978 (being Laws 2025,
+11 Chapter 2, Section 2) is amended to read:
+12 "24A-3-6. BEHAVIORAL HEALTH PROGRAM FUND.--
+13 A. The "behavioral health program fund" is created
+14 in the state treasury. The fund consists of distributions,
+15 appropriations, gifts, grants, donations and income from
+16 investment of the fund. The health care authority shall
+17 administer the fund. Money in the fund is subject to
+18 appropriation by the legislature to provide money for
+19 services and programs related to behavioral health,
+20 including:
+21 (1) mental health and substance misuse
+22 treatment, intervention and prevention;
+23 (2) necessary infrastructure, technology and
+24 workforce supports that facilitate the delivery of behavioral
+25 health services and programs; HAFC/HB 4/a
+Page 2
+1 (3) matching funds for federal, local and
+2 private money and grants related to behavioral health
+3 services and programs;
+4 (4) offsetting costs incurred to comply with
+5 federal requirements related to behavioral health services
+6 and programs; and
+7 (5) implementation of regional behavioral
+8 health plans throughout the state.
+9 B. Expenditures from the fund shall be by warrant
+10 of the secretary of finance and administration pursuant to
+11 vouchers signed by the secretary of health care authority or
+12 the secretary's authorized representative. Any unexpended
+13 balance remaining at the end of a fiscal year shall revert to
+14 the health care affordability fund." HAFC/HB 4/a
+Page 3
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO HEALTH CARE AFFORDABILITY; ADJUSTING THE
+3 DISTRIBUTIONS TO THE HEALTH CARE AFFORDABILITY FUND AND THE
+4 BEHAVIORAL HEALTH PROGRAM FUND; REQUIRING UNEXPENDED MONEY IN
+5 THE BEHAVIORAL HEALTH PROGRAM FUND TO REVERT TO THE HEALTH
+6 CARE AFFORDABILITY FUND AT THE END OF A FISCAL YEAR.
+7
+8 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+9 SECTION 1. Section 7-1-6.69 NMSA 1978 (being Laws 2021,
+10 Chapter 136, Section 1, as amended) is amended to read:
+11 "7-1-6.69. DISTRIBUTION--HEALTH INSURANCE PREMIUM
+12 SURTAX--HEALTH CARE AFFORDABILITY FUND--BEHAVIORAL HEALTH
+13 PROGRAM FUND.--
+14 A. A distribution pursuant to Section 7-1-6.1 NMSA
+15 1978 shall be made to the health care affordability fund in
+16 an amount equal to the following amounts of the net receipts
+17 attributable to the health insurance premium surtax; provided
+18 that if the rate of the health insurance premium surtax is
+19 reduced pursuant to Subsection F of Section 7-40-3 NMSA 1978,
+20 no distribution pursuant to this section shall be made:
+21 (1) beginning September 1, 2025 and prior to
+22 September 1, 2027, fifty-five percent;
+23 (2) beginning September 1, 2027 and prior to
+24 September 1, 2028, eighty percent; and
+25 (3) beginning September 1, 2028, ninety-five HAFC/HB 4/a
+Page 1
+
+1 percent.
+2 B. Beginning September 1, 2028, a distribution
+3 pursuant to Section 7-1-6.1 NMSA 1978 shall be made to the
+4 behavioral health program fund in an amount equal to five
+5 percent of the net receipts attributable to the health
+6 insurance premium surtax; provided that if the rate of the
+7 health insurance premium surtax is reduced pursuant to
+8 Subsection F of Section 7-40-3 NMSA 1978, no distribution
+9 pursuant to this section shall be made."
+10 SECTION 2. Section 24A-3-6 NMSA 1978 (being Laws 2025,
+11 Chapter 2, Section 2) is amended to read:
+12 "24A-3-6. BEHAVIORAL HEALTH PROGRAM FUND.--
+13 A. The "behavioral health program fund" is created
+14 in the state treasury. The fund consists of distributions,
+15 appropriations, gifts, grants, donations and income from
+16 investment of the fund. The health care authority shall
+17 administer the fund. Money in the fund is subject to
+18 appropriation by the legislature to provide money for
+19 services and programs related to behavioral health,
+20 including:
+21 (1) mental health and substance misuse
+22 treatment, intervention and prevention;
+23 (2) necessary infrastructure, technology and
+24 workforce supports that facilitate the delivery of behavioral
+25 health services and programs; HAFC/HB 4/a
+Page 2
+
+1 (3) matching funds for federal, local and
+2 private money and grants related to behavioral health
+3 services and programs;
+4 (4) offsetting costs incurred to comply with
+5 federal requirements related to behavioral health services
+6 and programs; and
+7 (5) implementation of regional behavioral
+8 health plans throughout the state.
+9 B. Expenditures from the fund shall be by warrant
+10 of the secretary of finance and administration pursuant to
+11 vouchers signed by the secretary of health care authority or
+12 the secretary's authorized representative. Any unexpended
+13 balance remaining at the end of a fiscal year shall revert to
+14 the health care affordability fund." HAFC/HB 4/a
+Page 3
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25

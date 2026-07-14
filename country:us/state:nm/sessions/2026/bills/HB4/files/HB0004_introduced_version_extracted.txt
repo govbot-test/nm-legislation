@@ -1,0 +1,16 @@
+Title: HB0004
+Official Title: 
+Number of Sections: 1
+Source: versions - introduced version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HB0004 HOUSE BILL 4 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Reena Szczepanski and Elizabeth "Liz" Thomson and Roberto "Bobby" J. Gonzales and Joseph Franklin Hernandez and Anita Gonzales AN ACT RELATING TO HEALTH CARE AFFORDABILITY; ADJUSTING THE DISTRIBUTIONS TO THE HEALTH CARE AFFORDABILITY FUND. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. Section 7-1-6.69 NMSA 1978 (being Laws 2021, Chapter 136, Section 1, as amended) is amended to read: "7-1-6.69. DISTRIBUTION--HEALTH INSURANCE PREMIUM SURTAX--HEALTH CARE AFFORDABILITY FUND.--A distribution pursuant to Section 7-1-6.1 NMSA 1978 shall be made to the health care affordability fund in an amount equal to the following amounts of the net receipts attributable to the health insurance premium surtax; provided that if the rate of the health insurance premium surtax is reduced pursuant to Subsection F of Section 7-40-3 NMSA 1978, no distribution pursuant to this section shall be made: [A. prior to July 1, 2024, fifty-five percent; B. beginning July 1, 2024 and prior to September 1, 2025, thirty percent; and C.] A. beginning September 1, 2025 and prior to September 1, 2026, fifty-five percent; and B. beginning September 1, 2026, one hundred percent." - 2 -
+
+
+================================================================================
+
+Raw Text:
+HB0004 HOUSE BILL 4 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Reena Szczepanski and Elizabeth "Liz" Thomson and Roberto "Bobby" J. Gonzales and Joseph Franklin Hernandez and Anita Gonzales AN ACT RELATING TO HEALTH CARE AFFORDABILITY; ADJUSTING THE DISTRIBUTIONS TO THE HEALTH CARE AFFORDABILITY FUND. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. Section 7-1-6.69 NMSA 1978 (being Laws 2021, Chapter 136, Section 1, as amended) is amended to read: "7-1-6.69. DISTRIBUTION--HEALTH INSURANCE PREMIUM SURTAX--HEALTH CARE AFFORDABILITY FUND.--A distribution pursuant to Section 7-1-6.1 NMSA 1978 shall be made to the health care affordability fund in an amount equal to the following amounts of the net receipts attributable to the health insurance premium surtax; provided that if the rate of the health insurance premium surtax is reduced pursuant to Subsection F of Section 7-40-3 NMSA 1978, no distribution pursuant to this section shall be made: [A. prior to July 1, 2024, fifty-five percent; B. beginning July 1, 2024 and prior to September 1, 2025, thirty percent; and C.] A. beginning September 1, 2025 and prior to September 1, 2026, fifty-five percent; and B. beginning September 1, 2026, one hundred percent." - 2 -

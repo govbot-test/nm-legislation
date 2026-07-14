@@ -1,0 +1,767 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 4
+Source: versions - Final Version
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2 RELATING TO PUBLIC EDUCATION; INCREASING MATHEMATICS
+3 REQUIREMENTS FOR TEACHING LICENSURE OR ENDORSEMENT; PROVIDING
+4 FOR A MATHEMATICS INSTRUCTIONAL LEADERSHIP FRAMEWORK,
+5 PROFESSIONAL LEARNING PLANS, SCREENING ASSESSMENTS, SUPPORT
+6 PLANS, MULTILEVEL SUPPORTS AND OTHER MEANS TO IMPROVE STUDENT
+7 SUCCESS IN MATHEMATICS; PROVIDING POWERS AND DUTIES.
+8
+9 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+10 SECTION 1. Section 22-10A-6 NMSA 1978 (being Laws 1986,
+11 Chapter 33, Section 8, as amended) is amended to read:
+12 "22-10A-6. EDUCATIONAL REQUIREMENTS FOR LICENSURE.--
+13 A. The department shall require a person seeking
+14 licensure or reciprocity in elementary, special, early
+15 childhood or secondary education to have completed the
+16 following minimum requirements in the college of arts and
+17 sciences:
+18 (1) nine semester hours in communication;
+19 (2) six semester hours in mathematics;
+20 (3) eight semester hours in laboratory
+21 science;
+22 (4) nine semester hours in social and
+23 behavioral science; and
+24 (5) nine semester hours in humanities and
+25 fine arts. SB 29
+Page 1
+1 B. In addition to the requirements specified in
+2 Subsections A and C of this section, the department shall
+3 require that a person seeking standard or alternative
+4 elementary licensure shall have completed six hours of
+5 reading courses and six hours of mathematics methods courses.
+6 A person seeking standard or alternative secondary licensure
+7 shall have completed three hours of reading courses in
+8 subject matter content and, if seeking a mathematics
+9 endorsement, six hours of mathematics methods courses. The
+10 hours of mathematics methods required by this 2026 act shall
+11 apply to licenses issued on or after July 1, 2028.
+12 C. Except for licensure by reciprocity, the
+13 department shall require, prior to initial licensure, no less
+14 than sixteen weeks of student teaching, a portion of which
+15 shall occur in the first thirty credit hours taken in the
+16 college of education and shall be under the direct
+supervision of a teacher and a portion of which shall occur
+17
+in the student's senior year with the student teacher being
+18
+directly responsible for the classroom.
+19
+D. Nothing in this section shall preclude the
+20
+department from establishing or accepting equivalent
+21
+requirements for purposes of reciprocal licensure or minimum
+22
+requirements for alternative licensure.
+23
+E. Vocational teacher preparatory programs may be
+24
+exempt from Subsections A through C of this section upon a
+25 SB 29
+Page 2
+1 determination by the department that other licensure
+2 requirements are more appropriate for vocational teacher
+3 preparatory programs.
+4 F. Before December 31, 2021, the department shall
+5 create a license endorsement in secondary computer science
+6 available to all teachers who hold a valid license and
+7 demonstrate sufficient content knowledge in computer science
+8 as determined by the department. The department shall
+9 consult with computer science education experts with
+10 experience in creating or supporting computer science
+11 endorsement pathways when developing computer science
+12 endorsement requirements."
+13 SECTION 2. Section 22-15E-1 NMSA 1978 (being Laws 2007,
+14 Chapter 44, Section 1 and Laws 2007, Chapter 239, Section 1)
+15 is amended to read:
+16 "22-15E-1. SHORT TITLE.-- Chapter 22, Article 15E NMSA
+1978 may be cited as the "Mathematics and Science Education
+17
+Act"."
+18
+
+Section 2:
+SECTION 3. Section 22-15E-2 NMSA 1978 (being Laws 2007,
+19
+Chapter 44, Section 2 and Laws 2007, Chapter 239, Section 2)
+20
+is amended to read:
+21
+"22-15E-2. DEFINITIONS.--As used in the Mathematics and
+22
+Science Education Act:
+23
+A. "bureau" means the mathematics and science
+24
+bureau;
+25 SB 29
+Page 3
+1 B. "chief" means the chief of the bureau;
+2 C. "council" means the mathematics and science
+3 advisory council;
+4 D. "mathematics difficulty" means a student's
+5 inability to perform at grade level when learning or applying
+6 mathematical concepts, as determined by screening or other
+7 assessments;
+8 E. "mathematics instructional leadership
+9 framework" means a structured, evidence-based model developed
+10 by the department to strengthen mathematics teaching and
+11 learning;
+12 F. "mathematics professional learning plan" means
+13 a plan developed by a school district or charter school on a
+14 department-provided template that is aligned with the
+15 department's mathematics instructional leadership framework;
+16 G. "mathematics screening assessment" means a
+department-approved, grade-specific and nondiagnostic
+17
+assessment administered at the beginning of the school year
+18
+to assess a student's performance in mathematics; and
+19
+H. "mathematics support plan" means a written plan
+20
+developed for a student on a department-provided template
+21
+that identifies individualized and differentiated areas of
+22
+mathematics learning needs and that describes specific
+23
+intervention strategies that will be provided at school and
+24
+strategies that can be used by parents to support student
+25 SB 29
+Page 4
+1 learning."
+2 SECTION 4. Section 22-15E-3 NMSA 1978 (being Laws 2007,
+3 Chapter 44, Section 3 and Laws 2007, Chapter 239, Section 3)
+4 is amended to read:
+5 "22-15E-3. BUREAU CREATED--DUTIES.--
+6 A. The "mathematics and science bureau" is created
+7 in the department. The secretary shall appoint the chief as
+8 provided in the Public Education Department Act.
+9 B. The bureau shall:
+10 (1) administer the provisions of the
+11 Mathematics and Science Education Act;
+12 (2) provide staff support for and coordinate
+13 the activities of the council;
+14 (3) work with the council to develop a
+15 statewide strategic plan for mathematics and science
+16 education in the public schools and coordinate education
+activities with other state agencies, the federal government,
+17
+business consortia and public or private organizations or
+18
+other persons;
+19
+(4) ensure that school districts' plans
+20
+include goals for improving mathematics and science education
+21
+aligned to the department's strategic plan;
+22
+(5) recommend funding mechanisms that
+23
+support the improvement of mathematics and science education
+24
+in the state, including web-based mathematics and science
+25 SB 29
+Page 5
+1 curricula, mentoring and web-based homework assistance;
+2 (6) promote partnerships among public
+3 schools, higher education institutions, government, business
+4 and educational and community organizations to improve the
+5 mathematics and science education in the state;
+6 (7) monitor the use of instructional
+7 materials and evaluate instructional programs and
+8 professional learning programs in mathematics and science to
+9 ensure alignment with state academic content and performance
+10 standards;
+11 (8) assess the outcomes of efforts to
+12 improve mathematics and science education using existing
+13 data;
+14 (9) in collaboration with the council,
+15 develop guidelines for school districts and charter schools
+16 to use when developing mathematics professional learning
+plans, mathematics screening assessments in kindergarten
+17
+through third grade, mathematics support plans and
+18
+mathematics intervention services;
+19
+(10) provide training and technical
+20
+assistance to school districts and charter schools on
+21
+developing mathematics professional learning plans,
+22
+implementing mathematics screening assessments, developing
+23
+mathematics support plans and mathematics interventions,
+24
+including selecting evidence-based instructional materials,
+25 SB 29
+Page 6
+1 monitoring student progress and involving parents;
+2 (11) adopt grade-specific mathematics
+3 assessments that can be administered with minimal impact on
+4 instructional time; and
+5 (12) provide for timely reporting of
+6 assessment results that can be integrated with instructional
+7 support for teachers and students."
+8 SECTION 5. A new section of the Mathematics and Science
+9 Education Act is enacted to read:
+10 "MATHEMATICS INSTRUCTIONAL LEADERSHIP FRAMEWORK--
+11 MATHEMATICS PROFESSIONAL LEARNING PLANS.--
+12 A. By December 31, 2026, the department and
+13 bureau, in consultation with the council, shall develop and
+14 publish a mathematics instructional leadership framework that
+15 includes the following:
+16 (1) defined roles and responsibilities of
+instructional leaders, including principals, instructional
+17
+coaches and teacher leaders, in supporting mathematics
+18
+instruction;
+19
+(2) standards for high-quality mathematics
+20
+instruction and professional learning aligned with state
+21
+academic content and performance standards and evidence-based
+22
+research;
+23
+(3) core competencies for teachers and
+24
+instructional leaders in mathematics pedagogy, data use and
+25 SB 29
+Page 7
+1 student engagement;
+2 (4) guidance for implementing mathematics
+3 coaching, mentoring and collaborative planning structures to
+4 improve classroom practice;
+5 (5) procedures for monitoring, evaluating,
+6 supporting and continuously improving mathematics teaching
+7 and learning at the public school, school district and state
+8 levels; and
+9 (6) a description of technical assistance
+10 that may be provided to school districts and charter schools
+11 to support mathematics instruction.
+12 B. Beginning in the 2027-2028 school year, each
+13 school district and charter school shall develop and implement
+14 elementary and secondary mathematics professional learning
+15 plans that include:
+16 (1) goals for teacher content knowledge and
+instructional practices in mathematics;
+17
+(2) a description of professional learning
+18
+activities and instructional supports; and
+19
+(3) a plan to monitor and evaluate
+20
+professional learning in mathematics over time.
+21
+C. Mathematics professional learning plans shall
+22
+be aligned to the department's mathematics instructional
+23
+leadership framework and shall be developed in cooperation
+24
+with teachers and public school administrators and shall be
+25 SB 29
+Page 8
+1 updated at least once every two years."
+2 SECTION 6. A new section of the Mathematics and Science
+3 Education Act is enacted to read:
+4 "KINDERGARTEN THROUGH THIRD GRADE MATHEMATICS SCREENING
+5 AND EVALUATIONS--INTERVENTIONS--SUPPORT.--
+6 A. Beginning in the 2027-2028 school year, each
+7 school district and charter school shall administer a
+8 mathematics screening assessment to every student in
+9 kindergarten through third grade.
+10 B. If a school determines that a student in
+11 kindergarten through third grade displays characteristics of a
+12 mathematics difficulty as determined by an analysis of the
+13 student's mathematics screening assessment, the public school
+14 shall, within thirty days of the determination, notify the
+15 student's parent of the results and provide a mathematics
+16 support plan that includes:
+(1) a description of the student's
+17
+mathematics screening assessment results and specific areas of
+18
+need;
+19
+(2) mathematics interventions that will be
+20
+provided to the student;
+21
+(3) an assurance that the parent will
+22
+receive written reports on the student's progress at least
+23
+four times each school year; and
+24
+(4) strategies that can be used by parents
+25 SB 29
+Page 9
+1 to support student learning.
+2 C. Mathematics interventions provided to students
+3 shall be aligned to the department's mathematics instructional
+4 leadership framework and the school's mathematics professional
+5 learning plan and shall:
+6 (1) include a multilayered system of support
+7 that progresses from less intensive to more intensive based on
+8 the student's needs;
+9 (2) be aligned to core instruction;
+10 (3) be targeted, differentiated and
+11 supplemental to core instruction; and
+12 (4) be aligned with evidence-based
+13 instructional strategies.
+14 D. The department shall provide guidance on the
+15 interventions and multilayered system of support that a public
+16 school is required to provide pursuant to Subsection C of this
+
+Section 3:
+section."
+17
+
+Section 4:
+SECTION 7. A new section of the Mathematics and Science
+18
+Education Act is enacted to read:
+19
+"ADMINISTRATION--REPORTING.--
+20
+A. By December 31, 2026, the department, in
+21
+consultation with the council, shall promulgate rules to
+22
+implement the provisions of the Mathematics and Science
+23
+Education Act. Rules shall include criteria for approved
+24
+mathematics screening assessments, standards for the
+25 SB 29
+Page 10
+1 mathematics instructional leadership framework and mathematics
+2 professional learning plans and identified mathematics
+3 interventions.
+4 B. No later than July 1, 2028 and no later than
+5 July 1 of each year thereafter, the department shall prepare
+6 and submit to the governor and the legislative education study
+7 committee a report that includes the following:
+8 (1) the number of students by grade level
+9 identified with mathematics difficulty and served through
+10 mathematics support plans;
+11 (2) the types and effectiveness of
+12 interventions implemented;
+13 (3) implementation status of the mathematics
+14 instructional leadership framework and mathematics
+15 professional learning plans across school districts and
+16 charter schools; and
+(4) recommendations for legislative or
+17
+budgetary action to improve mathematics instruction and
+18
+19 student outcomes." SB 29
+Page 11
+20
+21
+22
+23
+24
+25
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO PUBLIC EDUCATION; INCREASING MATHEMATICS
+3 REQUIREMENTS FOR TEACHING LICENSURE OR ENDORSEMENT; PROVIDING
+4 FOR A MATHEMATICS INSTRUCTIONAL LEADERSHIP FRAMEWORK,
+5 PROFESSIONAL LEARNING PLANS, SCREENING ASSESSMENTS, SUPPORT
+6 PLANS, MULTILEVEL SUPPORTS AND OTHER MEANS TO IMPROVE STUDENT
+7 SUCCESS IN MATHEMATICS; PROVIDING POWERS AND DUTIES.
+8
+9 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+10 SECTION 1. Section 22-10A-6 NMSA 1978 (being Laws 1986,
+11 Chapter 33, Section 8, as amended) is amended to read:
+12 "22-10A-6. EDUCATIONAL REQUIREMENTS FOR LICENSURE.--
+13 A. The department shall require a person seeking
+14 licensure or reciprocity in elementary, special, early
+15 childhood or secondary education to have completed the
+16 following minimum requirements in the college of arts and
+17 sciences:
+18 (1) nine semester hours in communication;
+19 (2) six semester hours in mathematics;
+20 (3) eight semester hours in laboratory
+21 science;
+22 (4) nine semester hours in social and
+23 behavioral science; and
+24 (5) nine semester hours in humanities and
+25 fine arts. SB 29
+Page 1
+
+1 B. In addition to the requirements specified in
+2 Subsections A and C of this section, the department shall
+3 require that a person seeking standard or alternative
+4 elementary licensure shall have completed six hours of
+5 reading courses and six hours of mathematics methods courses.
+6 A person seeking standard or alternative secondary licensure
+7 shall have completed three hours of reading courses in
+8 subject matter content and, if seeking a mathematics
+9 endorsement, six hours of mathematics methods courses. The
+10 hours of mathematics methods required by this 2026 act shall
+11 apply to licenses issued on or after July 1, 2028.
+12 C. Except for licensure by reciprocity, the
+13 department shall require, prior to initial licensure, no less
+14 than sixteen weeks of student teaching, a portion of which
+15 shall occur in the first thirty credit hours taken in the
+16 college of education and shall be under the direct
+supervision of a teacher and a portion of which shall occur
+17
+in the student's senior year with the student teacher being
+18
+directly responsible for the classroom.
+19
+D. Nothing in this section shall preclude the
+20
+department from establishing or accepting equivalent
+21
+requirements for purposes of reciprocal licensure or minimum
+22
+requirements for alternative licensure.
+23
+E. Vocational teacher preparatory programs may be
+24
+exempt from Subsections A through C of this section upon a
+25 SB 29
+Page 2
+
+1 determination by the department that other licensure
+2 requirements are more appropriate for vocational teacher
+3 preparatory programs.
+4 F. Before December 31, 2021, the department shall
+5 create a license endorsement in secondary computer science
+6 available to all teachers who hold a valid license and
+7 demonstrate sufficient content knowledge in computer science
+8 as determined by the department. The department shall
+9 consult with computer science education experts with
+10 experience in creating or supporting computer science
+11 endorsement pathways when developing computer science
+12 endorsement requirements."
+13 SECTION 2. Section 22-15E-1 NMSA 1978 (being Laws 2007,
+14 Chapter 44, Section 1 and Laws 2007, Chapter 239, Section 1)
+15 is amended to read:
+16 "22-15E-1. SHORT TITLE.-- Chapter 22, Article 15E NMSA
+1978 may be cited as the "Mathematics and Science Education
+17
+Act"."
+18
+SECTION 3. Section 22-15E-2 NMSA 1978 (being Laws 2007,
+19
+Chapter 44, Section 2 and Laws 2007, Chapter 239, Section 2)
+20
+is amended to read:
+21
+"22-15E-2. DEFINITIONS.--As used in the Mathematics and
+22
+Science Education Act:
+23
+A. "bureau" means the mathematics and science
+24
+bureau;
+25 SB 29
+Page 3
+
+1 B. "chief" means the chief of the bureau;
+2 C. "council" means the mathematics and science
+3 advisory council;
+4 D. "mathematics difficulty" means a student's
+5 inability to perform at grade level when learning or applying
+6 mathematical concepts, as determined by screening or other
+7 assessments;
+8 E. "mathematics instructional leadership
+9 framework" means a structured, evidence-based model developed
+10 by the department to strengthen mathematics teaching and
+11 learning;
+12 F. "mathematics professional learning plan" means
+13 a plan developed by a school district or charter school on a
+14 department-provided template that is aligned with the
+15 department's mathematics instructional leadership framework;
+16 G. "mathematics screening assessment" means a
+department-approved, grade-specific and nondiagnostic
+17
+assessment administered at the beginning of the school year
+18
+to assess a student's performance in mathematics; and
+19
+H. "mathematics support plan" means a written plan
+20
+developed for a student on a department-provided template
+21
+that identifies individualized and differentiated areas of
+22
+mathematics learning needs and that describes specific
+23
+intervention strategies that will be provided at school and
+24
+strategies that can be used by parents to support student
+25 SB 29
+Page 4
+
+1 learning."
+2 SECTION 4. Section 22-15E-3 NMSA 1978 (being Laws 2007,
+3 Chapter 44, Section 3 and Laws 2007, Chapter 239, Section 3)
+4 is amended to read:
+5 "22-15E-3. BUREAU CREATED--DUTIES.--
+6 A. The "mathematics and science bureau" is created
+7 in the department. The secretary shall appoint the chief as
+8 provided in the Public Education Department Act.
+9 B. The bureau shall:
+10 (1) administer the provisions of the
+11 Mathematics and Science Education Act;
+12 (2) provide staff support for and coordinate
+13 the activities of the council;
+14 (3) work with the council to develop a
+15 statewide strategic plan for mathematics and science
+16 education in the public schools and coordinate education
+activities with other state agencies, the federal government,
+17
+business consortia and public or private organizations or
+18
+other persons;
+19
+(4) ensure that school districts' plans
+20
+include goals for improving mathematics and science education
+21
+aligned to the department's strategic plan;
+22
+(5) recommend funding mechanisms that
+23
+support the improvement of mathematics and science education
+24
+in the state, including web-based mathematics and science
+25 SB 29
+Page 5
+
+1 curricula, mentoring and web-based homework assistance;
+2 (6) promote partnerships among public
+3 schools, higher education institutions, government, business
+4 and educational and community organizations to improve the
+5 mathematics and science education in the state;
+6 (7) monitor the use of instructional
+7 materials and evaluate instructional programs and
+8 professional learning programs in mathematics and science to
+9 ensure alignment with state academic content and performance
+10 standards;
+11 (8) assess the outcomes of efforts to
+12 improve mathematics and science education using existing
+13 data;
+14 (9) in collaboration with the council,
+15 develop guidelines for school districts and charter schools
+16 to use when developing mathematics professional learning
+plans, mathematics screening assessments in kindergarten
+17
+through third grade, mathematics support plans and
+18
+mathematics intervention services;
+19
+(10) provide training and technical
+20
+assistance to school districts and charter schools on
+21
+developing mathematics professional learning plans,
+22
+implementing mathematics screening assessments, developing
+23
+mathematics support plans and mathematics interventions,
+24
+including selecting evidence-based instructional materials,
+25 SB 29
+Page 6
+
+1 monitoring student progress and involving parents;
+2 (11) adopt grade-specific mathematics
+3 assessments that can be administered with minimal impact on
+4 instructional time; and
+5 (12) provide for timely reporting of
+6 assessment results that can be integrated with instructional
+7 support for teachers and students."
+8 SECTION 5. A new section of the Mathematics and Science
+9 Education Act is enacted to read:
+10 "MATHEMATICS INSTRUCTIONAL LEADERSHIP FRAMEWORK--
+11 MATHEMATICS PROFESSIONAL LEARNING PLANS.--
+12 A. By December 31, 2026, the department and
+13 bureau, in consultation with the council, shall develop and
+14 publish a mathematics instructional leadership framework that
+15 includes the following:
+16 (1) defined roles and responsibilities of
+instructional leaders, including principals, instructional
+17
+coaches and teacher leaders, in supporting mathematics
+18
+instruction;
+19
+(2) standards for high-quality mathematics
+20
+instruction and professional learning aligned with state
+21
+academic content and performance standards and evidence-based
+22
+research;
+23
+(3) core competencies for teachers and
+24
+instructional leaders in mathematics pedagogy, data use and
+25 SB 29
+Page 7
+
+1 student engagement;
+2 (4) guidance for implementing mathematics
+3 coaching, mentoring and collaborative planning structures to
+4 improve classroom practice;
+5 (5) procedures for monitoring, evaluating,
+6 supporting and continuously improving mathematics teaching
+7 and learning at the public school, school district and state
+8 levels; and
+9 (6) a description of technical assistance
+10 that may be provided to school districts and charter schools
+11 to support mathematics instruction.
+12 B. Beginning in the 2027-2028 school year, each
+13 school district and charter school shall develop and implement
+14 elementary and secondary mathematics professional learning
+15 plans that include:
+16 (1) goals for teacher content knowledge and
+instructional practices in mathematics;
+17
+(2) a description of professional learning
+18
+activities and instructional supports; and
+19
+(3) a plan to monitor and evaluate
+20
+professional learning in mathematics over time.
+21
+C. Mathematics professional learning plans shall
+22
+be aligned to the department's mathematics instructional
+23
+leadership framework and shall be developed in cooperation
+24
+with teachers and public school administrators and shall be
+25 SB 29
+Page 8
+
+1 updated at least once every two years."
+2 SECTION 6. A new section of the Mathematics and Science
+3 Education Act is enacted to read:
+4 "KINDERGARTEN THROUGH THIRD GRADE MATHEMATICS SCREENING
+5 AND EVALUATIONS--INTERVENTIONS--SUPPORT.--
+6 A. Beginning in the 2027-2028 school year, each
+7 school district and charter school shall administer a
+8 mathematics screening assessment to every student in
+9 kindergarten through third grade.
+10 B. If a school determines that a student in
+11 kindergarten through third grade displays characteristics of a
+12 mathematics difficulty as determined by an analysis of the
+13 student's mathematics screening assessment, the public school
+14 shall, within thirty days of the determination, notify the
+15 student's parent of the results and provide a mathematics
+16 support plan that includes:
+(1) a description of the student's
+17
+mathematics screening assessment results and specific areas of
+18
+need;
+19
+(2) mathematics interventions that will be
+20
+provided to the student;
+21
+(3) an assurance that the parent will
+22
+receive written reports on the student's progress at least
+23
+four times each school year; and
+24
+(4) strategies that can be used by parents
+25 SB 29
+Page 9
+
+1 to support student learning.
+2 C. Mathematics interventions provided to students
+3 shall be aligned to the department's mathematics instructional
+4 leadership framework and the school's mathematics professional
+5 learning plan and shall:
+6 (1) include a multilayered system of support
+7 that progresses from less intensive to more intensive based on
+8 the student's needs;
+9 (2) be aligned to core instruction;
+10 (3) be targeted, differentiated and
+11 supplemental to core instruction; and
+12 (4) be aligned with evidence-based
+13 instructional strategies.
+14 D. The department shall provide guidance on the
+15 interventions and multilayered system of support that a public
+16 school is required to provide pursuant to Subsection C of this
+section."
+17
+SECTION 7. A new section of the Mathematics and Science
+18
+Education Act is enacted to read:
+19
+"ADMINISTRATION--REPORTING.--
+20
+A. By December 31, 2026, the department, in
+21
+consultation with the council, shall promulgate rules to
+22
+implement the provisions of the Mathematics and Science
+23
+Education Act. Rules shall include criteria for approved
+24
+mathematics screening assessments, standards for the
+25 SB 29
+Page 10
+
+1 mathematics instructional leadership framework and mathematics
+2 professional learning plans and identified mathematics
+3 interventions.
+4 B. No later than July 1, 2028 and no later than
+5 July 1 of each year thereafter, the department shall prepare
+6 and submit to the governor and the legislative education study
+7 committee a report that includes the following:
+8 (1) the number of students by grade level
+9 identified with mathematics difficulty and served through
+10 mathematics support plans;
+11 (2) the types and effectiveness of
+12 interventions implemented;
+13 (3) implementation status of the mathematics
+14 instructional leadership framework and mathematics
+15 professional learning plans across school districts and
+16 charter schools; and
+(4) recommendations for legislative or
+17
+budgetary action to improve mathematics instruction and
+18
+19 student outcomes." SB 29
+Page 11
+20
+21
+22
+23
+24
+25

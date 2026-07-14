@@ -1,0 +1,16 @@
+Title: SB0004
+Official Title: 
+Number of Sections: 1
+Source: versions - introduced version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SB0004 SENATE BILL 4 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Carrie Hamblen and Martin Hickey and Jeff Steinborn and Cindy Nava and Pete Campos AN ACT MAKING AN APPROPRIATION TO THE HEALTH CARE AUTHORITY TO PROVIDE MEDICAID-DIRECTED PAYMENTS TO THE UNIVERSITY OF NEW MEXICO HEALTH SCIENCES CENTER FOR THE PURPOSE OF INCREASING GRADUATE MEDICAL EDUCATION RESIDENT AND FELLOW SALARIES. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. APPROPRIATION.--Two million dollars ($2,000,000) is appropriated from the general fund to the health care authority for expenditure in fiscal year 2027 to provide medicaid-directed payments to the university of New Mexico health sciences center for the purpose of increasing graduate medical education resident and fellow salaries. Any unexpended balance remaining at the end of fiscal year 2027 shall revert to the general fund. .232840.1
+
+
+================================================================================
+
+Raw Text:
+SB0004 SENATE BILL 4 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Carrie Hamblen and Martin Hickey and Jeff Steinborn and Cindy Nava and Pete Campos AN ACT MAKING AN APPROPRIATION TO THE HEALTH CARE AUTHORITY TO PROVIDE MEDICAID-DIRECTED PAYMENTS TO THE UNIVERSITY OF NEW MEXICO HEALTH SCIENCES CENTER FOR THE PURPOSE OF INCREASING GRADUATE MEDICAL EDUCATION RESIDENT AND FELLOW SALARIES. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. APPROPRIATION.--Two million dollars ($2,000,000) is appropriated from the general fund to the health care authority for expenditure in fiscal year 2027 to provide medicaid-directed payments to the university of New Mexico health sciences center for the purpose of increasing graduate medical education resident and fellow salaries. Any unexpended balance remaining at the end of fiscal year 2027 shall revert to the general fund. .232840.1

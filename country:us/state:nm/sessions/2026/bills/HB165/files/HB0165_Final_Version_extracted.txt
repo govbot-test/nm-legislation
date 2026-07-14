@@ -1,0 +1,611 @@
+Title: 1 AN ACT
+Official Title: 1 AN ACT
+Number of Sections: 2
+Source: versions - Final Version
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2 RELATING TO LOCAL GOVERNMENT; CLARIFYING THAT SPECIAL
+3 ASSESSMENTS UNDER THE IMPROVEMENT SPECIAL ASSESSMENT ACT
+4 SHALL BE PAID BY PROPERTY OWNERS OR LESSEES WHO HOLD
+5 INDUSTRIAL REVENUE BOND LEASES.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. Section 4-55D-2 NMSA 1978 (being Laws 2023,
+9 Chapter 150, Section 2) is amended to read:
+10 "4-55D-2. DEFINITIONS.--As used in the Improvement
+11 Special Assessment Act:
+12 A. "capital provider" means a private entity or
+13 its designee, successor or assigns that finances or
+14 refinances an eligible improvement pursuant to the
+15 Improvement Special Assessment Act;
+16 B. "county" means a county, including an H class
+17 county;
+18 C. "county ordinance" means an ordinance adopted
+19 by a county pursuant to the Improvement Special Assessment
+Act to establish a program within a designated region;
+20
+D. "department" means the economic development
+21
+department;
+22
+E. "eligible improvement" means a permanently
+23
+affixed energy efficiency improvement, renewable energy
+24
+improvement, water conservation improvement or resiliency
+25 HB 165
+Page 1
+1 improvement installed on eligible property as part of the
+2 construction or renovation of the property;
+3 F. "eligible property" means:
+4 (1) any privately owned commercial,
+5 industrial, agricultural or multifamily residential real
+6 property with five or more dwelling units, including real
+7 property owned by an entity formally recognized as tax exempt
+8 pursuant to Internal Revenue Code of 1986, as amended; or
+9 (2) property interests of a lessee under an
+10 industrial revenue bond lease for commercial, industrial,
+11 agricultural or multifamily residential real property with
+12 five or more dwelling units;
+13 G. "energy efficiency improvement" means measures,
+14 equipment or devices that result in a decrease in consumption
+15 of or demand for electricity or natural gas;
+16 H. "industrial revenue bond lease" means the lease
+17 of property by a county or municipality to a person in
+connection with a project under the authority of the
+18
+Industrial Revenue Bond Act or the County Industrial Revenue
+19
+Bond Act;
+20
+I. "lessee" means a lessee under an industrial
+21
+revenue bond lease;
+22
+J. "local government" means a municipality, county
+23
+or other general function governmental unit established by
+24
+state law;
+25 HB 165
+Page 2
+1 K. "municipal" or "municipality" means any
+2 incorporated city, town or village, whether incorporated
+3 under general act, special act or special charter,
+4 incorporated counties and H class counties;
+5 L. "program" means a special assessment program
+6 that utilizes and conforms to the program guidebook and
+7 uniform special assessment documents established by the
+8 department pursuant to the Improvement Special Assessment
+9 Act;
+10 M. "program administrator" means a person
+11 designated by a county to administer a program; "program
+12 administrator" may be the department, the county or a third
+13 party; provided that the administration procedures used
+14 conform to the requirements of the Improvement Special
+15 Assessment Act;
+16 N. "program guidebook" means a comprehensive
+17 document created by the department pursuant to the
+Improvement Special Assessment Act, including uniform
+18
+assessment documents, appropriate guidelines, specifications,
+19
+approval criteria and other standard forms consistent with
+20
+the administration of a program that are not detailed in the
+21
+Improvement Special Assessment Act;
+22
+O. "project application" means an application
+23
+submitted to a program administrator to demonstrate that a
+24
+proposed project qualifies for special assessment financing
+25 HB 165
+Page 3
+1 pursuant to a program;
+2 P. "region" means a geographical area as
+3 designated by a county pursuant to the Improvement Special
+4 Assessment Act;
+5 Q. "renewable energy improvement" means an energy
+6 system that generates energy by use of low- or zero-emissions
+7 generation technology with substantial long-term production,
+8 including solar, wind and geothermal resources, fuel cell
+9 equipment using an electrochemical process to generate
+10 electricity and heat or biomass resources;
+11 R. "resiliency improvement" means improvements
+12 that increase the resilience of a property, including air
+13 quality, flood mitigation, storm water management, energy
+14 storage and microgrids, alternative vehicle charging
+15 infrastructure, fire or wind resistance or inundation
+16 adaptation;
+17 S. "special assessment" means a voluntary
+assessment imposed on a property pursuant to the Improvement
+18
+Special Assessment Act for the total amount of special
+19
+assessment financing together with interest, penalties, fees
+20
+and charges related thereto;
+21
+T. "special assessment agreement" means a
+22
+voluntary agreement of a property owner to allow a county to
+23
+place an assessment on the owner's property to repay special
+24
+assessment financing pursuant to the Improvement Special
+25 HB 165
+Page 4
+1 Assessment Act;
+2 U. "special assessment assignable certificate"
+3 means a document assigning a special assessment lien from the
+4 county to a capital provider in an amount not to exceed the
+5 amount of the special assessment financing for the term of
+6 the special assessment lien;
+7 V. "special assessment financing" means the total
+8 amount of financing provided by a capital provider pursuant
+9 to a special assessment financing agreement, including
+10 accrual of interest and penalties, charges, fees and costs of
+11 enforcement of a special assessment lien;
+12 W. "special assessment financing agreement" means
+13 a contract pursuant to which a property owner agrees to repay
+14 a capital provider for special assessment financing and to
+15 the terms of the special assessment financing, including the
+16 treatment of prepayment and partial payment of a special
+17 assessment, servicing arrangements, the payment of any
+finance charges and fees and accrual of interest and
+18
+penalties;
+19
+X. "special assessment lien" means a lien recorded
+20
+in all counties in which the eligible property is located to
+21
+secure the special assessment, which assessment remains on
+22
+the property until paid in full;
+23
+Y. "uniform assessment documents" means the forms
+24
+of county ordinance, special assessment agreement, special
+25 HB 165
+Page 5
+1 assessment lien, special assessment assignable certificate
+2 and other model documents prepared by the department pursuant
+3 to the Improvement Special Assessment Act for use in the
+4 program; provided, however, the department shall not mandate
+5 a form of special financing agreement that shall be supplied
+6 by a capital provider; and
+7 Z. "water conservation improvement" means
+8 measures, equipment or devices that decrease the consumption
+9 of or demand for water, address safe drinking water or
+10 eliminate lead from water used for drinking or cooking."
+11 SECTION 2. Section 4-55D-5 NMSA 1978 (being Laws 2023,
+12 Chapter 150, Section 5) is amended to read:
+13 "4-55D-5. IMPOSITION OF SPECIAL ASSESSMENT--AMOUNT--
+14 COLLECTION--SPECIAL ASSESSMENT LIEN CREATED.--
+15 A. Upon entering into a special assessment
+16 agreement, the county shall record a special assessment lien
+17 on the subject property in the real property records of the
+18 county in which the property is located.
+19 B. The recording of the lien pursuant to
+Subsection A of this section shall include:
+20
+(1) the legal description of the property;
+21
+(2) the county assessor's parcel number of
+22
+the property;
+23
+(3) the grantor's name, which shall be the
+24
+same as the property owner on the special assessment
+25 HB 165
+Page 6
+1 agreement;
+2 (4) the grantee's name, which shall be the
+3 county in which the property is located;
+4 (5) the date on which the special assessment
+5 lien was created;
+6 (6) the principal amount of the special
+7 assessment lien;
+8 (7) the terms and length of the special
+9 assessment lien; and
+10 (8) a copy of the special assessment
+11 agreement.
+12 C. A special assessment lien shall be effective
+13 during the period in which the special assessment is imposed
+14 and shall have priority superior to all liens, claims and
+15 titles except a lien for general ad valorem property taxes or
+16 an improvement district lien that is coequal to property
+17 taxes.
+D. A special assessment lien runs with the land,
+18
+and that portion of the special assessment lien that has not
+19
+yet become due is not accelerated or eliminated by
+20
+foreclosure of the special assessment lien or any lien for
+21
+taxes or assessments imposed by the state, a local government
+22
+or taxing district against the property on which the special
+23
+assessment lien is imposed.
+24
+E. A special assessment shall be paid by a
+25 HB 165
+Page 7
+1 property owner unless the property is under an industrial
+2 revenue bond lease, in which case the lessee shall pay the
+3 special assessment, but under no circumstance shall a local
+4 government pay a special assessment.
+5 F. Upon entering into a special assessment
+6 agreement, the county shall execute and record a special
+7 assessment assignable certificate from the county to the
+8 appropriate capital provider. The special assessment
+9 assignable certificate shall convey the special assessment
+10 lien including all of the characteristics described in
+11 Subsection B of this section. The holder of the special
+12 assessment assignable certificate shall be solely responsible
+13 for the billing and collection of the related special
+14 assessment and for the enforcement of the special assessment
+15 lien.
+16 G. When the underlying special assessment
+17 financing has been satisfied, the special assessment shall be
+removed from the property and the county shall record a
+18
+release of the special assessment lien."
+19
+
+Section 2:
+SECTION 3. Section 4-55D-7 NMSA 1978 (being Laws 2023,
+20
+Chapter 150, Section 7) is amended to read:
+21
+"4-55D-7. SPECIAL ASSESSMENT FINANCING.--
+22
+A. Special assessment financing shall be provided
+23
+by capital providers and disbursed directly by capital
+24
+providers to fund eligible improvements subject to a special
+25 HB 165
+Page 8
+1 assessment financing agreement.
+2 B. A county or municipality shall not be liable in
+3 any way for the debt of the property owner or the debt of the
+4 special assessment financing, shall not be a third-party
+5 obligor and shall not pledge or lend its credit to the
+6 property owner, the capital provider or the special
+7 assessment financing."
+8 SECTION 4. Section 4-55D-10 NMSA 1978 (being Laws 2023,
+9 Chapter 150, Section 10) is amended to read:
+10 "4-55D-10. IMMUNITY.--Nothing in the Improvement
+11 Special Assessment Act shall be interpreted to pledge, offer
+12 or encumber the full faith and credit of a county or
+13 municipality." HB 165
+Page 9
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+
+================================================================================
+
+Raw Text:
+1 AN ACT
+2 RELATING TO LOCAL GOVERNMENT; CLARIFYING THAT SPECIAL
+3 ASSESSMENTS UNDER THE IMPROVEMENT SPECIAL ASSESSMENT ACT
+4 SHALL BE PAID BY PROPERTY OWNERS OR LESSEES WHO HOLD
+5 INDUSTRIAL REVENUE BOND LEASES.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. Section 4-55D-2 NMSA 1978 (being Laws 2023,
+9 Chapter 150, Section 2) is amended to read:
+10 "4-55D-2. DEFINITIONS.--As used in the Improvement
+11 Special Assessment Act:
+12 A. "capital provider" means a private entity or
+13 its designee, successor or assigns that finances or
+14 refinances an eligible improvement pursuant to the
+15 Improvement Special Assessment Act;
+16 B. "county" means a county, including an H class
+17 county;
+18 C. "county ordinance" means an ordinance adopted
+19 by a county pursuant to the Improvement Special Assessment
+Act to establish a program within a designated region;
+20
+D. "department" means the economic development
+21
+department;
+22
+E. "eligible improvement" means a permanently
+23
+affixed energy efficiency improvement, renewable energy
+24
+improvement, water conservation improvement or resiliency
+25 HB 165
+Page 1
+
+1 improvement installed on eligible property as part of the
+2 construction or renovation of the property;
+3 F. "eligible property" means:
+4 (1) any privately owned commercial,
+5 industrial, agricultural or multifamily residential real
+6 property with five or more dwelling units, including real
+7 property owned by an entity formally recognized as tax exempt
+8 pursuant to Internal Revenue Code of 1986, as amended; or
+9 (2) property interests of a lessee under an
+10 industrial revenue bond lease for commercial, industrial,
+11 agricultural or multifamily residential real property with
+12 five or more dwelling units;
+13 G. "energy efficiency improvement" means measures,
+14 equipment or devices that result in a decrease in consumption
+15 of or demand for electricity or natural gas;
+16 H. "industrial revenue bond lease" means the lease
+17 of property by a county or municipality to a person in
+connection with a project under the authority of the
+18
+Industrial Revenue Bond Act or the County Industrial Revenue
+19
+Bond Act;
+20
+I. "lessee" means a lessee under an industrial
+21
+revenue bond lease;
+22
+J. "local government" means a municipality, county
+23
+or other general function governmental unit established by
+24
+state law;
+25 HB 165
+Page 2
+
+1 K. "municipal" or "municipality" means any
+2 incorporated city, town or village, whether incorporated
+3 under general act, special act or special charter,
+4 incorporated counties and H class counties;
+5 L. "program" means a special assessment program
+6 that utilizes and conforms to the program guidebook and
+7 uniform special assessment documents established by the
+8 department pursuant to the Improvement Special Assessment
+9 Act;
+10 M. "program administrator" means a person
+11 designated by a county to administer a program; "program
+12 administrator" may be the department, the county or a third
+13 party; provided that the administration procedures used
+14 conform to the requirements of the Improvement Special
+15 Assessment Act;
+16 N. "program guidebook" means a comprehensive
+17 document created by the department pursuant to the
+Improvement Special Assessment Act, including uniform
+18
+assessment documents, appropriate guidelines, specifications,
+19
+approval criteria and other standard forms consistent with
+20
+the administration of a program that are not detailed in the
+21
+Improvement Special Assessment Act;
+22
+O. "project application" means an application
+23
+submitted to a program administrator to demonstrate that a
+24
+proposed project qualifies for special assessment financing
+25 HB 165
+Page 3
+
+1 pursuant to a program;
+2 P. "region" means a geographical area as
+3 designated by a county pursuant to the Improvement Special
+4 Assessment Act;
+5 Q. "renewable energy improvement" means an energy
+6 system that generates energy by use of low- or zero-emissions
+7 generation technology with substantial long-term production,
+8 including solar, wind and geothermal resources, fuel cell
+9 equipment using an electrochemical process to generate
+10 electricity and heat or biomass resources;
+11 R. "resiliency improvement" means improvements
+12 that increase the resilience of a property, including air
+13 quality, flood mitigation, storm water management, energy
+14 storage and microgrids, alternative vehicle charging
+15 infrastructure, fire or wind resistance or inundation
+16 adaptation;
+17 S. "special assessment" means a voluntary
+assessment imposed on a property pursuant to the Improvement
+18
+Special Assessment Act for the total amount of special
+19
+assessment financing together with interest, penalties, fees
+20
+and charges related thereto;
+21
+T. "special assessment agreement" means a
+22
+voluntary agreement of a property owner to allow a county to
+23
+place an assessment on the owner's property to repay special
+24
+assessment financing pursuant to the Improvement Special
+25 HB 165
+Page 4
+
+1 Assessment Act;
+2 U. "special assessment assignable certificate"
+3 means a document assigning a special assessment lien from the
+4 county to a capital provider in an amount not to exceed the
+5 amount of the special assessment financing for the term of
+6 the special assessment lien;
+7 V. "special assessment financing" means the total
+8 amount of financing provided by a capital provider pursuant
+9 to a special assessment financing agreement, including
+10 accrual of interest and penalties, charges, fees and costs of
+11 enforcement of a special assessment lien;
+12 W. "special assessment financing agreement" means
+13 a contract pursuant to which a property owner agrees to repay
+14 a capital provider for special assessment financing and to
+15 the terms of the special assessment financing, including the
+16 treatment of prepayment and partial payment of a special
+17 assessment, servicing arrangements, the payment of any
+finance charges and fees and accrual of interest and
+18
+penalties;
+19
+X. "special assessment lien" means a lien recorded
+20
+in all counties in which the eligible property is located to
+21
+secure the special assessment, which assessment remains on
+22
+the property until paid in full;
+23
+Y. "uniform assessment documents" means the forms
+24
+of county ordinance, special assessment agreement, special
+25 HB 165
+Page 5
+
+1 assessment lien, special assessment assignable certificate
+2 and other model documents prepared by the department pursuant
+3 to the Improvement Special Assessment Act for use in the
+4 program; provided, however, the department shall not mandate
+5 a form of special financing agreement that shall be supplied
+6 by a capital provider; and
+7 Z. "water conservation improvement" means
+8 measures, equipment or devices that decrease the consumption
+9 of or demand for water, address safe drinking water or
+10 eliminate lead from water used for drinking or cooking."
+11 SECTION 2. Section 4-55D-5 NMSA 1978 (being Laws 2023,
+12 Chapter 150, Section 5) is amended to read:
+13 "4-55D-5. IMPOSITION OF SPECIAL ASSESSMENT--AMOUNT--
+14 COLLECTION--SPECIAL ASSESSMENT LIEN CREATED.--
+15 A. Upon entering into a special assessment
+16 agreement, the county shall record a special assessment lien
+17 on the subject property in the real property records of the
+18 county in which the property is located.
+19 B. The recording of the lien pursuant to
+Subsection A of this section shall include:
+20
+(1) the legal description of the property;
+21
+(2) the county assessor's parcel number of
+22
+the property;
+23
+(3) the grantor's name, which shall be the
+24
+same as the property owner on the special assessment
+25 HB 165
+Page 6
+
+1 agreement;
+2 (4) the grantee's name, which shall be the
+3 county in which the property is located;
+4 (5) the date on which the special assessment
+5 lien was created;
+6 (6) the principal amount of the special
+7 assessment lien;
+8 (7) the terms and length of the special
+9 assessment lien; and
+10 (8) a copy of the special assessment
+11 agreement.
+12 C. A special assessment lien shall be effective
+13 during the period in which the special assessment is imposed
+14 and shall have priority superior to all liens, claims and
+15 titles except a lien for general ad valorem property taxes or
+16 an improvement district lien that is coequal to property
+17 taxes.
+D. A special assessment lien runs with the land,
+18
+and that portion of the special assessment lien that has not
+19
+yet become due is not accelerated or eliminated by
+20
+foreclosure of the special assessment lien or any lien for
+21
+taxes or assessments imposed by the state, a local government
+22
+or taxing district against the property on which the special
+23
+assessment lien is imposed.
+24
+E. A special assessment shall be paid by a
+25 HB 165
+Page 7
+
+1 property owner unless the property is under an industrial
+2 revenue bond lease, in which case the lessee shall pay the
+3 special assessment, but under no circumstance shall a local
+4 government pay a special assessment.
+5 F. Upon entering into a special assessment
+6 agreement, the county shall execute and record a special
+7 assessment assignable certificate from the county to the
+8 appropriate capital provider. The special assessment
+9 assignable certificate shall convey the special assessment
+10 lien including all of the characteristics described in
+11 Subsection B of this section. The holder of the special
+12 assessment assignable certificate shall be solely responsible
+13 for the billing and collection of the related special
+14 assessment and for the enforcement of the special assessment
+15 lien.
+16 G. When the underlying special assessment
+17 financing has been satisfied, the special assessment shall be
+removed from the property and the county shall record a
+18
+release of the special assessment lien."
+19
+SECTION 3. Section 4-55D-7 NMSA 1978 (being Laws 2023,
+20
+Chapter 150, Section 7) is amended to read:
+21
+"4-55D-7. SPECIAL ASSESSMENT FINANCING.--
+22
+A. Special assessment financing shall be provided
+23
+by capital providers and disbursed directly by capital
+24
+providers to fund eligible improvements subject to a special
+25 HB 165
+Page 8
+
+1 assessment financing agreement.
+2 B. A county or municipality shall not be liable in
+3 any way for the debt of the property owner or the debt of the
+4 special assessment financing, shall not be a third-party
+5 obligor and shall not pledge or lend its credit to the
+6 property owner, the capital provider or the special
+7 assessment financing."
+8 SECTION 4. Section 4-55D-10 NMSA 1978 (being Laws 2023,
+9 Chapter 150, Section 10) is amended to read:
+10 "4-55D-10. IMMUNITY.--Nothing in the Improvement
+11 Special Assessment Act shall be interpreted to pledge, offer
+12 or encumber the full faith and credit of a county or
+13 municipality." HB 165
+Page 9
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25

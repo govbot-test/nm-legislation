@@ -1,0 +1,16 @@
+Title: SB0156
+Official Title: 
+Number of Sections: 1
+Source: versions - introduced version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SB0156 SENATE BILL 156 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Pete Campos AN ACT RELATING TO TAXATION; REMOVING THE INCOME CAP FOR THE SOCIAL SECURITY INCOME EXEMPTION PURSUANT TO THE INCOME TAX ACT. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. Section 7-2-5.14 NMSA 1978 (being Laws 2022, Chapter 47, Section 7) is amended to read: "7-2-5.14. EXEMPTION--SOCIAL SECURITY INCOME.--An individual may claim an exemption in an amount equal to the amount included in adjusted gross income pursuant to Section 86 of the Internal Revenue Code, as that section may be amended or renumbered, of income includable except for this exemption in net income [provided that the individual's adjusted gross income shall not exceed: A. seventy-five thousand dollars ($75,000) for married individuals filing separate returns; B. one hundred fifty thousand dollars ($150,000) for heads of household, surviving spouses and married individuals filing joint returns; and C. one hundred thousand dollars ($100,000) for single individuals]." SECTION 2. APPLICABILITY.--The provisions of this act apply to taxable years beginning on or after January 1, 2026. - 2 -
+
+
+================================================================================
+
+Raw Text:
+SB0156 SENATE BILL 156 57th legislature - STATE OF NEW MEXICO - second session, 2026 INTRODUCED BY Pete Campos AN ACT RELATING TO TAXATION; REMOVING THE INCOME CAP FOR THE SOCIAL SECURITY INCOME EXEMPTION PURSUANT TO THE INCOME TAX ACT. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO: SECTION 1. Section 7-2-5.14 NMSA 1978 (being Laws 2022, Chapter 47, Section 7) is amended to read: "7-2-5.14. EXEMPTION--SOCIAL SECURITY INCOME.--An individual may claim an exemption in an amount equal to the amount included in adjusted gross income pursuant to Section 86 of the Internal Revenue Code, as that section may be amended or renumbered, of income includable except for this exemption in net income [provided that the individual's adjusted gross income shall not exceed: A. seventy-five thousand dollars ($75,000) for married individuals filing separate returns; B. one hundred fifty thousand dollars ($150,000) for heads of household, surviving spouses and married individuals filing joint returns; and C. one hundred thousand dollars ($100,000) for single individuals]." SECTION 2. APPLICABILITY.--The provisions of this act apply to taxable years beginning on or after January 1, 2026. - 2 -
